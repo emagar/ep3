@@ -113,6 +113,15 @@ Tarea: reconstruya el argumento deductivamente válido del paper (à la Schwartz
 -   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
 
 
+# Partidos y control de la agenda
+
+-   Cox y McCubbins (2005) *Setting the Agenda*
+    -   cap. 1 "Introduction" 13pp.
+    -   cap. 2 "Procedural cartel theory" 18pp.
+    -   cap. 3 "Modeling agenda power" 14pp.
+    -   cap. 4 "The primacy of Reed's rules in House organization" 28pp.
+
+
 # Herestética
 
 -   Shepsle (2003) "Losers in politics" 9 pp.
