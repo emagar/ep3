@@ -1,18 +1,19 @@
+Departamento de Ciencia Política ITAM, primavera 2019
+Elección Pública III
+Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
+Jueves 16:00&#x2013;19:00, salón 306
+
 *Objetivo*: Este es último curso de la serie de elección pública del programa de ciencia política.  El hilo conductor del primero fue la conducta estratégica y su análisis; del segundo, el proceso de agregación de preferencias de la elección social. El de este curso es la negociación.  Buscaremos un mejor entendimiento de cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas, para lo cual revisaremos modelos canónicos de negociación en democracia.  El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
-*Horas de oficina*: Martes y jueves de 17:45 a 18:30, o con cita.  
+*Horas de oficina*: Lunes y miércoles de 13:00 a 14:00, o con cita.  
 
 *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*No habrá clases*
+*Días de asueto*: 2019-02-04, 2019-03-18, 2019-04-15 2019-04-17 y 2019-05-01
 
--   2018-10-30 mar y 2018-11-01 jue (Muertos)
-
-Última clase
-
--   2018-12-06 jue
+*Semestre termina*: 2019-05-17
 
 ---
 
