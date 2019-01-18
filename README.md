@@ -1,7 +1,35 @@
-Departamento de Ciencia Política ITAM, primavera 2019
-Elección Pública III
-Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)
-Jueves 16:00&#x2013;19:00, salón 306
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Departamento de Ciencia Política ITAM, primavera 2019</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Elección Pública III</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Jueves 16:00&#x2013;19:00, salón 306</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
 
 *Objetivo*: Este es último curso de la serie de elección pública del programa de ciencia política.  El hilo conductor del primero fue la conducta estratégica y su análisis; del segundo, el proceso de agregación de preferencias de la elección social. El de este curso es la negociación.  Buscaremos un mejor entendimiento de cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas, para lo cual revisaremos modelos canónicos de negociación en democracia.  El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
