@@ -23,11 +23,6 @@
 <tr>
 <td class="org-left">Jueves 16:00&#x2013;19:00, salón 306</td>
 </tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
 </tbody>
 </table>
 
@@ -55,7 +50,11 @@
 
 # Argumentos y validez deductiva
 
--   Schwartz, [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
+-   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
+-   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+-   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
+
+**Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
 
 # Prueba de hipótesis y regresión lineal, un repaso
@@ -68,7 +67,21 @@
 
 -   Bawn y Rosenbluth (2006) "Short versus long coalitions" 15 pp.
 
-Tarea: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la Shively).
+Tarea: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la 
+Shively).
+
+
+# Coordinación electoral
+
+-   Duverger, Riker, Bogdanor
+-   Cox, Making Votes Count
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
 
 
 # Negociación y coaliciones en regímenes parlamentarios
@@ -175,19 +188,6 @@ Tarea: reconstruya el argumento deductivamente válido del paper (à la Schwartz
     -   cap. 2 Japan into comparative perspective 20 pp.
     -   cap. 3 Theory of dynastic candidate selection 34 pp.
     -   cap. 5 Inherited incumbency advantage 25 pp.
-
-
-# Coordinación electoral
-
--   Duverger, Riker, Bogdanor
--   Cox, Making Votes Count
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
 
 
 # Redistritación
