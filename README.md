@@ -61,13 +61,9 @@
 
 -   Shively (1974) *The Craft of Political Research*, 
     -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
-
-
-# Aplicación de lo anterior
-
 -   Bawn y Rosenbluth (2006) "Short versus long coalitions" 15 pp.
 
-Tarea: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la 
+**Tarea**: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la 
 Shively).
 
 
