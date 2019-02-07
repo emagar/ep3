@@ -16,7 +16,7 @@
 
 
 <tr>
-<td class="org-left">Profesor: Eric Magar Meurs [emagar@itam.mx](mailto:emagar@itam.mx)</td>
+<td class="org-left">Profesor: Eric Magar Meurs (emagar@itam.mx)</td>
 </tr>
 
 
@@ -34,7 +34,9 @@
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2019-02-04, 2019-03-18, 2019-04-15 2019-04-17 y 2019-05-01
+*Día de asueto*: 2019-04-18 (semana santa)
+
+*No habrá clase*: 2019-04-04 (tengo un viaje)
 
 *Semestre termina*: 2019-05-17
 
@@ -69,7 +71,6 @@ Shively).
 
 # Coordinación electoral
 
--   Duverger, Riker, Bogdanor
 -   Cox, Making Votes Count
     -   cap. 2 Duverger's propositions 21 pp.
     -   cap. 3 On electoral systems 32 pp.
@@ -78,6 +79,17 @@ Shively).
     -   cap. 7 Some concluding comments on strategic voting 10 pp.
     -   cap. 8 Strategic voting, party labels, and entry  24 pp.
     -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+-   Duverger, Riker, Bogdanor
+
+
+# El mercado de los votos
+
+-   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
+-   Díaz Cayeros, Estévez y Magaloni (2016) *The Political Logic of Poverty Relief*
+    -   Introduction 20 pp.
+    -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
+-   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
+-   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
 # Negociación y coaliciones en regímenes parlamentarios
@@ -193,14 +205,6 @@ Shively).
 -   Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
 -   Magar et al polGeo
 -   Engstrom Partisan gerrymandering
-
-
-# El mercado de los votos
-
--   Díaz Cayeros, Estévez y Magaloni (2009) "The Political Manipulation of Pronasol Transfers" 33 pp.
--   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
--   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
--   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot". American Political Science Review, 102(1):19–31, 2008
 
 
 # La teoría de la empresa
