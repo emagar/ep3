@@ -52,9 +52,12 @@ print(d, width = Inf)
 # ordena columnas
 d <- d[, c("edo", "mun", "edon", "munn", "fch06", "rmp06", "amlo06", "pna06", "asdc06", "efec06", "lisnom06", "pena12", "jvm12", "amlo12", "panal12", "efec12", "lisnom12", "pan15", "pri15", "prd15", "pvem15", "pt15", "mc15", "panal15", "morena15", "ph15", "pes15", "pri.pvem15", "prd.pt15", "indep115", "indep215", "efec15", "lisnom15", "rac18", "jam18", "amlo18", "bronco18", "efec18", "lisnom18")]
 
+# primeras diferencias
+d$amlo1218 <- d$amlo18/d$efec18 - d$amlo12/d$efec12
+summary(d$amlo1218)
+quantile(d$amlo1218, na.rm = TRUE)
 
 
-rm(tmp, tmp2)
 
 
 
