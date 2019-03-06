@@ -82,38 +82,11 @@ Shively).
 -   Duverger, Riker, Bogdanor
 
 
-# El mercado de los votos
-
--   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
--   Díaz Cayeros, Estévez y Magaloni (2016) *The Political Logic of Poverty Relief*
-    -   Introduction 20 pp.
-    -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
--   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
--   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
-
-
-# Negociación y coaliciones en regímenes parlamentarios
-
--   Laver y Shepsle (1990) "Coalitions and cabinet government" 18 pp.
--   Laver y Shepsle (1996) *Making and Breaking Governments*
-    -   cap. 1 "Theory, institutions, and government formation" 15 pp.
-    -   cap. 2 "The social context of government formation" 25 pp.
-    -   cap. 3 "The government formation process" 16 pp.
-    -   cap. 4 "Government equilibrium" 29 pp.
-    -   cap. 5 "Strong parties" 33 pp.
-    -   cap. 6 "Two cases: Germany 1987; Ireland 1992-3" 22 pp.
-    -   cap. 7 "Theoretical implications, data, and operationalization" 11 pp.
-    -   cap. 8 "Exploring the model: a comparative perspective" 16 pp.
-    -   cap. 9 "A multivariate investigation of portfolio allocation" 19 pp.
--   Bawn y Rosenbluth (2006) "Short versus long coalitions" 15 pp.
--   Huber (1996) "The vote of confidence in parliamentary democracies" 14 pp.
--   Heller (2001) "Making policy stick: why government gets what it wants in multiparty Parliaments" 19 pp.
-
-
 # El modelo de política espacial
 
 -   Grofman (1989) "The geometry of majority rule"
--   Romer y Rosenthal (1979), "The Elusive Median Voter," pp. 143-70. Romer y Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" 17 pp.
+-   Romer y Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" 17 pp.
+-   Romer y Rosenthal (1979), "The Elusive Median Voter," pp. 143-70.
 
 
 # Aplicaciones del modelo de manipulación de la agenda
@@ -148,6 +121,34 @@ Shively).
     -   cap. 7 "Sophisticated voting and agenda manipulation" 20 pp.
 -   Estévez, Magar y Rosas (2008) "Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE" 15 pp.
 -   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
+
+
+# El mercado de los votos
+
+-   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
+-   Díaz Cayeros, Estévez y Magaloni (2016) *The Political Logic of Poverty Relief*
+    -   Introduction 20 pp.
+    -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
+-   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
+-   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
+
+
+# Negociación y coaliciones en regímenes parlamentarios
+
+-   Laver y Shepsle (1990) "Coalitions and cabinet government" 18 pp.
+-   Laver y Shepsle (1996) *Making and Breaking Governments*
+    -   cap. 1 "Theory, institutions, and government formation" 15 pp.
+    -   cap. 2 "The social context of government formation" 25 pp.
+    -   cap. 3 "The government formation process" 16 pp.
+    -   cap. 4 "Government equilibrium" 29 pp.
+    -   cap. 5 "Strong parties" 33 pp.
+    -   cap. 6 "Two cases: Germany 1987; Ireland 1992-3" 22 pp.
+    -   cap. 7 "Theoretical implications, data, and operationalization" 11 pp.
+    -   cap. 8 "Exploring the model: a comparative perspective" 16 pp.
+    -   cap. 9 "A multivariate investigation of portfolio allocation" 19 pp.
+-   Bawn y Rosenbluth (2006) "Short versus long coalitions" 15 pp.
+-   Huber (1996) "The vote of confidence in parliamentary democracies" 14 pp.
+-   Heller (2001) "Making policy stick: why government gets what it wants in multiparty Parliaments" 19 pp.
 
 
 # Herestética
