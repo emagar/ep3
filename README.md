@@ -6,7 +6,7 @@
 </colgroup>
 <tbody>
 <tr>
-<td class="org-left">Departamento de Ciencia Política ITAM, primavera 2019</td>
+<td class="org-left">Departamento de Ciencia Política ITAM, otoño 2019</td>
 </tr>
 
 
@@ -21,24 +21,24 @@
 
 
 <tr>
-<td class="org-left">Jueves 16:00&#x2013;19:00, salón 306</td>
+<td class="org-left">Jueves 17:30&#x2013;19:00, salón 305</td>
 </tr>
 </tbody>
 </table>
 
-*Objetivo*: Este es último curso de la serie de elección pública del programa de ciencia política.  El hilo conductor del primero fue la conducta estratégica y su análisis; del segundo, el proceso de agregación de preferencias de la elección social. El de este curso es la negociación.  Buscaremos un mejor entendimiento de cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas, para lo cual revisaremos modelos canónicos de negociación en democracia.  El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
+*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo se toman decisiones en democracia. El hilo conductor que engloba los temas que tocaremos es la negociación. En la parte sustancial, tras un repaso de la elección social buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
-*Horas de oficina*: Lunes y miércoles de 13:00 a 14:00, o con cita.  
+*Horas de oficina*: Lunes y miércoles de 17:00 a 17:30, o con cita.  
 
 *Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Día de asueto*: 2019-04-18 (semana santa)
+*Días de asueto*: 2019-09-16 y 2019-11-18
 
-*No habrá clase*: 2019-04-04 (tengo un viaje)
+*No habrá clase*: 2019-10-21 y 2019-10-23 (tengo un viaje)
 
-*Semestre termina*: 2019-05-17
+*Semestre termina*: 2019-12-06
 
 ---
 
@@ -69,6 +69,14 @@
 Shively).
 
 
+# La elección social
+
+-   Riker, Liberalism against populism
+-   Schwartz
+-   Shepsle
+-   Riker
+
+
 # Coordinación electoral
 
 -   Cox, Making Votes Count
@@ -84,7 +92,6 @@ Shively).
 
 # El modelo de política espacial
 
--   Grofman (1989) "The geometry of majority rule"
 -   Romer y Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" 17 pp.
 -   Romer y Rosenthal (1979), "The Elusive Median Voter," pp. 143-70.
 
