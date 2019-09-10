@@ -71,15 +71,22 @@ Shively).
 
 # La elección social
 
--   Riker, Liberalism against populism
+-   Szpiro, *Numbers Rule* (2010)
+    -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
+    -   cap. 5 [The Officer](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf) 13 pp.
+    -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
+    -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
+-   Riker, [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) (1981)
+    -   Prefacio
+    -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
+    -   cap. 2 Different choices from identical values 20 pp.
+-   Riker, dismal science
 -   Schwartz
--   Shepsle
--   Riker
 
 
 # Coordinación electoral
 
--   Cox, Making Votes Count
+-   Cox, *Making Votes Count* (1997)
     -   cap. 2 Duverger's propositions 21 pp.
     -   cap. 3 On electoral systems 32 pp.
     -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
@@ -208,6 +215,10 @@ Shively).
 
 # Redistritación
 
+-   Szpiro, *Numbers Rule* (2010)
+    -   cap. 9 The Founding Fathers 15 pp.
+    -   cap. 10 The Ivy Leaguers 31 pp.
+    -   cap. 12 The Quotarians 15 pp.
 -   Lujambio y Vives (2008) "From politics to technicalities: Mexican redistricting" 12 pp.
 -   McDonald (2008) "United States redistricting: comparative look at the 50 states" 18 pp.
 -   Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
