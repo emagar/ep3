@@ -69,7 +69,7 @@
 Shively).
 
 
-# La elección social
+# Elección social I
 
 -   Szpiro, *Numbers Rule* (2010)
     -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
@@ -80,27 +80,27 @@ Shively).
     -   Prefacio
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
--   Riker, dismal science
--   Schwartz
 
 
-# Coordinación electoral
+# Representación política
 
--   Cox, *Making Votes Count* (1997)
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
--   Duverger, Riker, Bogdanor
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy) 22 pp.
 
 
-# El modelo de política espacial
+# La teoría espacial del voto (Elección social II)
 
+Plott
+McKelvey
+Schwartz
+Shepsle sie
+Riker dismal
+
+
+# El control de la agenda
+
+-   un texto que describa la recaudación y gasto en school districts
 -   Romer y Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" 17 pp.
--   Romer y Rosenthal (1979), "The Elusive Median Voter," pp. 143-70.
 
 
 # Aplicaciones del modelo de manipulación de la agenda
@@ -165,6 +165,19 @@ Shively).
 -   Heller (2001) "Making policy stick: why government gets what it wants in multiparty Parliaments" 19 pp.
 
 
+# Coordinación electoral
+
+-   Cox, *Making Votes Count* (1997)
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+-   Duverger, Riker, Bogdanor
+
+
 # Herestética
 
 -   Shepsle (2003) "Losers in politics" 9 pp.
@@ -177,11 +190,6 @@ Shively).
 # Causalidad y método comparativo
 
 -   Holland "Fundamental problem of causal inference"
-
-
-# Representación política
-
--   Pitkin
 
 
 # Cuotas de género y acción afirmativa
