@@ -90,11 +90,7 @@ Shively).
 
 # La teoría espacial del voto (Elección social II)
 
-Plott
-McKelvey
-Schwartz
-Shepsle sie
-Riker dismal
+-   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
 # El control de la agenda
