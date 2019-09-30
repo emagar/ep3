@@ -95,8 +95,8 @@ Shively).
 
 # El control de la agenda
 
--   un texto que describa la recaudación y gasto en school districts
--   Romer y Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" 17 pp.
+-   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
+-   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
 # Aplicaciones del modelo de manipulación de la agenda
