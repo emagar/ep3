@@ -1,30 +1,10 @@
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+ITAM Depto. de ciencia política, primavera 2020
 
+**Elección Pública III**
 
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">Departamento de Ciencia Política ITAM, primavera 2020</td>
-</tr>
+Profesor: Eric Magar Meurs [emagar@gmail.com](mailto:emagar@itam.mx)
 
-
-<tr>
-<td class="org-left">Elección Pública III</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Profesor: Eric Magar Meurs (emagar@itam.mx)</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Jueves 17:30&#x2013;19:00, salón 110</td>
-</tr>
-</tbody>
-</table>
+Lunes y miércoles 17:30&#x2013;19:00, salón 110
 
 *Objetivo*: El último curso de la serie de elección pública del programa estudia cómo se toman decisiones en democracia. El hilo conductor que engloba los temas que tocaremos es la negociación. En la parte sustancial, tras un repaso de la elección social buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
@@ -36,7 +16,7 @@
 
 *Días de asueto*: 2020-02-03, 2020-03-16, 2020-04-06 y 2020-04-08. 
 
-*No habrá clase*: 2020-02-24 ni 2020-02-26 (coordinaré reposiciones pronto). 
+*No habrá clase*: 2020-02-24 ni 2020-02-26. 
 
 *Semestre termina*: 2020-05-22
 
