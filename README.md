@@ -30,23 +30,20 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-# Argumentos y validez deductiva
-
--   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
--   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
--   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
-
-**Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
-
-
 # Prueba de hipótesis y regresión lineal, un repaso
 
 -   Shively (1974) *The Craft of Political Research*, 
     -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+-   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+
+
+# Argumentos y validez deductiva
+
+-   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
+-   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
 -   Bawn y Rosenbluth ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) (2006)  15 pp.
 
-**Tarea**: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la 
-Shively).
+**Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
 
 # Elección social I
