@@ -37,11 +37,35 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
+# Negociación y coaliciones en regímenes parlamentarios
+
+-   Laver y Shepsle (1990)  ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
+-   Laver y Shepsle (1996) *Making and Breaking Governments*
+    -   cap. 1 "Theory, institutions, and government formation" 15 pp.
+    -   cap. 2 "The social context of government formation" 25 pp.
+    -   cap. 3 "The government formation process" 16 pp.
+    -   cap. 4 "Government equilibrium" 29 pp.
+    -   cap. 5 "Strong parties" 33 pp.
+    -   cap. 6 "Two cases: Germany 1987; Ireland 1992-3" 22 pp.
+    -   cap. 7 "Theoretical implications, data, and operationalization" 11 pp.
+    -   cap. 8 "Exploring the model: a comparative perspective" 16 pp.
+    -   cap. 9 "A multivariate investigation of portfolio allocation" 19 pp.
+-   Bawn y Rosenbluth (2006)  ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
+-   Miller y Schofield (2003) "Activists and Partisan Realignment in the United States" 16 pp.
+-   Huber (1996) "The vote of confidence in parliamentary democracies" 14 pp.
+-   Heller (2001) "Making policy stick: why government gets what it wants in multiparty Parliaments" 19 pp.
+
+
+# Representación política
+
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy) 22 pp.
+
+
 # Argumentos y validez deductiva
 
 -   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
 -   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
--   Bawn y Rosenbluth ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) (2006)  15 pp.
 
 **Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
@@ -57,12 +81,6 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
     -   Prefacio
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
-
-
-# Representación política
-
--   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy) 22 pp.
 
 
 # La teoría espacial del voto (Elección social II)
@@ -118,24 +136,6 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
     -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
 -   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
-
-
-# Negociación y coaliciones en regímenes parlamentarios
-
--   Laver y Shepsle (1990) "Coalitions and cabinet government" 18 pp.
--   Laver y Shepsle (1996) *Making and Breaking Governments*
-    -   cap. 1 "Theory, institutions, and government formation" 15 pp.
-    -   cap. 2 "The social context of government formation" 25 pp.
-    -   cap. 3 "The government formation process" 16 pp.
-    -   cap. 4 "Government equilibrium" 29 pp.
-    -   cap. 5 "Strong parties" 33 pp.
-    -   cap. 6 "Two cases: Germany 1987; Ireland 1992-3" 22 pp.
-    -   cap. 7 "Theoretical implications, data, and operationalization" 11 pp.
-    -   cap. 8 "Exploring the model: a comparative perspective" 16 pp.
-    -   cap. 9 "A multivariate investigation of portfolio allocation" 19 pp.
--   Bawn y Rosenbluth (2006) "Short versus long coalitions" 15 pp.
--   Huber (1996) "The vote of confidence in parliamentary democracies" 14 pp.
--   Heller (2001) "Making policy stick: why government gets what it wants in multiparty Parliaments" 19 pp.
 
 
 # Coordinación electoral
