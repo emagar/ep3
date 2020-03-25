@@ -53,7 +53,7 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 -   Bawn y Rosenbluth (2006)  ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
--   Miller y Schofield (2003) "Activists and Partisan Realignment in the United States" 16 pp.
+-   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
 # Representación política
