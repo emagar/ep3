@@ -14,7 +14,9 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2020-02-03, 2020-03-16, 2020-04-06 y 2020-04-08. 
+*Días de asueto*: 2020-02-03, 2020-03-16. 
+
+*Semana Santa*: Por estar guardados en casa, tendremos clase los días 2020-04-06 y 2020-04-08 para reponer clases perdidas. 
 
 *No habrá clase*: 2020-02-24 ni 2020-02-26. 
 
@@ -60,14 +62,6 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy) 22 pp.
-
-
-# Argumentos y validez deductiva
-
--   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
--   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
-
-**Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
 
 # Elección social I
@@ -183,6 +177,14 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 -   Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
 -   Magar y Moreno, Reelección en Coahuila.
 -   Cox (1987) *The Efficient Secret*.
+
+
+# Argumentos y validez deductiva
+
+-   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
+-   Grossman y Lewis (2014) ["Administrative Unit Proliferation"](https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf) 22 pp.
+
+**Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
 
 # Dinastías
