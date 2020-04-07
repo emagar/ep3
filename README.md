@@ -61,7 +61,7 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 # Representación política
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy) 22 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
 # Elección social I
