@@ -10,7 +10,7 @@ Lunes y miércoles 17:30&#x2013;19:00, salón 110
 
 *Horas de oficina*: Lunes y miércoles de 13:30 a 14:00, o con cita.  
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.  
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. <del>A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.</del> Por causa del confinamiento, he cambiado las reglas de evaluación. Eliminaré la participación de la calificación final porque las sesiones virtuales la dificultan. Y, de sus calificaciones de los trabajos parcial y final, asignaré la mejor de las dos como calificación del curso. 
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
