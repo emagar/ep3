@@ -1,26 +1,24 @@
-ITAM Depto. de ciencia política, primavera 2020
+ITAM Depto. de ciencia política, otoño 2020
 
 **Elección Pública III**
 
 Profesor: Eric Magar Meurs [emagar@gmail.com](mailto:emagar@itam.mx)
 
-Lunes y miércoles 17:30&#x2013;19:00, salón 110
+Lunes y miércoles 11:00&#x2013;14:30, salón 311
 
-*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo se toman decisiones en democracia. El hilo conductor que engloba los temas que tocaremos es la negociación. En la parte sustancial, tras un repaso de la elección social buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
+*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que engloba la temática del curso es la negociación. En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
-*Horas de oficina*: Lunes y miércoles de 13:30 a 14:00, o con cita.  
+*Horas de oficina*: Mientras dure el confinamiento, haga cita por mail. Cuando volvamos a las clases presenciales, serán los lunes y miércoles de 16:30 a 17:30, o con cita.  
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. <del>A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.</del> Por causa del confinamiento, he cambiado las reglas de evaluación. Eliminaré la participación de la calificación final porque las sesiones virtuales la dificultan. Y, de sus calificaciones de los trabajos parcial y final, asignaré la mejor de las dos como calificación del curso. 
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2020-02-03, 2020-03-16. 
+*Días de asueto*: 2020-09-16, 2020-11-02, 2020-11-16. 
 
-*Semana Santa*: Por estar guardados en casa, tendremos clase los días 2020-04-06 y 2020-04-08 para reponer clases perdidas. 
+*No habrá clase*: 2020-11-04.
 
-*No habrá clase*: 2020-02-24 ni 2020-02-26. 
-
-*Semestre termina*: 2020-05-22
+*Semestre termina*: 2020-12-02
 
 ---
 
