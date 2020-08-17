@@ -30,6 +30,12 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
+# Representación política
+
+-   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
+-   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
+
+
 # Prueba de hipótesis y regresión lineal, un repaso
 
 -   Shively (1974) *The Craft of Political Research*, 
@@ -54,12 +60,6 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
-
-
-# Representación política
-
--   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
--   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
 # Elección social I
