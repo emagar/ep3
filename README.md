@@ -36,6 +36,19 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
+# Elección social I
+
+-   Szpiro, *Numbers Rule* (2010)
+    -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
+    -   cap. 5 [The Officer](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf) 13 pp.
+    -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
+    -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
+-   Riker, [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) (1981)
+    -   Prefacio 2 pp.
+    -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
+    -   cap. 2 Different choices from identical values 20 pp.
+
+
 # Prueba de hipótesis y regresión lineal, un repaso
 
 -   Shively (1974) *The Craft of Political Research*, 
@@ -60,19 +73,6 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
-
-
-# Elección social I
-
--   Szpiro, *Numbers Rule* (2010)
-    -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
-    -   cap. 5 [The Officer](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf) 13 pp.
-    -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
-    -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
--   Riker, [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) (1981)
-    -   Prefacio
-    -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
-    -   cap. 2 Different choices from identical values 20 pp.
 
 
 # La teoría espacial del voto (Elección social II)
