@@ -49,6 +49,19 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
     -   cap. 2 Different choices from identical values 20 pp.
 
 
+# Coordinación electoral
+
+-   Cox, *Making Votes Count* (1997)
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+-   Duverger, Riker, Bogdanor
+
+
 # Prueba de hipótesis y regresión lineal, un repaso
 
 -   Shively (1974) *The Craft of Political Research*, 
@@ -128,19 +141,6 @@ Lunes y miércoles 11:00&#x2013;14:30, salón 311
     -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
 -   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
-
-
-# Coordinación electoral
-
--   Cox, *Making Votes Count* (1997)
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
--   Duverger, Riker, Bogdanor
 
 
 # Herestética
