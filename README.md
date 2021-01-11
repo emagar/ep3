@@ -1,24 +1,24 @@
-ITAM Depto. de ciencia política, otoño 2020
+ITAM Depto. de ciencia política, primavera 2021
 
 **Elección Pública III**
 
-Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx) ha estado fallando, por favor use [emagar@gmail.com](mailto:emagar@itam.mx))
+Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 13:00&#x2013;14:30, salón 311
+Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 *Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que engloba la temática del curso es la negociación. En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
 *Horas de oficina*: Mientras dure el confinamiento, haga cita por mail. Cuando volvamos a las clases presenciales, serán los lunes y miércoles de 16:30 a 17:30, o con cita.  
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. <del>A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.</del> Por causa del confinamiento he cambiado las reglas de evaluación. De los trabajos, el mejor calificado contará 60% de la calificación final, el otro 30%, y la participación 10%.  
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2020-09-16, 2020-11-02, 2020-11-16. 
+*Días de asueto*: 2021-02-01, 2021-03-15, 2021-03-29, 2021-03-31. 
 
-*No habrá clase*: 2020-11-04.
+*No habrá clase*: 2021-02-15, 2021-02-17.
 
-*Semestre termina*: 2020-12-02
+*Última clase*: 2021-05-12.
 
 ---
 
