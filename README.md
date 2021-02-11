@@ -49,6 +49,41 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 2 Different choices from identical values 20 pp.
 
 
+# El control de la agenda
+
+-   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
+-   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
+
+
+# Aplicaciones del modelo de manipulación de la agenda
+
+-   Gerber (1996) "Legislative response to the threat of popular initiatives" 30 pp.
+-   Kiewiet y McCubbins (1988) "Presidential influence on congressional appropriations" 14 pp.
+-   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
+-   Krehbiel (1998) *Pivotal Politics*
+    -   cap. 2, "A theory" 29 pp.
+-   Cameron (2000) *Veto Bargaining*
+    -   cap. 1, "Divided government and interbranch bargaining" 32 pp.
+    -   cap. 2, "A natural history of the veto" 35 pp.
+    -   cap. 4, "Models of veto bargaining" 40 pp.
+    -   cap. 5, "Explaining the patterns" 29 pp.
+    -   cap. 6, "Testing the models" 27 pp.
+-   Magar (2007) "A model of executive vetoes with testable predictions" 27 pp.
+-   Magar (2003) "The incidence of executive vetoes in comparative perspective: the case of US state governments" 31 pp.
+-   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
+-   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
+-   Tsebelis *Veto Players*.
+-   Morgenstern y Nacif, algunos capítulos.
+-   Talbert y Potosky (2002) "Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting" 27 pp.
+-   Sinclair on rules (Brady+McCubbins).
+-   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
+
+
+# La teoría espacial del voto (Elección social II)
+
+-   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
+
+
 # Coordinación electoral
 
 -   Cox, *Making Votes Count* (1997)
@@ -86,41 +121,6 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
-
-
-# La teoría espacial del voto (Elección social II)
-
--   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
-
-
-# El control de la agenda
-
--   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
--   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
-
-
-# Aplicaciones del modelo de manipulación de la agenda
-
--   Gerber (1996) "Legislative response to the threat of popular initiatives" 30 pp.
--   Kiewiet y McCubbins (1988) "Presidential influence on congressional appropriations" 14 pp.
--   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
--   Krehbiel (1998) *Pivotal Politics*
-    -   cap. 2, "A theory" 29 pp.
--   Cameron (2000) *Veto Bargaining*
-    -   cap. 1, "Divided government and interbranch bargaining" 32 pp.
-    -   cap. 2, "A natural history of the veto" 35 pp.
-    -   cap. 4, "Models of veto bargaining" 40 pp.
-    -   cap. 5, "Explaining the patterns" 29 pp.
-    -   cap. 6, "Testing the models" 27 pp.
--   Magar (2007) "A model of executive vetoes with testable predictions" 27 pp.
--   Magar (2003) "The incidence of executive vetoes in comparative perspective: the case of US state governments" 31 pp.
--   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
--   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
--   Tsebelis *Veto Players*.
--   Morgenstern y Nacif, algunos capítulos.
--   Talbert y Potosky (2002) "Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting" 27 pp.
--   Sinclair on rules (Brady+McCubbins).
--   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
 # Ideología
