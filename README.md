@@ -57,7 +57,6 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 # Aplicaciones del modelo de manipulación de la agenda
 
--   Gerber (1996) "Legislative response to the threat of popular initiatives" 30 pp.
 -   Kiewiet y McCubbins (1988) "Presidential influence on congressional appropriations" 14 pp.
 -   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
 -   Krehbiel (1998) *Pivotal Politics*
