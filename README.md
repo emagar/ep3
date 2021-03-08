@@ -80,6 +80,13 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
+# Prueba de hipótesis y regresión lineal, un repaso
+
+-   Shively (1974) *The Craft of Political Research*, 
+    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+-   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+
+
 # La teoría espacial del voto (Elección social II)
 
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
@@ -96,13 +103,6 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 8 Strategic voting, party labels, and entry  24 pp.
     -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
 -   Duverger, Riker, Bogdanor
-
-
-# Prueba de hipótesis y regresión lineal, un repaso
-
--   Shively (1974) *The Craft of Political Research*, 
-    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
--   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
 # Negociación y coaliciones en regímenes parlamentarios
