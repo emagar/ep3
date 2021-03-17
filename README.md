@@ -66,22 +66,21 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 # Aplicaciones del modelo de manipulación de la agenda
 
--   Kiewiet y McCubbins (1988) "Presidential influence on congressional appropriations" 14 pp.
+-   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet+mccubbinsAJPS1988.pdf)" 14 pp.
 -   Cameron (2000) *Veto Bargaining*
-    -   cap. 1, "Divided government and interbranch bargaining" 32 pp.
+    -   cap. 1, "[Divided government and interbranch bargaining](https://github.com/emagar/ep3/blob/master/lecturas/cameronCap1.pdf)" 32 pp.
     -   cap. 2, "A natural history of the veto" 35 pp.
-    -   cap. 4, "Models of veto bargaining" 40 pp.
+    -   cap. 4, "[Models of veto bargaining](https://github.com/emagar/ep3/blob/master/lecturas/cameronCap4.pdf)" 40 pp.
     -   cap. 5, "Explaining the patterns" 29 pp.
     -   cap. 6, "Testing the models" 27 pp.
--   Magar (2007) "A model of executive vetoes with testable predictions" 27 pp.
--   Magar (2003) "The incidence of executive vetoes in comparative perspective: the case of US state governments" 31 pp.
+-   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. ([apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 -   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
 -   Krehbiel (1998) *Pivotal Politics*
     -   cap. 2, "A theory" 29 pp.
 -   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
 -   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
 -   Tsebelis *Veto Players*.
--   Morgenstern y Nacif, algunos capítulos.
+-   Morgenstern y Nacif.
 -   Talbert y Potosky (2002) "Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting" 27 pp.
 -   Sinclair on rules (Brady+McCubbins).
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
