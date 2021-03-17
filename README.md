@@ -57,12 +57,16 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
+# Prueba de hipótesis y regresión lineal, un repaso
+
+-   Shively (1974) *The Craft of Political Research*, 
+    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+-   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+
+
 # Aplicaciones del modelo de manipulación de la agenda
 
 -   Kiewiet y McCubbins (1988) "Presidential influence on congressional appropriations" 14 pp.
--   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
--   Krehbiel (1998) *Pivotal Politics*
-    -   cap. 2, "A theory" 29 pp.
 -   Cameron (2000) *Veto Bargaining*
     -   cap. 1, "Divided government and interbranch bargaining" 32 pp.
     -   cap. 2, "A natural history of the veto" 35 pp.
@@ -71,6 +75,9 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 6, "Testing the models" 27 pp.
 -   Magar (2007) "A model of executive vetoes with testable predictions" 27 pp.
 -   Magar (2003) "The incidence of executive vetoes in comparative perspective: the case of US state governments" 31 pp.
+-   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
+-   Krehbiel (1998) *Pivotal Politics*
+    -   cap. 2, "A theory" 29 pp.
 -   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
 -   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
 -   Tsebelis *Veto Players*.
@@ -80,29 +87,9 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
-# Prueba de hipótesis y regresión lineal, un repaso
-
--   Shively (1974) *The Craft of Political Research*, 
-    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
--   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
-
-
 # La teoría espacial del voto (Elección social II)
 
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
-
-
-# Coordinación electoral
-
--   Cox, *Making Votes Count* (1997)
-    -   cap. 2 Duverger's propositions 21 pp.
-    -   cap. 3 On electoral systems 32 pp.
-    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
-    -   cap. 5 Strategic voting in multimember systems 24 pp.
-    -   cap. 7 Some concluding comments on strategic voting 10 pp.
-    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
-    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
--   Duverger, Riker, Bogdanor
 
 
 # Negociación y coaliciones en regímenes parlamentarios
@@ -265,4 +252,17 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   O'Donnell Delegative Democracy
 -   Carey y Shugart
 -   Amorim Neto en Brasil
+
+
+# Coordinación electoral
+
+-   Cox, *Making Votes Count* (1997)
+    -   cap. 2 Duverger's propositions 21 pp.
+    -   cap. 3 On electoral systems 32 pp.
+    -   cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+    -   cap. 5 Strategic voting in multimember systems 24 pp.
+    -   cap. 7 Some concluding comments on strategic voting 10 pp.
+    -   cap. 8 Strategic voting, party labels, and entry  24 pp.
+    -   cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp.
+-   Duverger, Riker, Bogdanor
 
