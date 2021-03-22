@@ -74,7 +74,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 5, "Explaining the patterns" 29 pp.
     -   cap. 6, "Testing the models" 27 pp.
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. ([apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
--   Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp.
+-   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/182014.proof.pdf) 13 pp.
+
 -   Krehbiel (1998) *Pivotal Politics*
     -   cap. 2, "A theory" 29 pp.
 -   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
