@@ -22,6 +22,29 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 ---
 
+**Trabajo: Estudio del veto presidencial en México desde 2000**
+
+-   Parcial (en forma individual):
+    -   Identifique y describa las leyes vetadas en el periodo. La información puede obtenerse en la página web de la *Gaceta parlamentaria* de la cámara de diputados.  Haga un seguimiento del proceso en ambas cámaras del Congreso. (El término que usa el art. 72 es "observaciones del ejecutivo".) (c) Algunos factores que conviene investigar incluyen la temática de la ley vetada, la temporalidad de los eventos, la autoría de las iniciativas y cómo se negoció en las cámaras, etc.
+    
+    -   La entrega del reporte es el 19 de abril antes de clase.
+
+-   Final (posible hacerlo en equipos de dos o tres personas)
+    -   Describa las instituciones relevantes para la negociación de legislación entre el Congreso y el ejecutivo. (No olvide revisar el fallo de la SCJN de mayo 2005 en materia presupuestal.)
+    
+    -   Haga hincapié en la naturaleza de las observaciones del ejecutivo y en la respuesta de los legisladores a cada veto. Un indicador de posible interés es el cambio en las votaciones nominales del proyecto antes y después del veto.
+    
+    -   Relacione los patrones que descubra con las instituciones y el sistema de partidos, así como con las teorías de negociación bajo separación de poderes. ¿Hay evidencia de que la incertidumbre o el position-taking sean mejores explicaciones del fenómeno? ¿Qué puede decirse del veto correctivo? Se le ocurre una teoría alternativa para explicar el veto en México?
+    
+    -   Algunas referencias de utilidad: 
+        -   Alemán, Eduardo y Thomas Schwartz (2006) "Presidential vetoes in Latin American constitutions", Journal of Theoretical Politics 18(1), pp. 98&#x2013;120.
+        -   Cameron, Charles M. (2000) Veto Bargaining: Presidents and the Politics of Negative Power, Nueva York: Cambridge University Press.
+        -   Magar, Eric (2014) "The veto as electoral stunt: EITM and test with subnational comparative data", presentado en la Executive Politics Conference, Washington University, St. Louis.
+        -   Magar, Eric y Jeffrey A. Weldon (2001) "The Paradox of the Veto in Mexico (1917&#x2013;1997)", presentado en la reunión anual de la Latin American Studies Association, Washington DC.
+        -   Romer, Thomas y Howard Rosenthal (1978) "Political resource allocation, controlled agendas, and the status quo" Public Choice vol. 33 pp. 27&#x2013;44.
+
+---
+
 
 # Los modelos y el método científico
 
