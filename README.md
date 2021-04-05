@@ -25,7 +25,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 **Trabajo: Estudio del veto presidencial en México desde 2000**
 
 -   Parcial (en forma individual):
-    -   Identifique y describa las leyes vetadas en el periodo. La información puede obtenerse en la página web de la *Gaceta parlamentaria* de la cámara de diputados.  Haga un seguimiento del proceso en ambas cámaras del Congreso. (El término que usa el art. 72 es "observaciones del ejecutivo".) (c) Algunos factores que conviene investigar incluyen la temática de la ley vetada, la temporalidad de los eventos, la autoría de las iniciativas y cómo se negoció en las cámaras, etc.
+    -   Identifique y describa las leyes vetadas en el periodo. La información puede obtenerse en la página web de la *Gaceta parlamentaria* de la cámara de diputados. (El término que usa el art. 72 es "observaciones del ejecutivo".) Algunos factores que conviene investigar incluyen la temática de la ley vetada, la temporalidad de los eventos, la autoría de las iniciativas y cómo se negoció en las cámaras, etc.
     
     -   La entrega del reporte es el 19 de abril antes de clase.
 
