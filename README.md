@@ -20,6 +20,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 *Última clase*: 2021-05-12.
 
+*Examen final*: 2021-05-27 16:00-19:00. 
+
 ---
 
 **Trabajo: Estudio del veto presidencial en México desde 2000**
