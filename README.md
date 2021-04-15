@@ -98,6 +98,16 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
+# Ideología
+
+-   Poole y Rosenthal (1997) *Congress*,
+    -   cap. 1 "The liberal/conservative structure" 8 pp.
+    -   cap. 2 "The spatial model and Congressional voting" 16 pp.
+    -   cap. 7 "Sophisticated voting and agenda manipulation" 20 pp.
+-   Estévez, Magar y Rosas (2008) "Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE" 15 pp.
+-   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
+
+
 # La teoría espacial del voto (Elección social II)
 
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
@@ -120,16 +130,6 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
-
-
-# Ideología
-
--   Poole y Rosenthal (1997) *Congress*,
-    -   cap. 1 "The liberal/conservative structure" 8 pp.
-    -   cap. 2 "The spatial model and Congressional voting" 16 pp.
-    -   cap. 7 "Sophisticated voting and agenda manipulation" 20 pp.
--   Estévez, Magar y Rosas (2008) "Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE" 15 pp.
--   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
 
 
 # El mercado de los votos
