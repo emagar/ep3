@@ -31,6 +31,13 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     
     -   La entrega del reporte es el 19 de abril antes de clase.
 
+-   Final (posible hacerlo en equipos de dos o tres personas):
+    -   Describa las instituciones relevantes para la negociación de legislación entre el Congreso y el ejecutivo. (No olvide revisar el fallo de la SCJN de mayo 2005 en materia presupuestal.)
+    
+    -   Haga hincapié en la naturaleza de las observaciones del ejecutivo y en la respuesta de los legisladores a cada veto. Un indicador de posible interés es el cambio en las votaciones nominales del proyecto antes y después del veto.
+    
+    -   Relacione los patrones que descubra con las instituciones y el sistema de partidos, así como con las teorías de negociación bajo separación de poderes. ¿Hay evidencia de que la incertidumbre o el position-taking sean mejores explicaciones del fenómeno? ¿Qué puede decirse del veto "correctivo"? ¿Puede esbozarse una teoría alternativa para explicar el veto en México?
+
 ---
 
 
