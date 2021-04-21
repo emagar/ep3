@@ -108,12 +108,12 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 # Ideología
 
 -   Poole y Rosenthal (1997) *Congress*,
-    -   cap. 1 "The liberal/conservative structure" 8 pp.
+    -   cap. 1 ["The liberal/conservative structure"](https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCaps1y2.pdf) 8 pp.
     -   cap. 2 "The spatial model and Congressional voting" 16 pp.
-    -   cap. 7 "Sophisticated voting and agenda manipulation" 20 pp.
+    -   cap. 7 [""Sophisticated voting and agenda manipulation"](https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCap7.pdf) 20 pp.
 -   Estévez, Magar y Rosas (2008) "Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE" 15 pp.
 -   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
--   Talbert y Potoski (2002) "Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting" 28 pp.
+-   Talbert y Potoski (2002) ["Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting"](https://github.com/emagar/ep3/blob/master/lecturas/talbert+potoskiAgendaJoP2002.pdf) 28 pp.
 
 
 # La teoría espacial del voto (Elección social II)
