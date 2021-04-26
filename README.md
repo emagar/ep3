@@ -111,9 +111,10 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 1 ["The liberal/conservative structure"](https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCaps1y2.pdf) 8 pp.
     -   cap. 2 "The spatial model and Congressional voting" 16 pp.
     -   cap. 7 [""Sophisticated voting and agenda manipulation"](https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCap7.pdf) 20 pp.
--   Estévez, Magar y Rosas (2008) "Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE" 15 pp.
--   Magar, Magaloni y Sánchez (2010) "No self-control: the dimensional structure of the Mexican Supreme Court" 22 pp.
+-   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
+-   Magar, Magaloni y Sánchez (2010) ["No self-control: the dimensional structure of the Mexican Supreme Court"](https://github.com/emagar/ep3/blob/master/lecturas/magar+magaloni+sanchezPaper04APSA.pdf) 22 pp.
 -   Talbert y Potoski (2002) ["Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting"](https://github.com/emagar/ep3/blob/master/lecturas/talbert+potoskiAgendaJoP2002.pdf) 28 pp.
+-   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
 # La teoría espacial del voto (Elección social II)
