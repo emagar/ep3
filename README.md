@@ -98,10 +98,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 2, "A theory" 29 pp.
 -   Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
 -   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
--   Tsebelis *Veto Players*.
--   Morgenstern y Nacif.
--   Talbert y Potosky (2002) "Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting" 27 pp.
--   Sinclair on rules (Brady+McCubbins).
+
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
