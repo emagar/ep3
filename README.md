@@ -1,30 +1,30 @@
 
 # &Iacute;ndice
 
-1.  [Los modelos y el método científico](#org002e726)
-2.  [Representación política](#orgc4a58d4)
-3.  [Elección social I](#orgf4375d8)
-4.  [El control de la agenda](#org54d2a5b)
-5.  [Prueba de hipótesis y regresión lineal, un repaso](#org72eb2d4)
-6.  [Aplicaciones del modelo de manipulación de la agenda](#orgbfa72af)
-7.  [Ideología](#org241568b)
-8.  [La teoría espacial del voto (Elección social II)](#org1571af2)
-9.  [Negociación y coaliciones en regímenes parlamentarios](#orgb6482dd)
-10. [El mercado de los votos](#org964f694)
-11. [Herestética](#org9c75fc1)
-12. [Causalidad y método comparativo](#orgd407c77)
-13. [Cuotas de género y acción afirmativa](#org26755ae)
-14. [La reelección legislativa](#orgdac1b82)
-15. [Argumentos y validez deductiva](#org524b7cc)
-16. [Dinastías](#orga3ff319)
-17. [Redistritación](#org6d75f48)
-18. [La teoría de la empresa](#org77bd145)
-19. [Negociación en el Congreso estadounidense](#org72a450c)
-20. [Los partidos como agentes de gobierno](#org0b2fe1d)
-21. [La delegación: piedra nodal del gobierno y de la democracia](#orgfecf3a6)
-22. [Proceso legislativo](#orgd1ec3dc)
-23. [Decretos](#org0ef3227)
-24. [Coordinación electoral](#org70a9f88)
+1.  [Los modelos y el método científico](#orgebcf80c)
+2.  [Representación política](#org62b5d75)
+3.  [Elección social I](#org581b11c)
+4.  [El control de la agenda](#org1757f57)
+5.  [Prueba de hipótesis y regresión lineal, un repaso](#org477c70a)
+6.  [Aplicaciones del modelo de manipulación de la agenda](#org2b4559b)
+7.  [Ideología](#orga889ce4)
+8.  [La teoría espacial del voto (Elección social II)](#org9437f8b)
+9.  [Negociación y coaliciones en regímenes parlamentarios](#org7338b47)
+10. [El mercado de los votos](#org3a322db)
+11. [Herestética](#orgd140a89)
+12. [Causalidad y método comparativo](#org4ff6e93)
+13. [Cuotas de género y acción afirmativa](#orgf673bf6)
+14. [La reelección legislativa](#org2aaea39)
+15. [Argumentos y validez deductiva](#org2b50418)
+16. [Dinastías](#orgf861c7c)
+17. [Redistritación](#org74cc6d6)
+18. [La teoría de la empresa](#orgb3f317a)
+19. [Negociación en el Congreso estadounidense](#orga2c7e76)
+20. [Los partidos como agentes de gobierno](#org9d8808d)
+21. [La delegación: piedra nodal del gobierno y de la democracia](#org38bb83b)
+22. [Proceso legislativo](#org728a8ba)
+23. [Decretos](#orgace3d9e)
+24. [Coordinación electoral](#orgbffc580)
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -69,7 +69,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 ---
 
 
-<a id="org002e726"></a>
+<a id="orgebcf80c"></a>
 
 # Los modelos y el método científico
 
@@ -78,7 +78,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgc4a58d4"></a>
+<a id="org62b5d75"></a>
 
 # Representación política
 
@@ -86,7 +86,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
-<a id="orgf4375d8"></a>
+<a id="org581b11c"></a>
 
 # Elección social I
 
@@ -101,7 +101,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org54d2a5b"></a>
+<a id="org1757f57"></a>
 
 # El control de la agenda
 
@@ -111,7 +111,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="org72eb2d4"></a>
+<a id="org477c70a"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso
 
@@ -120,7 +120,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="orgbfa72af"></a>
+<a id="org2b4559b"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda
 
@@ -140,9 +140,10 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
 
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
+-   Magar (sin fecha) ["Unidimensionalidad inducida por la estructura"](https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf) 4 pp.
 
 
-<a id="org241568b"></a>
+<a id="orga889ce4"></a>
 
 # Ideología
 
@@ -156,7 +157,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org1571af2"></a>
+<a id="org9437f8b"></a>
 
 # La teoría espacial del voto (Elección social II)
 
@@ -165,7 +166,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgb6482dd"></a>
+<a id="org7338b47"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios
 
@@ -184,7 +185,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 
 
-<a id="org964f694"></a>
+<a id="org3a322db"></a>
 
 # El mercado de los votos
 
@@ -196,7 +197,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org9c75fc1"></a>
+<a id="orgd140a89"></a>
 
 # Herestética
 
@@ -207,14 +208,14 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 7 "Pliny the Younger and parliamentary law" 11 pp.
 
 
-<a id="orgd407c77"></a>
+<a id="org4ff6e93"></a>
 
 # Causalidad y método comparativo
 
 -   Holland "Fundamental problem of causal inference"
 
 
-<a id="org26755ae"></a>
+<a id="orgf673bf6"></a>
 
 # Cuotas de género y acción afirmativa
 
@@ -223,7 +224,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   India
 
 
-<a id="orgdac1b82"></a>
+<a id="org2aaea39"></a>
 
 # La reelección legislativa
 
@@ -238,7 +239,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox (1987) *The Efficient Secret*.
 
 
-<a id="org524b7cc"></a>
+<a id="org2b50418"></a>
 
 # Argumentos y validez deductiva
 
@@ -248,7 +249,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 **Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
 
-<a id="orga3ff319"></a>
+<a id="orgf861c7c"></a>
 
 # Dinastías
 
@@ -259,7 +260,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 5 Inherited incumbency advantage 25 pp.
 
 
-<a id="org6d75f48"></a>
+<a id="org74cc6d6"></a>
 
 # Redistritación
 
@@ -274,7 +275,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Engstrom Partisan gerrymandering
 
 
-<a id="org77bd145"></a>
+<a id="orgb3f317a"></a>
 
 # La teoría de la empresa
 
@@ -284,7 +285,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Fama, "Agency Problems and the Theory of the Firm," pp. 196-208.
 
 
-<a id="org72a450c"></a>
+<a id="orga2c7e76"></a>
 
 # Negociación en el Congreso estadounidense
 
@@ -297,7 +298,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Fiorina, "The Decline of Collective Responsibility in American Politics," pp. 25-44.
 
 
-<a id="org0b2fe1d"></a>
+<a id="org9d8808d"></a>
 
 # Los partidos como agentes de gobierno
 
@@ -314,7 +315,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
-<a id="orgfecf3a6"></a>
+<a id="org38bb83b"></a>
 
 # La delegación: piedra nodal del gobierno y de la democracia
 
@@ -324,7 +325,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Raustiala (2004) "Police patrols and fire alarms in the NAAEC" 25 pp.
 
 
-<a id="orgd1ec3dc"></a>
+<a id="org728a8ba"></a>
 
 # Proceso legislativo
 
@@ -336,7 +337,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Palanza y Sin, veto.
 
 
-<a id="org0ef3227"></a>
+<a id="orgace3d9e"></a>
 
 # Decretos
 
@@ -345,7 +346,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Amorim Neto en Brasil
 
 
-<a id="org70a9f88"></a>
+<a id="orgbffc580"></a>
 
 # Coordinación electoral
 
