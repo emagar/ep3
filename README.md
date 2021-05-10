@@ -1,3 +1,31 @@
+
+# &Iacute;ndice
+
+1.  [Los modelos y el método científico](#org002e726)
+2.  [Representación política](#orgc4a58d4)
+3.  [Elección social I](#orgf4375d8)
+4.  [El control de la agenda](#org54d2a5b)
+5.  [Prueba de hipótesis y regresión lineal, un repaso](#org72eb2d4)
+6.  [Aplicaciones del modelo de manipulación de la agenda](#orgbfa72af)
+7.  [Ideología](#org241568b)
+8.  [La teoría espacial del voto (Elección social II)](#org1571af2)
+9.  [Negociación y coaliciones en regímenes parlamentarios](#orgb6482dd)
+10. [El mercado de los votos](#org964f694)
+11. [Herestética](#org9c75fc1)
+12. [Causalidad y método comparativo](#orgd407c77)
+13. [Cuotas de género y acción afirmativa](#org26755ae)
+14. [La reelección legislativa](#orgdac1b82)
+15. [Argumentos y validez deductiva](#org524b7cc)
+16. [Dinastías](#orga3ff319)
+17. [Redistritación](#org6d75f48)
+18. [La teoría de la empresa](#org77bd145)
+19. [Negociación en el Congreso estadounidense](#org72a450c)
+20. [Los partidos como agentes de gobierno](#org0b2fe1d)
+21. [La delegación: piedra nodal del gobierno y de la democracia](#orgfecf3a6)
+22. [Proceso legislativo](#orgd1ec3dc)
+23. [Decretos](#org0ef3227)
+24. [Coordinación electoral](#org70a9f88)
+
 ITAM Depto. de ciencia política, primavera 2021
 
 **Elección Pública III**
@@ -10,7 +38,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 *Horas de oficina*: Mientras dure el confinamiento, haga cita por mail. Cuando volvamos a las clases presenciales, serán los lunes y miércoles de 17:30 a 18:00, o con cita.  
 
-*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
+*Evaluación*: Habrá un examen parcial y otro final. En su momento anunciaré el formato. <del>A priori, cada uno contará 40% de la calificación final y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor.</del> Por causa del confinamiento, he cambiado las reglas de evaluación. El trabajo parcial pesará 20%, el final 70% y la participación 10% de la calificación final. 
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
@@ -41,6 +69,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 ---
 
 
+<a id="org002e726"></a>
+
 # Los modelos y el método científico
 
 -   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
@@ -48,11 +78,15 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
+<a id="orgc4a58d4"></a>
+
 # Representación política
 
 -   Pitkin (2004) ["Representation and Democracy: Uneasy Alliance"](https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf) 8 pp.
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
+
+<a id="orgf4375d8"></a>
 
 # Elección social I
 
@@ -67,6 +101,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 2 Different choices from identical values 20 pp.
 
 
+<a id="org54d2a5b"></a>
+
 # El control de la agenda
 
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
@@ -75,12 +111,16 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
+<a id="org72eb2d4"></a>
+
 # Prueba de hipótesis y regresión lineal, un repaso
 
 -   Shively (1974) *The Craft of Political Research*, 
     -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
+
+<a id="orgbfa72af"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda
 
@@ -102,6 +142,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
+<a id="org241568b"></a>
+
 # Ideología
 
 -   Poole y Rosenthal (1997) *Congress*,
@@ -114,12 +156,16 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
+<a id="org1571af2"></a>
+
 # La teoría espacial del voto (Elección social II)
 
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
+
+<a id="orgb6482dd"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios
 
@@ -138,6 +184,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 
 
+<a id="org964f694"></a>
+
 # El mercado de los votos
 
 -   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
@@ -148,6 +196,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
+<a id="org9c75fc1"></a>
+
 # Herestética
 
 -   Shepsle (2003) "Losers in politics" 9 pp.
@@ -157,10 +207,14 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 7 "Pliny the Younger and parliamentary law" 11 pp.
 
 
+<a id="orgd407c77"></a>
+
 # Causalidad y método comparativo
 
 -   Holland "Fundamental problem of causal inference"
 
+
+<a id="org26755ae"></a>
 
 # Cuotas de género y acción afirmativa
 
@@ -168,6 +222,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Piscopo
 -   India
 
+
+<a id="orgdac1b82"></a>
 
 # La reelección legislativa
 
@@ -182,6 +238,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox (1987) *The Efficient Secret*.
 
 
+<a id="org524b7cc"></a>
+
 # Argumentos y validez deductiva
 
 -   Schwartz (1980) [The Art of Logical Reasoning (extractos)](https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf), pp. 3-31, 133-158.
@@ -189,6 +247,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 **Tarea**: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
 
+
+<a id="orga3ff319"></a>
 
 # Dinastías
 
@@ -198,6 +258,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 3 Theory of dynastic candidate selection 34 pp.
     -   cap. 5 Inherited incumbency advantage 25 pp.
 
+
+<a id="org6d75f48"></a>
 
 # Redistritación
 
@@ -212,6 +274,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Engstrom Partisan gerrymandering
 
 
+<a id="org77bd145"></a>
+
 # La teoría de la empresa
 
 -   Smith, The Wealth of Nations (extractos), pp. 33-43.
@@ -219,6 +283,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Alchian y Demsetz, "Production, Information Costs, and Economic Organization," pp. 111-134.
 -   Fama, "Agency Problems and the Theory of the Firm," pp. 196-208.
 
+
+<a id="org72a450c"></a>
 
 # Negociación en el Congreso estadounidense
 
@@ -230,6 +296,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Baron y Ferejohn (1989) "Bargaining in legislatures" 26 pp.
 -   Fiorina, "The Decline of Collective Responsibility in American Politics," pp. 25-44.
 
+
+<a id="org0b2fe1d"></a>
 
 # Los partidos como agentes de gobierno
 
@@ -246,6 +314,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
+<a id="orgfecf3a6"></a>
+
 # La delegación: piedra nodal del gobierno y de la democracia
 
 -   Kiewiet y McCubbins (1991) *The Logic of Delegation*,
@@ -253,6 +323,8 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   McCubbins y Schwartz (1984) "Congressional oversight overlooked: police patrols vs. fire alarms" 15 pp.
 -   Raustiala (2004) "Police patrols and fire alarms in the NAAEC" 25 pp.
 
+
+<a id="orgd1ec3dc"></a>
 
 # Proceso legislativo
 
@@ -264,12 +336,16 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Palanza y Sin, veto.
 
 
+<a id="org0ef3227"></a>
+
 # Decretos
 
 -   O'Donnell Delegative Democracy
 -   Carey y Shugart
 -   Amorim Neto en Brasil
 
+
+<a id="org70a9f88"></a>
 
 # Coordinación electoral
 
