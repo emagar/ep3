@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Instrucciones del trabajo final](#orge428d6e)
-    1.  [Parcial (en forma individual):](#org159a5dd)
-    2.  [Final (posible hacerlo en equipos de dos o tres personas):](#org0b8d0ba)
-    3.  [Reglas para las presentaciones y el debate](#org2e56019)
-2.  [Los modelos y el método científico](#org31b5d1b)
-3.  [Representación política](#orga5f4524)
-4.  [Elección social I](#org4c859f8)
-5.  [El control de la agenda](#org12e76f6)
-6.  [Prueba de hipótesis y regresión lineal, un repaso](#orge3035c6)
-7.  [Aplicaciones del modelo de manipulación de la agenda](#org7b4423c)
-8.  [Ideología](#orgbd0c198)
-9.  [La teoría espacial del voto (Elección social II)](#orga199475)
-10. [Los partidos como agentes de gobierno](#org58fcef2)
-11. [Más temas](#org26e5665)
+1.  [Instrucciones del trabajo final](#orgf5e58f2)
+    1.  [Parcial (en forma individual):](#org6ad68e2)
+    2.  [Final (posible hacerlo en equipos de dos o tres personas):](#org2975be7)
+    3.  [Reglas para las presentaciones y el debate](#orgaaed294)
+2.  [Los modelos y el método científico](#orge565cd7)
+3.  [Representación política](#orgce58d26)
+4.  [Elección social I](#org7cb3a63)
+5.  [El control de la agenda](#org511a119)
+6.  [Prueba de hipótesis y regresión lineal, un repaso](#org0c09247)
+7.  [Aplicaciones del modelo de manipulación de la agenda](#orge882ba5)
+8.  [Ideología](#orgb26ae55)
+9.  [La teoría espacial del voto (Elección social II)](#org732b29c)
+10. [Los partidos como agentes de gobierno](#org88b2267)
+11. [Más temas](#org7cd4713)
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -43,14 +43,14 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 ---
 
 
-<a id="orge428d6e"></a>
+<a id="orgf5e58f2"></a>
 
 # Instrucciones del trabajo final
 
 **Estudio del veto presidencial en México desde 2000**
 
 
-<a id="org159a5dd"></a>
+<a id="org6ad68e2"></a>
 
 ## Parcial (en forma individual):
 
@@ -59,7 +59,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   La entrega del reporte es el 19 de abril antes de clase.
 
 
-<a id="org0b8d0ba"></a>
+<a id="org2975be7"></a>
 
 ## Final (posible hacerlo en equipos de dos o tres personas):
 
@@ -70,7 +70,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Relacione los patrones que descubra con las instituciones y el sistema de partidos, así como con las teorías de negociación bajo separación de poderes. ¿Hay evidencia de que la incertidumbre o el position-taking sean mejores explicaciones del fenómeno? ¿Qué puede decirse del veto "correctivo"? ¿Puede esbozarse una teoría alternativa para explicar el veto en México?
 
 
-<a id="org2e56019"></a>
+<a id="orgaaed294"></a>
 
 ## Reglas para las presentaciones y el debate
 
@@ -85,30 +85,31 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 <colgroup>
 <col  class="org-left" />
+
+<col  class="org-left" />
 </colgroup>
 <thead>
 <tr>
-<th scope="col" class="org-left">Bloque A (25 minutos) presentan</th>
-</tr>
-
-
-<tr>
-<th scope="col" class="org-left">equipos 1, 2 y 3</th>
+<th scope="col" class="org-left">Presentaciones</th>
+<th scope="col" class="org-left">Preguntas</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
+<td class="org-left">Bloque A (25 minutos) presentan</td>
 <td class="org-left">Debate A (15 minutos) equipos</td>
 </tr>
 
 
 <tr>
+<td class="org-left">equipos 1, 2 y 3</td>
 <td class="org-left">7, 8 y 9 hacen una pregunta</td>
 </tr>
 
 
 <tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">cada uno al equipo que quieran</td>
 </tr>
 </tbody>
@@ -116,26 +117,18 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 <tbody>
 <tr>
 <td class="org-left">Bloque B (25 minutos) presentan</td>
-</tr>
-
-
-<tr>
-<td class="org-left">equipos 4, 5 y 6</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
 <td class="org-left">Debate B (15 minutos) equipos</td>
 </tr>
 
 
 <tr>
+<td class="org-left">equipos 4, 5 y 6</td>
 <td class="org-left">10, 1 y 2 hacen una pregunta</td>
 </tr>
 
 
 <tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">cada uno al equipo que quieran</td>
 </tr>
 </tbody>
@@ -143,32 +136,25 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 <tbody>
 <tr>
 <td class="org-left">Break de 20 minutos</td>
+<td class="org-left">&#xa0;</td>
 </tr>
 </tbody>
 
 <tbody>
 <tr>
 <td class="org-left">Bloque C (30 minutos) presentan</td>
-</tr>
-
-
-<tr>
-<td class="org-left">equipos 7, 8, 9 y 10</td>
-</tr>
-</tbody>
-
-<tbody>
-<tr>
 <td class="org-left">Debate C (20 minutos) equipos</td>
 </tr>
 
 
 <tr>
+<td class="org-left">equipos 7, 8, 9 y 10</td>
 <td class="org-left">3, 4, 5 y 6 hacen una pregunta</td>
 </tr>
 
 
 <tr>
+<td class="org-left">&#xa0;</td>
 <td class="org-left">cada uno al equipo que quieran</td>
 </tr>
 </tbody>
@@ -183,7 +169,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 ---
 
 
-<a id="org31b5d1b"></a>
+<a id="orge565cd7"></a>
 
 # Los modelos y el método científico
 
@@ -192,7 +178,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orga5f4524"></a>
+<a id="orgce58d26"></a>
 
 # Representación política
 
@@ -200,7 +186,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
-<a id="org4c859f8"></a>
+<a id="org7cb3a63"></a>
 
 # Elección social I
 
@@ -215,7 +201,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org12e76f6"></a>
+<a id="org511a119"></a>
 
 # El control de la agenda
 
@@ -225,7 +211,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="orge3035c6"></a>
+<a id="org0c09247"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso
 
@@ -234,7 +220,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org7b4423c"></a>
+<a id="orge882ba5"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda
 
@@ -255,7 +241,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
-<a id="orgbd0c198"></a>
+<a id="orgb26ae55"></a>
 
 # Ideología
 
@@ -269,7 +255,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orga199475"></a>
+<a id="org732b29c"></a>
 
 # La teoría espacial del voto (Elección social II)
 
@@ -279,7 +265,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Magar (sin fecha) ["Unidimensionalidad inducida por la estructura"](https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf) 4 pp.
 
 
-<a id="org58fcef2"></a>
+<a id="org88b2267"></a>
 
 # Los partidos como agentes de gobierno
 
@@ -296,7 +282,7 @@ Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
-<a id="org26e5665"></a>
+<a id="org7cd4713"></a>
 
 # Más temas
 
