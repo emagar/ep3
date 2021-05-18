@@ -1,16 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Los modelos y el método científico](#org281d04d)
-2.  [Representación política](#orgaec558d)
-3.  [Elección social I](#org6dfd36e)
-4.  [El control de la agenda](#orga3292bd)
-5.  [Prueba de hipótesis y regresión lineal, un repaso](#org687e8ff)
-6.  [Aplicaciones del modelo de manipulación de la agenda](#org1660e68)
-7.  [Ideología](#org835eebd)
-8.  [La teoría espacial del voto (Elección social II)](#org0c0d67c)
-9.  [Los partidos como agentes de gobierno](#org355d284)
-10. [Más temas](#org2a5d4fd)
+1.  [Instrucciones del trabajo final](#orgf77e391)
+    1.  [Parcial (en forma individual):](#orgb70cc0f)
+    2.  [Final (posible hacerlo en equipos de dos o tres personas):](#orgec2ad4b)
+    3.  [Reglas para las presentaciones y el debate](#org911b7d9)
+2.  [Los modelos y el método científico](#org3903e25)
+3.  [Representación política](#org8d817b5)
+4.  [Elección social I](#org69fd2b3)
+5.  [El control de la agenda](#orgecdc259)
+6.  [Prueba de hipótesis y regresión lineal, un repaso](#org9f28dc6)
+7.  [Aplicaciones del modelo de manipulación de la agenda](#org621d518)
+8.  [Ideología](#org9e89498)
+9.  [La teoría espacial del voto (Elección social II)](#orgeeda04f)
+10. [Los partidos como agentes de gobierno](#org53115f0)
+11. [Más temas](#org6949ac6)
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -38,24 +42,148 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 
 ---
 
-**Trabajo: Estudio del veto presidencial en México desde 2000**
 
--   Parcial (en forma individual):
-    -   Identifique y describa las leyes vetadas en el periodo. La información puede obtenerse en la página web de la *Gaceta parlamentaria* de la cámara de diputados. (El término que usa el art. 72 es "observaciones del ejecutivo".) Algunos factores que conviene investigar incluyen la temática de la ley vetada, la temporalidad de los eventos, la autoría de las iniciativas y cómo se negoció en las cámaras, etc.
-    
-    -   La entrega del reporte es el 19 de abril antes de clase.
+<a id="orgf77e391"></a>
 
--   Final (posible hacerlo en equipos de dos o tres personas):
-    -   Describa las instituciones relevantes para la negociación de legislación entre el Congreso y el ejecutivo. (No olvide revisar el fallo de la SCJN de mayo 2005 en materia presupuestal.)
-    
-    -   Haga hincapié en la naturaleza de las observaciones del ejecutivo y en la respuesta de los legisladores a cada veto. Un indicador de posible interés es el cambio en las votaciones nominales del proyecto antes y después del veto.
-    
-    -   Relacione los patrones que descubra con las instituciones y el sistema de partidos, así como con las teorías de negociación bajo separación de poderes. ¿Hay evidencia de que la incertidumbre o el position-taking sean mejores explicaciones del fenómeno? ¿Qué puede decirse del veto "correctivo"? ¿Puede esbozarse una teoría alternativa para explicar el veto en México?
+# Instrucciones del trabajo final
+
+**Estudio del veto presidencial en México desde 2000**
+
+
+<a id="orgb70cc0f"></a>
+
+## Parcial (en forma individual):
+
+-   Identifique y describa las leyes vetadas en el periodo. La información puede obtenerse en la página web de la *Gaceta parlamentaria* de la cámara de diputados. (El término que usa el art. 72 es "observaciones del ejecutivo".) Algunos factores que conviene investigar incluyen la temática de la ley vetada, la temporalidad de los eventos, la autoría de las iniciativas y cómo se negoció en las cámaras, etc.
+
+-   La entrega del reporte es el 19 de abril antes de clase.
+
+
+<a id="orgec2ad4b"></a>
+
+## Final (posible hacerlo en equipos de dos o tres personas):
+
+-   Describa las instituciones relevantes para la negociación de legislación entre el Congreso y el ejecutivo. (No olvide revisar el fallo de la SCJN de mayo 2005 en materia presupuestal.)
+
+-   Haga hincapié en la naturaleza de las observaciones del ejecutivo y en la respuesta de los legisladores a cada veto. Un indicador de posible interés es el cambio en las votaciones nominales del proyecto antes y después del veto.
+
+-   Relacione los patrones que descubra con las instituciones y el sistema de partidos, así como con las teorías de negociación bajo separación de poderes. ¿Hay evidencia de que la incertidumbre o el position-taking sean mejores explicaciones del fenómeno? ¿Qué puede decirse del veto "correctivo"? ¿Puede esbozarse una teoría alternativa para explicar el veto en México?
+
+
+<a id="org911b7d9"></a>
+
+## Reglas para las presentaciones y el debate
+
+1.  Cada equipo tendrá máximo 8 minutos para presentarle al grupo su argumento y sus hallazgos.
+
+2.  Al concluir tres presentaciones, habrá un intercambio de preguntas y respuestas de máximo 15 minutos para para generar un breve debate. La idea es pedir aclaraciones y hacerle críticas al argumento de otro equipo o su evidencia. Cada equipo tendrá uno o dos voceros, encargados de preguntar y responder. Procuren elaborar preguntas puntuales (coordinense, p.ej., vía whatapp).
+
+3.  Los equipos encargado de hacer una pregunta por lo menos en cada bloque aparecen en el cuadro siguiente:
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Bloque A (25 minutos) presentan</th>
+</tr>
+
+
+<tr>
+<th scope="col" class="org-left">equipos 1, 2 y 3</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Debate A (15 minutos) equipos</td>
+</tr>
+
+
+<tr>
+<td class="org-left">7, 8 y 9 hacen una pregunta</td>
+</tr>
+
+
+<tr>
+<td class="org-left">cada uno al equipo que quieran</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-left">Bloque B (25 minutos) presentan</td>
+</tr>
+
+
+<tr>
+<td class="org-left">equipos 4, 5 y 6</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-left">Debate B (15 minutos) equipos</td>
+</tr>
+
+
+<tr>
+<td class="org-left">10, 1 y 2 hacen una pregunta</td>
+</tr>
+
+
+<tr>
+<td class="org-left">cada uno al equipo que quieran</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-left">Break de 20 minutos</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-left">Bloque C (30 minutos) presentan</td>
+</tr>
+
+
+<tr>
+<td class="org-left">equipos 7, 8, 9 y 10</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="org-left">Debate C (20 minutos) equipos</td>
+</tr>
+
+
+<tr>
+<td class="org-left">3, 4, 5 y 6 hacen una pregunta</td>
+</tr>
+
+
+<tr>
+<td class="org-left">cada uno al equipo que quieran</td>
+</tr>
+</tbody>
+</table>
+
+Así, tras concluir el bloque A de presentaciones, el equipo 5 decidirá a cuál de los equipos 1, 2 o 3 le hará una pregunta, que éste contestará (todo durará cinco minutos o menos). Después los equipos 6 y 7 harán lo mismo. Si sobrara tiempo, lo demás podremos entrar a hacer preguntas adicionales. 
+
+1.  Las presentaciones serán el 27 de mayo entre las 4pm y las 6:45pm. Ese día anunciaré el número que corresponde a cada equipo. Tengan listo el material que quieran usar durante su presentación antes del arranque, y un resumen ejecutivo del argumento para entregarme.
+
+2.  Ensayen su presentación y vuelvan a ensayarla, para asegurarse de que sea clara, interesante y de no extenderse allende los 8 minutos. ¡Mucha suerte!
 
 ---
 
 
-<a id="org281d04d"></a>
+<a id="org3903e25"></a>
 
 # Los modelos y el método científico
 
@@ -64,7 +192,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgaec558d"></a>
+<a id="org8d817b5"></a>
 
 # Representación política
 
@@ -72,7 +200,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Urbinati (2000) ["Representation as Advocacy"](https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf) 22 pp.
 
 
-<a id="org6dfd36e"></a>
+<a id="org69fd2b3"></a>
 
 # Elección social I
 
@@ -87,7 +215,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="orga3292bd"></a>
+<a id="orgecdc259"></a>
 
 # El control de la agenda
 
@@ -97,7 +225,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="org687e8ff"></a>
+<a id="org9f28dc6"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso
 
@@ -106,7 +234,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org1660e68"></a>
+<a id="org621d518"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda
 
@@ -127,7 +255,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp.
 
 
-<a id="org835eebd"></a>
+<a id="org9e89498"></a>
 
 # Ideología
 
@@ -141,7 +269,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org0c0d67c"></a>
+<a id="orgeeda04f"></a>
 
 # La teoría espacial del voto (Elección social II)
 
@@ -151,7 +279,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Magar (sin fecha) ["Unidimensionalidad inducida por la estructura"](https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf) 4 pp.
 
 
-<a id="org355d284"></a>
+<a id="org53115f0"></a>
 
 # Los partidos como agentes de gobierno
 
@@ -168,7 +296,7 @@ Lunes y miércoles 13:00&#x2013;14:30, salón 308
 -   Jones y Hwang (2005) "Party Government in Presidential Democracies: Extending Cartel Theory beyond the U.S. Congress" 16 pp.
 
 
-<a id="org2a5d4fd"></a>
+<a id="org6949ac6"></a>
 
 # Más temas
 
