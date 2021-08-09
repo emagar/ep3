@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#org009060f)
-2.  [La teoría espacial del voto (semana 3)](#org8aef42d)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#org9dea98a)
-4.  [Los modelos y el método científico (semana 6)](#org8859b70)
-5.  [El control de la agenda (semana 7)](#org26a4335)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#org922e7cb)
-7.  [Ideología (semanas 12 a 14)](#orgbe653b9)
-8.  [Instituciones y estabilidad (semana 15)](#org2e242fb)
-9.  [Herestética (semana 16)](#org79f97c0)
+1.  [La teoría de la elección social (semanas 1 y 2)](#org5a21e2b)
+2.  [La teoría espacial del voto (semana 3)](#org775a15e)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#orgfce60a9)
+4.  [Los modelos y el método científico (semana 6)](#org1b8a9ab)
+5.  [El control de la agenda (semana 7)](#org89810f7)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#orgfb666cf)
+7.  [Ideología (semanas 12 a 14)](#org6c5c84d)
+8.  [Instituciones y estabilidad (semana 15)](#org0cf76cd)
+9.  [Herestética (semana 16)](#org6ac639c)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -23,7 +23,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 
 *Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
 
-*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los lineamientos de vicerrectoría. 
+*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los [lineamientos de vicerrectoría](https://www.itam.mx/es/conoce-las-medidas-para-el-inicio-de-las-actividades-semipresenciales-en-el-itam). 
 
 *Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. A priori, contarán 30 y 50% de la calificación final, respectivamente, y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
 
@@ -38,7 +38,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 ---
 
 
-<a id="org009060f"></a>
+<a id="org5a21e2b"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -54,7 +54,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org8aef42d"></a>
+<a id="org775a15e"></a>
 
 # La teoría espacial del voto (semana 3)
 
@@ -62,7 +62,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="org9dea98a"></a>
+<a id="orgfce60a9"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)
 
@@ -73,7 +73,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org8859b70"></a>
+<a id="org1b8a9ab"></a>
 
 # Los modelos y el método científico (semana 6)
 
@@ -83,7 +83,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org26a4335"></a>
+<a id="org89810f7"></a>
 
 # El control de la agenda (semana 7)
 
@@ -93,7 +93,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="org922e7cb"></a>
+<a id="orgfb666cf"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)
 
@@ -108,7 +108,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 
 
-<a id="orgbe653b9"></a>
+<a id="org6c5c84d"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -122,7 +122,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org2e242fb"></a>
+<a id="org0cf76cd"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -133,7 +133,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org79f97c0"></a>
+<a id="org6ac639c"></a>
 
 # Herestética (semana 16)
 
