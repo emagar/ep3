@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#org3d5d59b)
-2.  [La teoría espacial del voto (semana 3)](#org503074d)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#org40c7b22)
-4.  [Los modelos y el método científico (semana 6)](#org731731c)
-5.  [El control de la agenda (semana 7)](#org0e9ae9e)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#org04b1e5a)
-7.  [Ideología (semanas 12 a 14)](#orgff97ce5)
-8.  [Instituciones y estabilidad (semana 15)](#orgb89cae0)
-9.  [Herestética (semana 16)](#org6044956)
+1.  [La teoría de la elección social (semanas 1 y 2)](#org009060f)
+2.  [La teoría espacial del voto (semana 3)](#org8aef42d)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#org9dea98a)
+4.  [Los modelos y el método científico (semana 6)](#org8859b70)
+5.  [El control de la agenda (semana 7)](#org26a4335)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#org922e7cb)
+7.  [Ideología (semanas 12 a 14)](#orgbe653b9)
+8.  [Instituciones y estabilidad (semana 15)](#org2e242fb)
+9.  [Herestética (semana 16)](#org79f97c0)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -21,7 +21,9 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 
 *Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
 
-*Horas de oficina*: lunes y miércoles de 17:30 a 18:00, o con cita. 
+*Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
+
+*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los lineamientos de vicerrectoría. 
 
 *Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. A priori, contarán 30 y 50% de la calificación final, respectivamente, y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
 
@@ -36,22 +38,23 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 ---
 
 
-<a id="org3d5d59b"></a>
+<a id="org009060f"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
--   Szpiro, *Numbers Rule* (2010)
+-   Szpiro (2010) *Numbers Rule* 
     -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
     -   cap. 5 [The Officer](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf) 13 pp.
     -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
     -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
--   Riker, [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) (1981)
+-   Schwartz (1986) ["Votes, strategies, and institutions"](https://github.com/emagar/ep3/blob/master/lecturas/schwartz-Votes-strategies-institutions1986.pdf) 28 pp.
+-   Riker (1981) [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) 
     -   Prefacio 2 pp.
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org503074d"></a>
+<a id="org8aef42d"></a>
 
 # La teoría espacial del voto (semana 3)
 
@@ -59,7 +62,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="org40c7b22"></a>
+<a id="org9dea98a"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)
 
@@ -70,7 +73,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org731731c"></a>
+<a id="org8859b70"></a>
 
 # Los modelos y el método científico (semana 6)
 
@@ -80,7 +83,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org0e9ae9e"></a>
+<a id="org26a4335"></a>
 
 # El control de la agenda (semana 7)
 
@@ -90,7 +93,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="org04b1e5a"></a>
+<a id="org922e7cb"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)
 
@@ -105,7 +108,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 
 
-<a id="orgff97ce5"></a>
+<a id="orgbe653b9"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -119,7 +122,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgb89cae0"></a>
+<a id="org2e242fb"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -130,7 +133,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org6044956"></a>
+<a id="org79f97c0"></a>
 
 # Herestética (semana 16)
 
