@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#org5a21e2b)
-2.  [La teoría espacial del voto (semana 3)](#org775a15e)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#orgfce60a9)
-4.  [Los modelos y el método científico (semana 6)](#org1b8a9ab)
-5.  [El control de la agenda (semana 7)](#org89810f7)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#orgfb666cf)
-7.  [Ideología (semanas 12 a 14)](#org6c5c84d)
-8.  [Instituciones y estabilidad (semana 15)](#org0cf76cd)
-9.  [Herestética (semana 16)](#org6ac639c)
+1.  [La teoría de la elección social (semanas 1 y 2)](#orgaaca626)
+2.  [La teoría espacial del voto (semana 3)](#org17742e6)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#org24b8f58)
+4.  [Los modelos y el método científico (semana 6)](#org0ead67f)
+5.  [El control de la agenda (semana 7)](#org60278ad)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#org873ce20)
+7.  [Ideología (semanas 12 a 14)](#orge765234)
+8.  [Instituciones y estabilidad (semana 15)](#org136e7a1)
+9.  [Herestética (semana 16)](#org45e35d3)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -38,7 +38,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 ---
 
 
-<a id="org5a21e2b"></a>
+<a id="orgaaca626"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -54,7 +54,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org775a15e"></a>
+<a id="org17742e6"></a>
 
 # La teoría espacial del voto (semana 3)
 
@@ -62,7 +62,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="orgfce60a9"></a>
+<a id="org24b8f58"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)
 
@@ -73,7 +73,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org1b8a9ab"></a>
+<a id="org0ead67f"></a>
 
 # Los modelos y el método científico (semana 6)
 
@@ -83,7 +83,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org89810f7"></a>
+<a id="org60278ad"></a>
 
 # El control de la agenda (semana 7)
 
@@ -93,7 +93,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   *Economist* (2021) ["Time to re-open the school gates"](https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf) 4 pp.
 
 
-<a id="orgfb666cf"></a>
+<a id="org873ce20"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)
 
@@ -108,7 +108,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 
 
-<a id="org6c5c84d"></a>
+<a id="orge765234"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -122,7 +122,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org0cf76cd"></a>
+<a id="org136e7a1"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -133,7 +133,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org6ac639c"></a>
+<a id="org45e35d3"></a>
 
 # Herestética (semana 16)
 
