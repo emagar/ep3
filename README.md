@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#org1849d5a)
-2.  [La teoría espacial del voto (semana 3 y 4)](#org2740b31)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#orgdd543b2)
-4.  [Los modelos y el método científico (semana 7)](#org697fc20)
-5.  [El control de la agenda (semana 8)](#org35d20a2)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgcd49ac1)
-7.  [Ideología (semanas 12 a 14)](#orge3aa8a5)
-8.  [Instituciones y estabilidad (semana 15)](#org3f4b80c)
-9.  [Herestética (semana 16)](#org1a1cfcb)
+1.  [La teoría de la elección social (semanas 1 y 2)](#orge891fb3)
+2.  [La teoría espacial del voto (semana 3 y 4)](#orgad8eaa7)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#org334cf29)
+4.  [Los modelos y el método científico (semana 7)](#org8303a50)
+5.  [El control de la agenda (semana 8)](#orga62b547)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orga519fda)
+7.  [Ideología (semanas 12 a 14)](#org3d2bf35)
+8.  [Instituciones y estabilidad (semana 15)](#org0e6854a)
+9.  [Herestética (semana 16)](#org5013c1b)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -37,8 +37,12 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 
 ---
 
+Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/parcial-final/)
 
-<a id="org1849d5a"></a>
+---
+
+
+<a id="orge891fb3"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -54,7 +58,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org2740b31"></a>
+<a id="orgad8eaa7"></a>
 
 # La teoría espacial del voto (semana 3 y 4)
 
@@ -62,7 +66,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="orgdd543b2"></a>
+<a id="org334cf29"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)
 
@@ -74,7 +78,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org697fc20"></a>
+<a id="org8303a50"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -84,7 +88,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org35d20a2"></a>
+<a id="orga62b547"></a>
 
 # El control de la agenda (semana 8)
 
@@ -93,7 +97,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgcd49ac1"></a>
+<a id="orga519fda"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -108,7 +112,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 
 
-<a id="orge3aa8a5"></a>
+<a id="org3d2bf35"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -122,7 +126,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org3f4b80c"></a>
+<a id="org0e6854a"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -133,7 +137,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org1a1cfcb"></a>
+<a id="org5013c1b"></a>
 
 # Herestética (semana 16)
 
