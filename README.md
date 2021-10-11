@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#org6147a15)
-2.  [La teoría espacial del voto (semana 3)](#org6cf74c3)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)](#orgd9b608b)
-4.  [Los modelos y el método científico (semana 6)](#org3043568)
-5.  [El control de la agenda (semana 7)](#org1388cf7)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)](#org0f512e2)
-7.  [Ideología (semanas 12 a 14)](#org2d9f611)
-8.  [Instituciones y estabilidad (semana 15)](#org025ec20)
-9.  [Herestética (semana 16)](#org955454f)
+1.  [La teoría de la elección social (semanas 1 y 2)](#org1849d5a)
+2.  [La teoría espacial del voto (semana 3 y 4)](#org2740b31)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#orgdd543b2)
+4.  [Los modelos y el método científico (semana 7)](#org697fc20)
+5.  [El control de la agenda (semana 8)](#org35d20a2)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgcd49ac1)
+7.  [Ideología (semanas 12 a 14)](#orge3aa8a5)
+8.  [Instituciones y estabilidad (semana 15)](#org3f4b80c)
+9.  [Herestética (semana 16)](#org1a1cfcb)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -38,7 +38,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 ---
 
 
-<a id="org6147a15"></a>
+<a id="org1849d5a"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -54,28 +54,29 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org6cf74c3"></a>
+<a id="org2740b31"></a>
 
-# La teoría espacial del voto (semana 3)
+# La teoría espacial del voto (semana 3 y 4)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 5 Spatial models of majority rule](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-5.pdf) pp. 90-110.
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="orgd9b608b"></a>
+<a id="orgdd543b2"></a>
 
-# Negociación y coaliciones en regímenes parlamentarios (semanas 4 y 5)
+# Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 16 Cabinets](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-16.pdf) pp. 503-529.
 -   Laver y Shepsle (1990)  ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
+    -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
 -   Bawn y Rosenbluth (2006)  ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org3043568"></a>
+<a id="org697fc20"></a>
 
-# Los modelos y el método científico (semana 6)
+# Los modelos y el método científico (semana 7)
 
 -   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
 -   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
@@ -83,18 +84,18 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org1388cf7"></a>
+<a id="org35d20a2"></a>
 
-# El control de la agenda (semana 7)
+# El control de la agenda (semana 8)
 
 -   Washington state (sf)  ["How does a school district work?"](https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf) 2 pp.
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="org0f512e2"></a>
+<a id="orgcd49ac1"></a>
 
-# Aplicaciones del modelo de manipulación de la agenda (semanas 8 a 11)
+# Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
 -   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet+mccubbinsAJPS1988.pdf)" 14 pp.
 -   Cameron (2000) *Veto Bargaining*
@@ -107,7 +108,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 
 
-<a id="org2d9f611"></a>
+<a id="orge3aa8a5"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -121,7 +122,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org025ec20"></a>
+<a id="org3f4b80c"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -132,7 +133,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org955454f"></a>
+<a id="org1a1cfcb"></a>
 
 # Herestética (semana 16)
 
