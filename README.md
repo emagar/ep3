@@ -1,15 +1,15 @@
 
 # &Iacute;ndice
 
-1.  [La teoría de la elección social (semanas 1 y 2)](#orgcf19678)
-2.  [La teoría espacial del voto (semana 3 y 4)](#org0697aea)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#org5485d59)
-4.  [Los modelos y el método científico (semana 7)](#org454d4ff)
-5.  [El control de la agenda (semana 8)](#org2d03407)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org46e0ef2)
-7.  [Ideología (semanas 12 a 14)](#org44635ce)
-8.  [Instituciones y estabilidad (semana 15)](#orgf788156)
-9.  [Herestética (semana 16)](#org85048dc)
+1.  [La teoría de la elección social (semanas 1 y 2)](#org9ccbb06)
+2.  [La teoría espacial del voto (semana 3 y 4)](#org0df7a57)
+3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#orge2fe901)
+4.  [Los modelos y el método científico (semana 7)](#org0692bc2)
+5.  [El control de la agenda (semana 8)](#org7c4f184)
+6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgd2c3a50)
+7.  [Ideología (semanas 12 a 14)](#org3223d35)
+8.  [Instituciones y estabilidad (semana 15)](#org49c89e6)
+9.  [Herestética (semana 16)](#org074a714)
 
 ITAM Depto. de ciencia política, otoño 2021
 
@@ -35,6 +35,8 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
 
 *Última clase*: 2021-12-01
 
+*Examen final*: 2021-12-10 16:00-19:00. 
+
 ---
 
 Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/parcial-final)
@@ -42,7 +44,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 ---
 
 
-<a id="orgcf19678"></a>
+<a id="org9ccbb06"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -58,7 +60,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org0697aea"></a>
+<a id="org0df7a57"></a>
 
 # La teoría espacial del voto (semana 3 y 4)
 
@@ -66,7 +68,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="org5485d59"></a>
+<a id="orge2fe901"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)
 
@@ -78,7 +80,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org454d4ff"></a>
+<a id="org0692bc2"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -88,7 +90,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org2d03407"></a>
+<a id="org7c4f184"></a>
 
 # El control de la agenda (semana 8)
 
@@ -97,7 +99,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="org46e0ef2"></a>
+<a id="orgd2c3a50"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -112,7 +114,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org44635ce"></a>
+<a id="org3223d35"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -126,7 +128,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgf788156"></a>
+<a id="org49c89e6"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -137,7 +139,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org85048dc"></a>
+<a id="org074a714"></a>
 
 # Herestética (semana 16)
 
