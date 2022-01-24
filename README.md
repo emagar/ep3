@@ -1,66 +1,56 @@
+- [La teoría de la elección social (semanas 1 y 2)](#orgddbab15)
+- [La teoría espacial del voto (semana 3 y 4)](#org69c36d0)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#org15c1a09)
+- [Los modelos y el método científico (semana 7)](#org38f0f76)
+- [El control de la agenda (semana 8)](#orga68dbe3)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org5a516f3)
+- [Ideología (semanas 12 a 14)](#orge6f853d)
+- [Instituciones y estabilidad (semana 15)](#org81bc17a)
+- [Herestética (semana 16)](#orgda01147)
+- [Recapitulación (semana 17)](#orgb83ea0b)
 
-# &Iacute;ndice
-
-1.  [La teoría de la elección social (semanas 1 y 2)](#org9ccbb06)
-2.  [La teoría espacial del voto (semana 3 y 4)](#org0df7a57)
-3.  [Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)](#orge2fe901)
-4.  [Los modelos y el método científico (semana 7)](#org0692bc2)
-5.  [El control de la agenda (semana 8)](#org7c4f184)
-6.  [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgd2c3a50)
-7.  [Ideología (semanas 12 a 14)](#org3223d35)
-8.  [Instituciones y estabilidad (semana 15)](#org49c89e6)
-9.  [Herestética (semana 16)](#org074a714)
-
-ITAM Depto. de ciencia política, otoño 2021
+ITAM Depto. de ciencia política, primavera 2022
 
 **Elección Pública III**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 16:00&#x2013;17:30, salón 212 (RH)
+Lunes y miércoles 16:00&#x2013;17:30, salón 311
 
-*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica. 
+*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica.
 
-*Horas de oficina*: Serán únicamente con cita para evitar hacinamientos, y podrán ser en mi oficina o vía zoom.
+*Horas de oficina*: lunes y miércoles de 11:30 a 12:30, o con cita.
 
-*Clases presenciales*: Este curso migra a la modalidad híbrida en la **etapa 2** el 30 de agosto. Esto podría cambiar según evolucionen las condiciones y los [lineamientos de vicerrectoría](https://www.itam.mx/es/conoce-las-medidas-para-el-inicio-de-las-actividades-semipresenciales-en-el-itam). 
+*Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
-*Evaluación*: Habrá un trabajo <del>parcial y otro</del> final que valdrá 80% de la calificación final (en su momento anunciaré el formato), y el 20% restante valorará la participación en clase y la impresión general que deje en su profesor. 
+*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Días de asueto*: 2022-02-07 (Constitución), 2022-03-21 (natalicio de BJ), 2022-04-11 y 2022-04-13 (Semana Santa).
 
-*Días de asueto*: 2021-11-01 (muertos) y 2021-11-15 (Aniv. de la Rev.?)
+*No habrá clase*: 2022-02-21, 2022-02-23 y quizás 2022-04-06.
 
-*No habrá clases*: <del>2021-10-25 ni el</del> 2021-10-27
+*Semestre termina*: 2022-05-25
 
-*Última clase*: 2021-12-01
-
-*Examen final*: 2021-12-10 16:00-19:00. 
-
----
-
-Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/parcial-final)
-
----
+*Exámenes finales*: del 2022-05-30 al 2022-06-11
 
 
-<a id="org9ccbb06"></a>
+<a id="orgddbab15"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
--   Szpiro (2010) *Numbers Rule* 
+-   Szpiro (2010) *Numbers Rule*
     -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
     -   cap. 5 [The Officer](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf) 13 pp.
     -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
     -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
 -   Schwartz (1986) ["Votes, strategies, and institutions"](https://github.com/emagar/ep3/blob/master/lecturas/schwartz-Votes-strategies-institutions1986.pdf) 28 pp.
--   Riker (1981) [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf) 
+-   Riker (1981) [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf)
     -   Prefacio 2 pp.
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org0df7a57"></a>
+<a id="org69c36d0"></a>
 
 # La teoría espacial del voto (semana 3 y 4)
 
@@ -68,19 +58,19 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 
 
-<a id="orge2fe901"></a>
+<a id="org15c1a09"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 5 y 6)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 16 Cabinets](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-16.pdf) pp. 503-529.
--   Laver y Shepsle (1990)  ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
+-   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
     -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
--   Bawn y Rosenbluth (2006)  ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
+-   Bawn y Rosenbluth (2006) ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org0692bc2"></a>
+<a id="org38f0f76"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -90,20 +80,20 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org7c4f184"></a>
+<a id="orga68dbe3"></a>
 
 # El control de la agenda (semana 8)
 
--   Washington state (sf)  ["How does a school district work?"](https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf) 2 pp.
+-   Washington state (sf) ["How does a school district work?"](https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf) 2 pp.
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgd2c3a50"></a>
+<a id="org5a516f3"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
--   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet+mccubbinsAJPS1988.pdf)" 14 pp.
+-   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet%2BmccubbinsAJPS1988.pdf)" 14 pp.
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
 -   Cameron (2000) *Veto Bargaining*
     -   cap. 1, "[Divided government and interbranch bargaining](https://github.com/emagar/ep3/blob/master/lecturas/cameronCap1.pdf)" 32 pp.
@@ -114,7 +104,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org3223d35"></a>
+<a id="orge6f853d"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -128,7 +118,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org49c89e6"></a>
+<a id="org81bc17a"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -139,7 +129,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org074a714"></a>
+<a id="orgda01147"></a>
 
 # Herestética (semana 16)
 
@@ -149,3 +139,7 @@ Enlace al trabajo del curso [aquí](https://github.com/emagar/ep3/tree/master/pa
     -   cap. 2 "Chauncey DePew and the seventeenth amendment" 8 pp.
     -   cap. 7 "Pliny the Younger and parliamentary law" 11 pp.
 
+
+<a id="orgb83ea0b"></a>
+
+# Recapitulación (semana 17)
