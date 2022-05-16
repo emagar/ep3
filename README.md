@@ -1,13 +1,13 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org6877e0c)
-- [La teoría espacial del voto (semanas 3 y 4)](#org61e72ab)
-- [Los modelos y el método científico (semana 5)](#org7b27e58)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#orga769b56)
-- [El control de la agenda (semana 8)](#org228525b)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgd79f5af)
-- [Ideología (semanas 12 a 14)](#orgfc14d51)
-- [Instituciones y estabilidad (semana 15)](#orgc29ce2b)
-- [Herestética (semana 16)](#orgd2508a1)
-- [Recapitulación (semana 17)](#org64b1afc)
+- [La teoría de la elección social (semanas 1 y 2)](#org3461005)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgc47ab39)
+- [Los modelos y el método científico (semana 5)](#org277acd2)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#orgfb1a8b6)
+- [El control de la agenda (semana 8)](#org7c3cf22)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgf43d82e)
+- [Ideología (semanas 12 a 14)](#org45fab06)
+- [Instituciones y estabilidad (semana 15)](#orgf872caa)
+- [Herestética (semana 16)](#orga2c970b)
+- [Recapitulación (semana 17)](#orga64c015)
 
 ITAM Depto. de ciencia política, primavera 2022
 
@@ -34,7 +34,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 *Examen final*: 2022-06-07 18:00-21:00.
 
 
-<a id="org6877e0c"></a>
+<a id="org3461005"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -50,7 +50,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org61e72ab"></a>
+<a id="orgc47ab39"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -59,7 +59,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="org7b27e58"></a>
+<a id="org277acd2"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -69,7 +69,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="orga769b56"></a>
+<a id="orgfb1a8b6"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -81,7 +81,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org228525b"></a>
+<a id="org7c3cf22"></a>
 
 # El control de la agenda (semana 8)
 
@@ -90,7 +90,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgd79f5af"></a>
+<a id="orgf43d82e"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -104,7 +104,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgfc14d51"></a>
+<a id="org45fab06"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -115,31 +115,31 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Estévez, Magar y Rosas (2008) ["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"](https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf) 15 pp.
 -   Magar, Magaloni y Sánchez (2010) ["No self-control: the dimensional structure of the Mexican Supreme Court"](https://github.com/emagar/ep3/blob/master/lecturas/magar+magaloni+sanchezPaper04APSA.pdf) 22 pp.
 -   Talbert y Potoski (2002) ["Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting"](https://github.com/emagar/ep3/blob/master/lecturas/talbert+potoskiAgendaJoP2002.pdf) 28 pp.
--   Converse (1964) ["The Nature of Belief Systems in Mass Publics"](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
+-   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgc29ce2b"></a>
+<a id="orgf872caa"></a>
 
 # Instituciones y estabilidad (semana 15)
 
--   Shepsle (1979) "Institutional arrangements and equilibrium in multidimensional voting models" 34 pp.
--   Riker (1980) "Implications from the disequilibrium of majority rule for the study of institutions" 16 pp.
+-   Shepsle (1979) [Institutional arrangements and equilibrium in multidimensional voting models](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Inst-arrangements1979ajps.pdf) 34 pp.
+-   Riker (1980) [Implications from the disequilibrium of majority rule for the study of institutions](https://github.com/emagar/ep3/blob/master/lecturas/riker-Disequilibrium-institutions-1980apsr.pdf) 16 pp.
 -   Cox y McCubbins (1995) "Bonding, structure, and the stability of parties" 17 pp.
 -   Magar (sin fecha) ["Unidimensionalidad inducida por la estructura"](https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf) 4 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgd2508a1"></a>
+<a id="orga2c970b"></a>
 
 # Herestética (semana 16)
 
--   Shepsle (2003) "Losers in politics" 9 pp.
+-   Shepsle (2003) [Losers in politics](https://github.com/emagar/ep3/blob/master/lecturas/shepsleLosersInPol2003.pdf) 9 pp.
 -   Riker (1986) *The art of political manipulation*
-    -   cap. 1 "Lincoln at Freeport" 9 pp.
-    -   cap. 2 "Chauncey DePew and the seventeenth amendment" 8 pp.
-    -   cap. 7 "Pliny the Younger and parliamentary law" 11 pp.
+    -   cap. 1 [Lincoln at Freeport](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap1Lincoln.pdf) 9 pp.
+    -   cap. 2 [Chauncey DePew and the seventeenth amendment](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap2SeventeenthAmendment.pdf) 8 pp.
+    -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org64b1afc"></a>
+<a id="orga64c015"></a>
 
 # Recapitulación (semana 17)
