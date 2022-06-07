@@ -1,13 +1,13 @@
-- [Show your Passion and Connect with your Audience](#org0e50760)
-- [Focus on your Audience's Needs](#org84b4b1a)
-- [Keep it Simple: Concentrate on your Core Message](#org8f60912)
-- [Smile and Make Eye Contact with your Audience](#org268da5f)
-- [Start Strongly](#org33943a0)
-- [Remember the 10-20-30 Rule for Slideshows](#org64ff1c6)
-- [Tell Stories](#org69c2f37)
-- [Use your Voice Effectively](#org31a1f48)
-- [Use your Body Too](#org87c9a9c)
-- [Relax, Breathe and Enjoy](#orgd7d6c98)
+- [1. Show your Passion and Connect with your Audience](#orgaee7eae)
+- [2. Focus on your Audience's Needs](#orge51182a)
+- [3. Keep it Simple: Concentrate on your Core Message](#org23bb524)
+- [4. Smile and Make Eye Contact with your Audience](#org8aa7b36)
+- [5. Start Strongly](#org090d6be)
+- [6. Remember the 10-20-30 Rule for Slideshows](#org745d39b)
+- [7. Tell Stories](#org6febe58)
+- [8. Use your Voice Effectively](#orge1e9c5b)
+- [9. Use your Body Too](#orgac1670e)
+- [10. Relax, Breathe and Enjoy](#org27c60d8)
 
 Los puntos 3, 5, 6 y 7 son particularmente relevantes. Le añadiría un onceavo punto: ensaye, ensaye y vuelva a ensayar su presentación.
 
@@ -24,9 +24,9 @@ By bringing together advice from a wide range of people, the aim is to cover a w
 Whether you are an experienced presenter, or just starting out, there should be ideas here to help you to improve.
 
 
-<a id="org0e50760"></a>
+<a id="orgaee7eae"></a>
 
-# Show your Passion and Connect with your Audience
+# 1. Show your Passion and Connect with your Audience
 
 **It's hard to be relaxed and be yourself when you're nervous.**
 
@@ -37,9 +37,9 @@ Be honest with the audience about what is important to you and why it matters.
 Be enthusiastic and honest, and the audience will respond.
 
 
-<a id="org84b4b1a"></a>
+<a id="orge51182a"></a>
 
-# Focus on your Audience's Needs
+# 2. Focus on your Audience's Needs
 
 **Your presentation needs to be built around what your audience is going to get out of the presentation.**
 
@@ -50,9 +50,9 @@ While you're giving the presentation, you also need to remain focused on your au
 You need to make it easy for your audience to understand and respond.
 
 
-<a id="org8f60912"></a>
+<a id="org23bb524"></a>
 
-# Keep it Simple: Concentrate on your Core Message
+# 3. Keep it Simple: Concentrate on your Core Message
 
 When planning your presentation, you should always keep in mind the question:
 
@@ -67,9 +67,9 @@ Whichever rule you choose, the important thing is to keep your core message focu
 And if what you are planning to say doesn't contribute to that core message, don't say it.
 
 
-<a id="org268da5f"></a>
+<a id="org8aa7b36"></a>
 
-# Smile and Make Eye Contact with your Audience
+# 4. Smile and Make Eye Contact with your Audience
 
 **This sounds very easy, but a surprisingly large number of presenters fail to do it.**
 
@@ -78,9 +78,9 @@ If you smile and make eye contact, you are [building rapport](https://www.skills
 To help you with this, make sure that you don't turn down all the lights so that only the slide screen is visible. **Your audience needs to see you as well as your slides.**
 
 
-<a id="org33943a0"></a>
+<a id="org090d6be"></a>
 
-# Start Strongly
+# 5. Start Strongly
 
 **The beginning of your presentation is crucial. You need to grab your audience's attention and hold it.**
 
@@ -89,9 +89,9 @@ They will give you a few minutes' grace in which to entertain them, before they 
 Try a story (see tip 7 below), or an attention-grabbing (but useful) image on a slide.
 
 
-<a id="org64ff1c6"></a>
+<a id="org745d39b"></a>
 
-# Remember the 10-20-30 Rule for Slideshows
+# 6. Remember the 10-20-30 Rule for Slideshows
 
 This is a tip from Guy Kawasaki of Apple. He suggests that slideshows should:
 
@@ -106,9 +106,9 @@ As a general rule, slides should be the sideshow to you, the presenter. A good s
 If you need to provide more information, create a bespoke handout and give it out after your presentation.
 
 
-<a id="org69c2f37"></a>
+<a id="org6febe58"></a>
 
-# Tell Stories
+# 7. Tell Stories
 
 **Human beings are programmed to respond to stories.**
 
@@ -135,9 +135,9 @@ For example:
 To see 15 more actionable storytelling tips, see Nuts & Bolts Speed Training's post on [Storytelling Tips](https://nutsandboltsspeedtraining.com/powerpoint-tutorials/storytelling-tips/).
 
 
-<a id="org31a1f48"></a>
+<a id="orge1e9c5b"></a>
 
-# Use your Voice Effectively
+# 8. Use your Voice Effectively
 
 The spoken word is actually a pretty inefficient means of communication, because it uses only one of your audience's five senses. That's why presenters tend to use visual aids, too. But you can help to make the spoken word better by using your voice effectively.
 
@@ -146,9 +146,9 @@ Varying the speed at which you talk, and emphasising changes in pitch and tone a
 For more about this, see our page on [Effective Speaking](https://www.skillsyouneed.com/ips/effective-speaking.html).
 
 
-<a id="org87c9a9c"></a>
+<a id="orgac1670e"></a>
 
-# Use your Body Too
+# 9. Use your Body Too
 
 **It has been estimated that more than three quarters of communication is non-verbal.**
 
@@ -157,9 +157,9 @@ That means that as well as your tone of voice, your body language is crucial to 
 Make your gestures open and confident, and move naturally around the stage, and among the audience too, if possible.
 
 
-<a id="orgd7d6c98"></a>
+<a id="org27c60d8"></a>
 
-# Relax, Breathe and Enjoy
+# 10. Relax, Breathe and Enjoy
 
 **If you find presenting difficult, it can be hard to be calm and relaxed about doing it.**
 

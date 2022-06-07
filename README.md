@@ -1,13 +1,13 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org3461005)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgc47ab39)
-- [Los modelos y el método científico (semana 5)](#org277acd2)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#orgfb1a8b6)
-- [El control de la agenda (semana 8)](#org7c3cf22)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgf43d82e)
-- [Ideología (semanas 12 a 14)](#org45fab06)
-- [Instituciones y estabilidad (semana 15)](#orgf872caa)
-- [Herestética (semana 16)](#orga2c970b)
-- [Recapitulación (semana 17)](#orga64c015)
+- [La teoría de la elección social (semanas 1 y 2)](#org9201e72)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgd80b2b8)
+- [Los modelos y el método científico (semana 5)](#orged9d65f)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org3951bff)
+- [El control de la agenda (semana 8)](#orgfa6527b)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org50a0f13)
+- [Ideología (semanas 12 a 14)](#org0757988)
+- [Instituciones y estabilidad (semana 15)](#org5458d7a)
+- [Herestética (semana 16)](#org64fe32e)
+- [Recapitulación (semana 17)](#org4ff82dc)
 
 ITAM Depto. de ciencia política, primavera 2022
 
@@ -31,10 +31,12 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 
 *Semestre termina*: 2022-05-25
 
-*Examen final*: 2022-06-07 18:00-21:00.
+*Examen final*: 2022-06-07 18:00-21:00, salón 111.
+
+Algunas recomendaciones para preparar su presentación [aquí](https://github.com/emagar/ep3/tree/master/tips-presentation/tips.md)
 
 
-<a id="org3461005"></a>
+<a id="org9201e72"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -50,7 +52,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="orgc47ab39"></a>
+<a id="orgd80b2b8"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -59,7 +61,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="org277acd2"></a>
+<a id="orged9d65f"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -69,7 +71,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="orgfb1a8b6"></a>
+<a id="org3951bff"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -81,7 +83,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="org7c3cf22"></a>
+<a id="orgfa6527b"></a>
 
 # El control de la agenda (semana 8)
 
@@ -90,7 +92,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgf43d82e"></a>
+<a id="org50a0f13"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -104,7 +106,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org45fab06"></a>
+<a id="org0757988"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -118,7 +120,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgf872caa"></a>
+<a id="org5458d7a"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -129,7 +131,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orga2c970b"></a>
+<a id="org64fe32e"></a>
 
 # Herestética (semana 16)
 
@@ -140,6 +142,6 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 311
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orga64c015"></a>
+<a id="org4ff82dc"></a>
 
 # Recapitulación (semana 17)
