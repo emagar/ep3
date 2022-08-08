@@ -1,42 +1,42 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org9201e72)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgd80b2b8)
-- [Los modelos y el método científico (semana 5)](#orged9d65f)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org3951bff)
-- [El control de la agenda (semana 8)](#orgfa6527b)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org50a0f13)
-- [Ideología (semanas 12 a 14)](#org0757988)
-- [Instituciones y estabilidad (semana 15)](#org5458d7a)
-- [Herestética (semana 16)](#org64fe32e)
-- [Recapitulación (semana 17)](#org4ff82dc)
+- [La teoría de la elección social (semanas 1 y 2)](#org0bfcabd)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgbfd5b6e)
+- [Los modelos y el método científico (semana 5)](#orgb181c2e)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org124bc57)
+- [El control de la agenda (semana 8)](#org4c655be)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgdfeecd5)
+- [Ideología (semanas 12 a 14)](#orgd049b8b)
+- [Instituciones y estabilidad (semana 15)](#org0a51e7b)
+- [Herestética (semana 16)](#org499c6af)
+- [Recapitulación (semana 17)](#orgb32d3aa)
 
-ITAM Depto. de ciencia política, primavera 2022
+ITAM Depto. de ciencia política, otoño 2022
 
 **Elección Pública III**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 16:00&#x2013;17:30, salón 311
+Lunes y miércoles 16:00&#x2013;17:30, salón 212
 
 *Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica.
 
-*Horas de oficina*: lunes y miércoles de 11:30 a 12:30, o con cita.
+*Horas de oficina*: lunes y miércoles de 11:00 a 11:30, o con cita.
 
-*Evaluación*: Habrá un trabajo parcial y otro final. En su momento anunciaré el formato. Cada uno contará 40% de la calificación final y el 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
+*Evaluación*: Habrá un trabajo y un examen final. Contarán 60% y 20% de la calificación final, respectivamente. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con antelación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2022-02-07 (Constitución), 2022-03-21 (natalicio de BJ), 2022-04-11 y 2022-04-13 (Semana Santa).
+*Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
 
-*No habrá clase*: 2022-02-21, 2022-02-23 y quizás 2022-04-06.
+*No habrá clase*: 2022-11-26 ni 2022-11-31.
 
-*Semestre termina*: 2022-05-25
+*Semestre termina*: 2022-11-30.
 
-*Examen final*: 2022-06-07 18:00-21:00, salón 111.
+*Exámenes finales*: del 2022-12-05 al 2022-12-17.
 
 Algunas recomendaciones para preparar su presentación [aquí](https://github.com/emagar/ep3/tree/master/tips-presentation/tips.md)
 
 
-<a id="org9201e72"></a>
+<a id="org0bfcabd"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -52,7 +52,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="orgd80b2b8"></a>
+<a id="orgbfd5b6e"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -61,7 +61,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="orged9d65f"></a>
+<a id="orgb181c2e"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -71,7 +71,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 
 
-<a id="org3951bff"></a>
+<a id="org124bc57"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -83,7 +83,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgfa6527b"></a>
+<a id="org4c655be"></a>
 
 # El control de la agenda (semana 8)
 
@@ -92,7 +92,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="org50a0f13"></a>
+<a id="orgdfeecd5"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -106,7 +106,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org0757988"></a>
+<a id="orgd049b8b"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -120,7 +120,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org5458d7a"></a>
+<a id="org0a51e7b"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -131,7 +131,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org64fe32e"></a>
+<a id="org499c6af"></a>
 
 # Herestética (semana 16)
 
@@ -142,6 +142,6 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org4ff82dc"></a>
+<a id="orgb32d3aa"></a>
 
 # Recapitulación (semana 17)
