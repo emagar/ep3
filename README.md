@@ -1,13 +1,14 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org1090041)
-- [La teoría espacial del voto (semanas 3 y 4)](#orge39aca3)
-- [Los modelos y el método científico (semana 5)](#orgf111ed6)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org883e448)
-- [El control de la agenda (semana 8)](#orgdea5776)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgef2330f)
-- [Ideología (semanas 12 a 14)](#org4a87d6e)
-- [Instituciones y estabilidad (semana 15)](#org8b2b01d)
-- [Herestética (semana 16)](#org6692a1b)
-- [Recapitulación (semana 17)](#orged67168)
+- [La teoría de la elección social (semanas 1 y 2)](#org43af213)
+- [La teoría espacial del voto (semanas 3 y 4)](#org56f4315)
+- [Los modelos y el método científico (semana 5)](#org939b913)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org3ec1843)
+- [Prueba de hipótesis y regresión lineal, un repaso](#orgc4faa20)
+- [El control de la agenda (semana 8)](#org45646bc)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org625a365)
+- [Ideología (semanas 12 a 14)](#org2aebf46)
+- [Instituciones y estabilidad (semana 15)](#orgf81f1fc)
+- [Herestética (semana 16)](#org41e612a)
+- [Recapitulación (semana 17)](#org065119f)
 
 ITAM Depto. de ciencia política, otoño 2022
 
@@ -36,7 +37,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 Algunas recomendaciones para preparar su presentación [aquí](https://github.com/emagar/ep3/tree/master/tips-presentation/tips.md)
 
 
-<a id="org1090041"></a>
+<a id="org43af213"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -52,7 +53,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="orge39aca3"></a>
+<a id="org56f4315"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -61,7 +62,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="orgf111ed6"></a>
+<a id="org939b913"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -72,7 +73,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org883e448"></a>
+<a id="org3ec1843"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -84,7 +85,16 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgdea5776"></a>
+<a id="orgc4faa20"></a>
+
+# Prueba de hipótesis y regresión lineal, un repaso
+
+-   Shively (1974) *The Craft of Political Research*,
+    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
+-   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
+
+
+<a id="org45646bc"></a>
 
 # El control de la agenda (semana 8)
 
@@ -93,7 +103,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgef2330f"></a>
+<a id="org625a365"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -107,7 +117,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org4a87d6e"></a>
+<a id="org2aebf46"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -121,7 +131,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org8b2b01d"></a>
+<a id="orgf81f1fc"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -132,7 +142,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org6692a1b"></a>
+<a id="org41e612a"></a>
 
 # Herestética (semana 16)
 
@@ -143,6 +153,6 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orged67168"></a>
+<a id="org065119f"></a>
 
 # Recapitulación (semana 17)
