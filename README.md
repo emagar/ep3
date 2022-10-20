@@ -1,14 +1,14 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orge8ba4d2)
-- [La teoría espacial del voto (semanas 3 y 4)](#orga1ca70d)
-- [Los modelos y el método científico (semana 5)](#org07c70ff)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org974980b)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgb3fdcf5)
-- [El control de la agenda (semana 8)](#orgd6c84aa)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgebe52f4)
-- [Ideología (semanas 12 a 14)](#orga876f86)
-- [Instituciones y estabilidad (semana 15)](#org1343afc)
-- [Herestética (semana 16)](#org7eb2997)
-- [Recapitulación (semana 17)](#org6f1bd68)
+- [La teoría de la elección social (semanas 1 y 2)](#orgdc4c9f7)
+- [La teoría espacial del voto (semanas 3 y 4)](#org385bc02)
+- [Los modelos y el método científico (semana 5)](#org8f6326b)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org0803bfd)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orge67e7a3)
+- [El control de la agenda (semana 8)](#org364c090)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org6001e69)
+- [Ideología (semanas 12 a 14)](#org63af4bc)
+- [Instituciones y estabilidad (semana 15)](#org904de43)
+- [Herestética (semana 16)](#org0856c16)
+- [Recapitulación (semana 17)](#org2a90648)
 
 ITAM Depto. de ciencia política, otoño 2022
 
@@ -28,16 +28,20 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 
 *Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
 
-*No habrá clase*: 2022-10-26 ni 2022-10-31.
+*No habrá clase*: 2022-10-31.
 
 *Semestre termina*: 2022-11-30.
 
 *Exámenes finales*: del 2022-12-05 al 2022-12-17.
 
-Algunas recomendaciones para preparar su presentación [aquí](https://github.com/emagar/ep3/tree/master/tips-presentation/tips.md)
+---
+
+*Entrega preliminar del trabajo final*: 2022-10-26. Seleccione el caso que estudiará para empezar a sintetizar elementos del contexto que requiere el modelo de Laver y Shepsle. Prepare fichas que le permitan contestar oralmente cómo traducirá el caso a los supuestos del modelo (qué partidos son relevantes, cuál es el espacio político, etc.)
+
+---
 
 
-<a id="orge8ba4d2"></a>
+<a id="orgdc4c9f7"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -53,7 +57,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="orga1ca70d"></a>
+<a id="org385bc02"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -62,7 +66,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="org07c70ff"></a>
+<a id="org8f6326b"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -73,7 +77,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org974980b"></a>
+<a id="org0803bfd"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -85,7 +89,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
 
 
-<a id="orgb3fdcf5"></a>
+<a id="orge67e7a3"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -94,7 +98,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="orgd6c84aa"></a>
+<a id="org364c090"></a>
 
 # El control de la agenda (semana 8)
 
@@ -103,7 +107,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
 
-<a id="orgebe52f4"></a>
+<a id="org6001e69"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -117,7 +121,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orga876f86"></a>
+<a id="org63af4bc"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -131,7 +135,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org1343afc"></a>
+<a id="org904de43"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -142,7 +146,7 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org7eb2997"></a>
+<a id="org0856c16"></a>
 
 # Herestética (semana 16)
 
@@ -153,6 +157,6 @@ Algunas recomendaciones para preparar su presentación [aquí](https://github.co
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org6f1bd68"></a>
+<a id="org2a90648"></a>
 
 # Recapitulación (semana 17)
