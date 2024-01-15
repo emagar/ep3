@@ -1,47 +1,45 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orge3b64f8)
-- [La teoría espacial del voto (semanas 3 y 4)](#org8a0b0e5)
-- [Los modelos y el método científico (semana 5)](#org899b834)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org8fefecf)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgcf8d003)
-- [El control de la agenda (semana 8)](#org52472c4)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org0d3ce10)
-- [Ideología (semanas 12 a 14)](#orgd6c50d9)
-- [Instituciones y estabilidad (semana 15)](#org3a86717)
-- [Herestética (semana 16)](#org19f934e)
-- [Recapitulación (semana 17)](#orgf552b7b)
+- [La teoría de la elección social (semanas 1 y 2)](#org383ad31)
+- [La teoría espacial del voto (semanas 3 y 4)](#org925eca6)
+- [Los modelos y el método científico (semana 5)](#org7559b88)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org88b06a1)
+- [Los partidos políticos (semanas 6 y 7)](#org7a906b4)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org18edd8e)
+- [El control de la agenda (semana 8)](#org096fd75)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org42a18b8)
+- [Ideología (semanas 12 a 14)](#org7438f50)
+- [Instituciones y estabilidad (semana 15)](#orgc0b4fcc)
+- [Herestética (semana 16)](#orgb43ace3)
+- [El mercado de los votos](#orgc876fb5)
+- [Recapitulación (semana 17)](#org080d1e8)
 
-ITAM Depto. de ciencia política, otoño 2022
+ITAM Depto. de ciencia política, primavera 2024
 
 **Elección Pública III**
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 16:00&#x2013;17:30, salón 212
+Lunes y miércoles 10:00&#x2013;11:30, salón xxx
 
 *Objetivo*: El último curso de la serie de elección pública del programa estudia cómo toman decisiones las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica.
 
-*Horas de oficina*: lunes y miércoles de 11:00 a 11:30, o con cita.
+*Horas de oficina*: lunes y miércoles de 13:00 a 14:00, o con cita.
 
 *Evaluación*: Habrá un trabajo y un examen final. Contarán 60% y 20% de la calificación final, respectivamente. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario y las lecturas. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2022-11-02 (Muertos) y 2022-11-21 (Rev.)
+*Días de asueto*: 2024-02-05 (Constitución), 2024-03-18 (Benito Juárez), 2024-03-25&#x2013;2024-03-27 (Semana Santa) y 2024-05-01 (Trabajo).
 
-*No habrá clase*: 2022-10-31.
+*No habrá clase*: 2024-02-26&#x2013;2024-02-28.
 
-*Semestre termina*: 2022-11-30.
+*Semestre termina*: 2024-05-15.
 
-*Examen final*: 2022-12-08 18:00-21:00 salón 112.
-
----
-
-*Entrega preliminar del trabajo final*: 2022-10-26. Seleccione el caso que estudiará para empezar a sintetizar elementos del contexto que requiere el modelo de Laver y Shepsle. Prepare fichas que le permitan contestar oralmente cómo traducirá el caso a los supuestos del modelo (qué partidos son relevantes, cuál es el espacio político, etc.)
+*Exámenes finales*: del 2024-05-20 al 2024-06-01.
 
 ---
 
 
-<a id="orge3b64f8"></a>
+<a id="org383ad31"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -57,7 +55,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
     -   cap. 2 Different choices from identical values 20 pp.
 
 
-<a id="org8a0b0e5"></a>
+<a id="org925eca6"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -66,7 +64,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="org899b834"></a>
+<a id="org7559b88"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -77,7 +75,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org8fefecf"></a>
+<a id="org88b06a1"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -87,9 +85,33 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Bawn y Rosenbluth (2006) ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
 -   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
 -   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
+-   Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp.
 
 
-<a id="orgcf8d003"></a>
+<a id="org7a906b4"></a>
+
+# Los partidos políticos (semanas 6 y 7)
+
+-   Cox (1987) *The Efficient Secret*.
+    -   [Partes I y II](https://github.com/emagar/ep3/blob/master/lecturas/coxEffSec1.pdf)
+        -   cap. 1 "Introduction and outline" 8 pp.
+        -   cap. 2 "The historical setting" 10 pp.
+        -   cap. 3 "The measurement and theory of party cohesion" 13 pp.
+        -   cap. 4 "The Peelites and the disruption of the party system" 5 pp.
+        -   cap. 5 "The caucus" 8 pp.
+        -   cap. 6 "The origin of the efficient secret" 23 pp.
+        -   cap. 7 "The electoral connection and ministerial ambition" 11 pp.
+        -   cap. 8 "The cabinet's strength: threats of resignation and dissolution" 8 pp.
+    -   [Partes III y IV](https://github.com/emagar/ep3/blob/master/lecturas/coxEffSec2.pdf)
+        -   cap. 9 "The development of a party oriented electorate" 22 pp.
+        -   cap. 10 "The causes of a party-oriented electorate" 24 pp.
+        -   cap. 11 "The legislative consequences of a party-oriented electorate" 11 pp.
+        -   cap. 12 "The inflouence of constituents in Victorian England" 18 pp.
+        -   cap. 13 "The history of party voting" 2 pp.
+        -   Appendix 5 pp.
+
+
+<a id="org18edd8e"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -98,7 +120,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org52472c4"></a>
+<a id="org096fd75"></a>
 
 # El control de la agenda (semana 8)
 
@@ -106,8 +128,11 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
 -   Romer y Rosenthal (1978) ["Political Resource Allocation, Controlled Agendas, and the Status Quo"](https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf) 17 pp.
 
+-   Krehbiel (1998) *Pivotal Politics*
+    -   cap. 2, "A theory" 29 pp.
 
-<a id="org0d3ce10"></a>
+
+<a id="org42a18b8"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -121,7 +146,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgd6c50d9"></a>
+<a id="org7438f50"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -135,7 +160,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org3a86717"></a>
+<a id="orgc0b4fcc"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -146,7 +171,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org19f934e"></a>
+<a id="orgb43ace3"></a>
 
 # Herestética (semana 16)
 
@@ -157,6 +182,18 @@ Lunes y miércoles 16:00&#x2013;17:30, salón 212
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orgf552b7b"></a>
+<a id="orgc876fb5"></a>
+
+# El mercado de los votos
+
+-   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
+-   Díaz Cayeros, Estévez y Magaloni (2016) *The Political Logic of Poverty Relief*
+    -   Introduction 20 pp.
+    -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
+-   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
+-   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
+
+
+<a id="org080d1e8"></a>
 
 # Recapitulación (semana 17)
