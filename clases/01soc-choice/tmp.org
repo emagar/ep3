@@ -1,0 +1,21 @@
+** Jean-Charles de Borda 
+*** Pepe electo
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+#+BEAMER: \centering
+| \alert{Pepe} | 8 votos |
+| Max          | 7 votos |
+| Ana          | 6 votos |
+
+No se atiende preferencias entre los demás porque quedan fuera. Pero son fundamentales:
+
+8 votantes Pepe >i Ana >i Max
+7 votantes Max  >i Ana >i Pepe
+6 votantes Ana  >i Max >i Pepe
+
+Enfrentados por pares, Ana > Pepe, Max > Pepe y Ana > Max... Ana gana y Pepe fuera EXACTO OPUESTO DE MAYORIA
+
+También propuso un método que toma en cuenta preferencia
+
+

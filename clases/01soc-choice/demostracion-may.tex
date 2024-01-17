@@ -1,0 +1,57 @@
+\documentclass[letter,12pt]{article}
+\usepackage[letterpaper,right=1.25in,left=1.25in,top=1in,bottom=1in]{geometry}
+\usepackage{setspace}
+
+\usepackage[utf8]{inputenc}   % allows input of special characters from keyboard (input encoding)
+\usepackage[T1]{fontenc}      % what fonts to use when printing characters       (output encoding)
+\usepackage{amsmath}          % facilitates writing math formulas and improves the typographical quality of their output
+\setlength{\parindent}{0pt}   % drop paragraph indentations
+
+\begin{document}
+
+(A) da trato igualitario a los votantes: si dos cambian sus votos, la decisión colectiva queda igual.
+
+(N) da trato igualitario a las altenativas: revierte todos los votos, cambiando cada 1 por $-1$ y cada $-1$ por 1, la decisión colectiva queda igual.
+
+(E) aporta decisividad: si hubiera empate y algunos abstencionistas votaran 1, ceteris paribus, basta para romperlo en favor de 1.
+
+Sin estas propiedades, la regla sesgaría la decisión colectiva en pro de algunos votantes o alternativas, o sería gratuitamente indecisiva.\\
+
+
+\textbf{Demostración del teorema de May de Schwartz} \\
+
+Supón que $f$ cumple las propiedades (A), (N) y (E).
+
+\begin{description}
+\item[(a)] Si $(x_1,...,x_n)$ tiene tantos 1s como $-1$s \\
+         y $(-x_1,...,-x_n)$ cambia el $1^{er}$ 1 por el $1^{er}$ $-1$, el $2^{do}$ 1 por el $2^{do}$ $-1$, etc.\\
+         entonces por (A) no cambia el resultado:\\
+
+\begin{tabular}{rcll}
+$f(x_1,...,x_n)$  & = &   $f(-x_1,...,-x_n)$ & por (A) \\
+  & = &   $-f(x_1,...,x_n)$   & por (N) \\
+\end{tabular}
+
+Y dado que 0 es su propio negativo:
+
+$f(x_1,...,x_n) = 0$ 
+
+
+\item[(b)] Si $(x_1,...,x_n)$ tiene $k$ más 1s que $-1$s \\
+  y $(x'_1,...,x'_n)$ remplaza los primeros $k$ 1s por 0s \\
+  entonces $(x'_1,...,x'_n)$ tiene tantos 1s como $-1$s \\
+  y por (a) $f(x'_1,...,x'_n) = 0$ \\
+  por (E) $f(x_1,...,x_n) = 1$
+
+\item[(c)] Si $(x_1,...,x_n)$ tiene menos 1s que $-1$s \\
+   entonces $(-x_1,...,-x_n)$ tiene más 1s que $-1$s \\
+   y por (b) $f(-x_1,...,-x_n) = 1$ \\
+   por (N) $-f(x_1,...,x_n) = 1$ \\
+   y plt $f(x_1,...,x_n) = -1$ \\
+\end{description}
+
+(a) + (b) + (c) define la regla de mayoría QED
+
+\end{document}
+
+

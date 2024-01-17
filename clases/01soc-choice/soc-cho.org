@@ -1,0 +1,866 @@
+#+STARTUP: showall
+#+TITLE:     La teoría de la elección social
+#+AUTHOR:    Schwartz y Riker
+#+EMAIL:     emagar@itam.mx
+#+DATE:      17-1-2024
+#+OPTIONS:   H:2 num:t toc:f \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LANGUAGE:  es
+
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [bigger]
+
+#+BEAMER_THEME: Rochester [height=20pt]
+#+BEAMER_COLOR_THEME: wolverine
+
+# setting this to 2 uses one star as sections two stars as new slide
+#+BEAMER_FRAME_LEVEL: 2
+
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_envargs(Env Args) %4BEAMER_col(Col) %8BEAMER_extra(Extra)
+
+#+LATEX_HEADER: \usepackage[spanish, mexico]{babel}
+#+LATEX_HEADER: \uselanguage{Spanish}
+#+LATEX_HEADER: \languagepath{Spanish}
+
+# gets rid of bottom navigation bars
+#+BEAMER_HEADER: \setbeamertemplate{footline}[frame number]{}
+
+# gets rid of bottom navigation symbols
+#+BEAMER_HEADER: \setbeamertemplate{navigation symbols}{}
+
+# adds frame number
+#+BEAMER_HEADER: \expandafter\def\expandafter\insertshorttitle\expandafter{%
+#+BEAMER_HEADER:   \insertshorttitle\hfill%
+#+BEAMER_HEADER:   \insertframenumber}
+#+BEAMER_HEADER: %  \insertframenumber\,/\,\inserttotalframenumber}
+
+# add extended math symbols
+#+LATEX_HEADER: \usepackage{mathtools}
+
+# read external link symbol code store in current directory
+# usage: \ExternalLink
+#+LATEX_HEADER: \input{ext-link.tex}
+
+# fix include graphics with pause (.sty in current directory) 
+#+LATEX_HEADER: \usepackage{fixpauseincludegraphics}
+
+# Reference card org-beamer: https://github.com/fniessen/refcard-org-beamer
+# export pdf: M-x load-library RET ox-beamer RET C-c C-e l P
+
+\setbeamercovered{transparent}
+
+* Qué es, qué busca
+** /Social Choice Theory/
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.45
+  :END:
+Ni las instituciones democráticas, ni sus mecanismos son perfectos
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.55
+  :END:
+\footnotesize
+/Democracy is the worst form of government, except for all those other forms that have been tried from time to time/ --- Churchill
+\pause \bigskip \bigskip
+*** 
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:      
+#+ATTR_BEAMER: :overlay +-
+- XVIII descubrió paradojas que mantienen ocupados a teólogos, filósofos, matemáticos, economistas, politólogos
+- XX: excepto una, no hay regla inmune a resultados anómalos y consecuencias inesperadas, todas son manipulables
+- La excepción es... la dictadura
+#+BEAMER: \bigskip \pause
+*** En la agenda
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+Disectaremos los engranes de la democracia en busca de las *propiedades de sus mecanismos*
+
+** El voto: condición necesaria de la democracia
+/Social choice/ es una teoría de agregación de preferencias
+
+\pause \bigskip
+
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.45
+  :END:
+Desde la Antigüedad, las democracias deciden mediante _votaciones_
+
+\bigskip
+
+$\rightarrow$ estudio del \alert{mecanismo}: su potencial, sus límites
+
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.55
+  :END:
+#+BEAMER: \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=.85\textwidth]{./pics/iowa-2016-caucus.jpg} \\
+  [[https://www.youtube.com/watch?v=tCvMtkEVqdA][\footnotesize{\ExternalLink Caucus Iowa clásica}]]
+
+
+** El voto: condición necesaria de la democracia
+Obviedad: en una decisión colegiada, lo correcto y justo es elegir por mayoría de votos
+
+\bigskip
+
+Tan obvio, razonable y universalmente aceptado, que nadie cuestionó el axioma básico de la elección por escrutinio: 
+
+que \alert{la mayoría de votos expresa la voluntad del electorado}
+
+\pause \bigskip
+
+#+BEAMER: \bigskip \pause
+*** Lento arribo
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+    - 1781: Borda fue el primero en cuestionar la validez del axioma
+    #+BEAMER: \pause
+    - Común percibir al mecanismo como algo \alert{anodino}, autoevidente: mero recuento de los votos
+    - La Rev. Francesa descubrió que no es nada trivial, pero el interés no llegó hasta el XX
+** Jean-Charles de Borda 
+   | _Lupe_ 8 votos (electa)    | _Max_ 7 votos | _Ana_ 6 votos |
+
+   \pause
+   
+*** Los ordenamientos son fundamentales
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+# #+BEAMER: \centering
+   No se atiende preferencias entre los que quedan fuera. 
+| 8 votantes | Lupe | $>_i$ | Ana | $>_i$ | Max  |
+| 7 votantes | Max  | $>_i$ | Ana | $>_i$ | Lupe |
+| 6 votantes | Ana  | $>_i$ | Max | $>_i$ | Lupe |
+
+*** 
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:      
+#+BEAMER: \bigskip \pause
+- Enfrentados por pares: 
+| Max > Lupe | Ana > Lupe | Ana > Max | 
+- Gana Ana y Lupe fuera... resultado exacto opuesto 
+- También propuso un método preferencial
+** El voto: condición necesaria de la democracia
+*** Votación:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+#+BEAMER: \centering
+transforma *preferencias individuales* en una *decisión colectiva*
+
+*** 
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:      
+#+BEAMER: \bigskip \pause
+La /teoría de la elección social/ nos enseñará que
+- ni las preferencias por sí solas determinan el voto
+- ni el voto por sí solo determina la decisión final
+
+#+BEAMER: \bigskip \pause
+$\rightarrow$ potencial y límites del *mecanismo* democrático
+
+* La regla de mayoría
+
+** La regla de mayoría
+- Sentido amplio :: forma de gobierno donde la mayoría se impone (p.ej. sistema /Westminster/)
+- Sentido estricto :: regla de votación para decidir entre dos alternativas
+#+BEAMER: \bigskip \pause
+#+LaTeX: \setbeamercolor{myblockcolor}{bg=cyan,fg=white}
+*** myblockcolor
+    :PROPERTIES:
+    :BEAMER_env: beamercolorbox
+    :END:      
+- La elección presidencial de 2024 no será por regla de mayoría ¿por cuál?
+- La CPEUM usa una nomenclatura distinta ¿cuál?  
+
+** CPEUM
+*** Mayoría
+- simple = /plurality/
+- absoluta $\approx$ /majority/
+- calificada = /supermajority/
+
+
+** Ubicuidad de la regla
+Natural usar la de mayoría cuando un grupo debe optar entre dos alternativas (y pluralidad con > 2)
+
+#+BEAMER: \bigskip
+Tiene ventajas prácticas:
+- todos iguales
+- mismas oportunidades para las alternativas
+- fácilmente decisiva
+#+BEAMER: \bigskip
+*** $\rightarrow$ Percepción muy generalizada: 
+Es una regla \alert{justa} -- ventajas también son normativas
+
+** Ciclicidad
+#+BEAMER: \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=.4\textwidth]{./pics/condorcet.jpg} 
+
+Marquis de Condorcet (1743--94) \\ 
+La conjunción de individuos coherentes puede ser incoherente
+#+BEAMER: \bigskip
+- En elección con 3+ alternativas (candidatos, mociones)
+- al compararlas por pares
+- es posible que \alert{ninguna} resulte victoriosa
+** Fines y medios de la democracia
+
+#+BEAMER: \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=.6\textwidth]{./pics/2014-02-10_swiss_people_vote.jpg} 
+#+BEAMER: \bigskip
+- fin: construir el entorno humano en comunidad 
+# (auto-realización y auto-respeto)
+- medio: participativa y colectivamente  $\rightarrow$ \alert{votando}
+#+BEAMER: \bigskip \pause
+Pregunta: ¿el medio es capaz de realizar el fin? \\
+#+BEAMER: \bigskip
+Parece evidente, \\
+pero la paradoja de Condorcet recorre como fantasma
+** Mayorías intransitivas
+| $V_1$      | $V_2$      | $V_3$      |
+|------------+------------+------------|
+| $x$ Morena | $y$ PAN    | $z$ PRI    |
+| $y$ PAN    | $z$ PRI    | $x$ Morena |
+| $z$ PRI    | $x$ Morena | $y$ PAN    |
+#+BEAMER: \bigskip \pause
+$\text{PAN} < \text{Morena} \;\;\; \text{Morena} < \text{PRI} \;\;\; \text{PRI} < \text{PAN}$
+$\rightarrow \text{ciclo}$ 
+** Elección primaria 2020
+#+BEAMER: \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/cycle-2019-dem-primary.png}
+** Elección primaria 2020
+#+BEAMER: \flushright
+#+BEAMER_HEADER:
+  \includegraphics[width=.95\textwidth]{./pics/cycle-2019-dem-primary-zoom.png}
+** Elección primaria 2020
+#+BEAMER: \flushright
+#+BEAMER_HEADER:
+  \includegraphics[width=.95\textwidth]{./pics/cycle-2019-dem-primary-zoom.png} \\
+#+BEAMER: \bigskip \centering
+\color{black}$Biden \stackrel{\mathclap{\tiny\mbox{+2}}}{<} 
+             Warren \stackrel{\mathclap{\tiny\mbox{+5}}}{<} 
+             Harris \stackrel{\mathclap{\tiny\mbox{+7}}}{<} 
+             Sanders \stackrel{\mathclap{\tiny\mbox{+6}}}{<} 
+             Biden$ \\
+#+BEAMER: \bigskip
+#+BEAMER_HEADER:
+  \includegraphics[height=1.5cm]{./pics/biden.png} $\rightarrow$
+  \includegraphics[height=1.5cm]{./pics/warren.png} $\rightarrow$
+  \includegraphics[height=1.5cm]{./pics/harris.png} $\rightarrow$
+  \includegraphics[height=1.5cm]{./pics/sanders.png} $\rightarrow$
+  \includegraphics[height=1.5cm]{./pics/biden.png} $\rightarrow \ldots$
+** Dos interpretaciones del voto
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.6
+  :END:
+
+¿Qué busca y consigue una votación?
+
+¿qué significa el resultado?
+
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.4
+  :END:
+\includegraphics[width=3cm]{./pics/madison.jpg}
+
+
+#+BEAMER: \bigskip \pause
+*** 1. Postura liberal/madisoniana
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+    - función = control
+      - elecciones periódicas permiten echar a los pillos
+      - ley de reacciones anticipadas
+    - agnóstica sobre el significado
+    - separación del poder es precaución secundaria para preservar la libertad
+** Dos interpretaciones del voto
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.6
+  :END:
+
+¿Qué busca y consigue una votación?
+
+¿qué significa el resultado?
+
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.4
+  :END:
+\includegraphics[width=3cm]{./pics/rousseau.jpg}
+#+BEAMER: \bigskip 
+*** 2. Postura populista/rousseauviana
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+    - significado = realización de la voluntad general
+      - soberano (colectividad) tiene voluntad
+      - libertad es obedecer leyes que nos hemos prescrito
+    - función = consultar para descubrirla
+** Revisionismo
+Sin importar sus ideales particulares, toda teoría democrática usa \alert{resúmenes sociales} de la decisión de los individuos \\
+\bigskip
+/Social choice/ plantea dudas fundamentales acerca del \alert{resumen}, \\
+quizás obligue a un replanteamiento de la teoría democrática
+#+BEAMER: \bigskip \pause
+- es común quejarnos de la representación, partidos, resultados...
+- y muy raro hacerlo de la institución de la \alert{votación} 
+- Razón: poca/nula evidencia de que pudiera haber ganado otra opción preferible para la mayoría \\
+*** Riker elabora su argumento mostrando dicha la posibilidad
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+#+BEAMER: \centering
+$(\Delta \text{resultados} \;|\; \overline{\text{preferencias}})$
+
+** Formalización de Condorcet
+Premisas
+1. *Preferencia* 
+   - $x,y,z,\ldots\;$ alternativas
+   - $x\;<_i\;y\;\;$ o $\;\;y\;<_i\;x\;\;$ (o $\;\;x\;=_i\;y$)
+   - La relación $<_i$ es transitiva: \\ 
+     $x\;<_i\;y  \;\;\;\&\;\;\; y\;<_i\;z \;\; \rightarrow \;\; x\;<_i\;z$
+2. *Regla de decisión*
+   - Sociedad de $n$ personas (impar)
+   - ``$<$'' es la elección social
+     - (si no se aclara, se sobre-entiende ``por _mayoría''_) 
+** Formalización de Condorcet
+*** 
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:
+Si $n=1,2,3$ y $X=x,y,z$
+
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.4
+  :END:
+  #+BEAMER: \centering
+| 1 | 2 | 3 |
+|---+---+---|
+| x | y | z |
+| y | z | x |
+| z | x | y |
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.6
+  :END:
+- $y < x$
+- $z < y$
+- $x < z$
+# - $C(x,y)=x$
+# - $C(y,z)=y$
+# - $C(x,z)=z$
+#+BEAMER: \bigskip \pause
+*** Si impusiéramos transitividad tb impondríamos un dictador
+  :PROPERTIES:
+  :BEAMER_env: block
+  :END:
+#  - Si consultamos que :: $C(y,z)=y \;\&\; C(x,y)=x \rightarrow z < y < x$
+  - Si consultamos que :: $z < y < x$
+#  - y por economía inferimos ::  $\therefore C(x,z)\equiv x$ 
+  - y por economía inferimos ::  $z < x$ 
+  - convertiríamos a 1 en _dictadora_ :: (sólo ella $z <_1 x$)
+#+BEAMER: \bigskip \pause
+*** ignored heading
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:
+  La teoría democrática: \includegraphics[width=1cm]{./pics/emoji-panic.png} 
+** Ingredientes para un meme 
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.5
+  :END:
+  \includegraphics[width=.85\textwidth]{./pics/kids-in-pool-meme.jpg} 
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.5
+  :END:
+mamá = teoría política 
+
+hija = transitividad 
+
+hijo = no-dictadura 
+
+calaca = teoría democrática
+* Los estudios contrafactuales de Riker
+** Presidentes minoritarios en EE.UU. 
+#+BEAMER: \scriptsize \centering
+|     |  Año | Ganador   | voto |  margen |  3er |
+|-----+------+-----------+------+---------+------|
+| $a$ | 1824 | Adams Jr  | 31.0 | $-10.3$ | 13.0 |
+| $b$ |   44 | Polk      | 49.6 |     1.5 |  2.3 |
+| $c$ |   48 | Taylor    | 47.3 |     4.8 | 10.1 |
+|-----+------+-----------+------+---------+------|
+| $d$ |   56 | Buchanan  | 45.3 |    12.2 | 21.5 |
+| $e$ |   60 | Lincoln   | 39.8 |    10.3 | 18.1 |
+| $f$ |   80 | Garfield  | 48.3 |    0.02 |  3.3 |
+|-----+------+-----------+------+---------+------|
+| $g$ |   84 | Cleveland | 48.5 |     0.2 |  1.7 |
+| $h$ |   88 | Harrison  | 47.8 |  $-0.8$ |  2.2 |
+| $i$ |   92 | Cleveland | 46.0 |     3.0 |  8.5 |
+|-----+------+-----------+------+---------+------|
+| $j$ | 1912 | Wilson    | 41.8 |    14.4 | 23.6 |
+| $k$ |   16 | Wilson    | 49.2 |     3.1 |  3.2 |
+| $l$ |   48 | Truman    | 49.5 |     4.4 |  2.4 |
+|-----+------+-----------+------+---------+------|
+| $m$ |   60 | Kennedy   | 49.7 |     0.2 |  0.2 |
+| $n$ |   68 | Nixon     | 43.4 |     0.7 | 13.5 |
+| $o$ |   92 | Clinton   | 43.0 |     6.6 | 18.9 |
+|-----+------+-----------+------+---------+------|
+| $p$ |   96 | Clinton   | 49.2 |     8.5 |  8.4 |
+| $q$ | 2000 | Bush Jr   | 47.9 |  $-0.5$ |  2.7 |
+| $r$ |   16 | Trump     | 46.1 |  $-2.1$ |  3.3 |
+Contraste: (1) colegio electoral (2) pluralidad (3) segunda vuelta
+** Francia 2002
+\centering   
+\includegraphics[width=\textwidth]{./pics/Affiches-premier-tour2002.jpg}
+** Francia 2002
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.33
+  :END:
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/f3.png}
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.33
+  :END:
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/f2.png}
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.33
+  :END:
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/f1.png}
+
+*** 
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:
+#+BEAMER: \pause \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=.33\textwidth]{./pics/f4.png}
+# ** Francia 2002
+# \centering   
+# \includegraphics[width=.7\textwidth]{./pics/votez-escroc.jpeg}
+** Francia 2002: intención $2^a$ /vs/ voto $1^a$
+\centering   
+\includegraphics[width=.7\textwidth]{./pics/f1-2.png}
+** Las sondas Voyager
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.6
+  :END:
+- Lanzadas al espacio en 1977
+- Afortunada alineación planetaria para visitar gigantes exteriores
+- Gravedad planetaria los impulsa fuera del sistema solar
+- [[https://www.youtube.com/watch?v=niKWI1AFMno][\ExternalLink Carl Sagan]]
+- [[https://www.youtube.com/watch?v=MGPM58S5Njg][\ExternalLink Voyager 2 alcanza el espacio interestelar en 2012]]
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.4
+  :END:
+  #+BEAMER: \centering
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/voyager1.jpg} \\
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/800px-Voyager_Path.svg.png}
+** Preparativos
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.6
+  :END:
+#+BEAMER_HEADER:
+- Tras consultar 80 astrónomos /Jet Propulsion Lab/ seleccionó 32 pares de trayectorias factibles
+- Faltaba determinar el valor científico de las trayectorias
+- 10 equipos de especialistas las ordenaron (p.ej. MAG = campos magnéticos, IRIS = radiación infrarroja$\ldots$)
+- Reunión presencial para obtener utilidad /cardinal/
+- [[https://voyager.jpl.nasa.gov/mission/timeline/#event-the-first-science-meeting][\ExternalLink Línea de tiempo]]
+# #+BEAMER: \pause
+*** a column
+  :PROPERTIES:
+  :BEAMER_col: 0.4
+  :END:
+#+BEAMER_HEADER:
+  \includegraphics[width=\textwidth]{./pics/larson3.jpeg}
+** Preparativos
+#+BEAMER: \centering
+  \includegraphics[width=\textwidth]{./pics/rk1.png}
+** Preparativos
+#+BEAMER: \centering
+  \includegraphics[width=\textwidth]{./pics/rk2.png}
+** Inferencia de utilidad cardinal
+  :PROPERTIES:
+  :BEAMER_act: [<+->]
+  :END:
+*** Von Neumann-Morgenstern vía experimental                        :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    1. Sujeto ordena tres alternativas: $a,b,c$ 
+    2. Fijas $u(a)=1\;\&\;u(c)=0$
+    3. Ofreces al sujeto lotería $L(p)$ ó $b$ \\ 
+       con las ganancias siguientes:
+       - $Eu(L) = pu(a) + (1-p)u(c) = p$
+       - ó $u(b)$
+    4. Empiezas con $p=1$ para que prefiera $L$ sobre $b$
+    5. Reduces gradualmente $p$ hasta que surja indiferencia
+    6. $(p|\text{indif})$ es la utilidad cardinal de $b$
+** Cuatro métodos
+| \includegraphics[width=.25\textwidth]{./pics/borda.jpg} | \includegraphics[width=.25\textwidth]{./pics/bentham.jpg} | \includegraphics[width=.25\textwidth]{./pics/nash.jpg} |
+| \tiny{Jean-Charles de Borda}                            | \tiny{Jeremy Bentham}                                     | \tiny{John Nash}                                       |
+| \tiny{(1733--1799)}                                     | \tiny{(1748--1832)}                                       | \tiny{(1928--2015)}                                    |
+
+1. Suma de puntos ordinales (Borda)
+2. Suma de valores cardinales (Bentham)
+3. Multiplicación de valores cardinales (Nash)
+4. Comparaciones pareadas (Condorcet)
+** Cuatro métodos
+#+BEAMER: \centering
+  \includegraphics[width=\textwidth]{./pics/rk3.png}
+** Cuatro métodos: Hay ganador Condorcet
+#+BEAMER: \centering
+  \includegraphics[width=\textwidth]{./pics/rk4.png} \\
+#+BEAMER: \pause
+  \includegraphics[width=\textwidth]{./pics/rk5.png}
+** Desenlace
+*** En Pasadena                                 :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    - seleccionaron 26' (modificada)
+    - ganador Condorcet/Bentham
+    - quienes notaron que 31' también habría ganado no lograron convencer$\ldots$
+*** 
+  :PROPERTIES:
+  :BEAMER_env: ignoreheading
+  :END:
+#+BEAMER: \centering
+  \includegraphics[width=.6\textwidth]{./pics/jpl-oct-1973.jpg} \\
+# ** Elaborar un ejemplo práctico en clase
+# Usar libro davis+holt 8.5 p 461 da ideas
+# Quizás pegatinas amlo starwars mangacool
+# O Trato-No trato con $500 max (ver excel) ofreciendo donar (500 - lo-que-lleve-ganador) a becas
+# # https://www.youtube.com/watch?v=PO7mJrUytO8
+# # https://www.economicsnetwork.ac.uk/showcase/games
+# # https://www.economicsnetwork.ac.uk/showcase/sloman_deal
+# # https://econweb.ucsd.edu/~v2crawford/142BehavioralUncertaintyLectureSlides08.pdf
+** Un caso (abstracto) que desconcierta
+|            |            | votante    |            |            |
+| 1          | 2          | 3          | 4          | 5          |
+|------------+------------+------------+------------+------------|
+| $a$ (1.00) | $d$ (1.00) | $e$ (1.00) | $b$ (1.00) | $b$ (1.00) |
+| $d$ (0.90) | $a$ (0.61) | $c$ (0.80) | $d$ (0.90) | $e$ (0.96) |
+| $b$ (0.60) | $b$ (0.60) | $a$ (0.70) | $a$ (0.75) | $c$ (0.70) |
+| $c$ (0.55) | $e$ (0.59) | $b$ (0.55) | $e$ (0.74) | $a$ (0.60) |
+| $e$ (0.50) | $c$ (0.50) | $d$ (0.50) | $c$ (0.50) | $d$ (0.50) |
+\pause 
+*** Ganador                        :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :BEAMER_col: 0.4
+    :END:
+- Condorcet = $a$
+- Borda = $b$
+- Pluralidad = $b$
+- Bentham = $d$
+- Nash = $e$
+*** ignoreheading                                           :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_col: 0.4
+    :END:
+    Excepto $c$, cada opción puede ganar con alguno de los métodos
+** Un caso (abstracto) que desconcierta
+*** Aspiración democrática :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+#+BEAMER: \centering
+$\text{Resultado} = f(\text{gustos})$
+*** En la práctica es una función bivariada                        :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+#+BEAMER: \centering
+$\text{Resultado} = f(\text{gustos}, \text{método})$
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+#+BEAMER: \pause \bigskip
+  \includegraphics[width=\textwidth]{./pics/rk7.png}
+* Elección presidencial de 2018
+** El cheque en blanco
+  #+BEAMER: \centering
+  \includegraphics[width=.2\textwidth]{./pics/atto-titu.jpeg}
+  \includegraphics[width=.8\textwidth]{./pics/at1-2.png}
+
+\bigskip
+¿Existe el \alert{mandato de la mayoría}?
+** ¿Por qué votaste por AMLO?
+*** El ``mandato'' de la mayoría
+- Mito muy socorrido/generalizado: que el triunfo confiere al ganador un mandato popular en apoyo de su programa
+- Andrew Jackson en su mensaje inaugural al Congreso 1829: ``no hay más impedimentos para la libre operación de la voluntad pública''
+- AMLO en Zócalo 2018: ``Una mayoría importante ha decidido iniciar la cuarta transformación de la vida pública de México''
+
+\pause \bigskip
+*** ignoreheading                                           :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_col: 0.6
+    :END:
+    Pasa por alto que se vota por toda clase de razones, contradictorias incluso en el propio votante
+
+** ¿Por qué votaste por AMLO?
+*** block                                                    :B_column:BMCOL:
+    :PROPERTIES:
+    :BEAMER_env: column
+    :BEAMER_col: .5
+    :END:      
+- muerte al neoliberalismo
+- justicia social
+- acabará la corrupción
+- la inseguridad
+- es nacionalista
+- cambio necesario
+- es de izquierda
+- por enojo
+- por amor
+- porque es cristiano
+- $\ldots$
+*** block                                                    :B_column:BMCOL:
+    :PROPERTIES:
+    :BEAMER_env: column
+    :BEAMER_col: .1
+    :END:      
+    #+BEAMER_HEADER:
+    \includegraphics[height=.9\textheight]{./pics/accolade.png}
+*** block                                                    :B_column:BMCOL:
+    :PROPERTIES:
+    :BEAMER_env: column
+    :BEAMER_col: .4
+    :END:      
+ $53\% \approx 30$ millones
+** Encuesta post-electoral 12 julio 2018
+    :PROPERTIES:
+    :BEAMER_act: [<+->]
+    :END:
+*** ¿Por quién votó usted para Presidente de la República?          :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+| Contestó | No contestó |    N |
+|----------+-------------+------|
+|     1032 |         396 | 1428 |
+*** Quitando NRs y credencial sin marca                           :B_block:
+| AMLO | Anaya | Meade | Bronco |    N |
+|------+-------+-------+--------+------|
+| 0.68 |  0.17 |  0.12 |   0.03 | 1010 |
+*** No hay pregunta /¿por qué votó por x?/
+En vez, hay /termómetros/ \\ 
+(y supondremos que guardan alguna relación con el /porqué/)
+** Votantes AMLO ($N = 684$)
+# | 44% | Representan sólo a ricos      |
+# | 59% | Democracia fallida/nula       |
+# | 50% | Pésimo manejo corrupción      |
+# #+BEAMER: \pause
+*** Termómetros                                                     :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+    #+BEAMER: \centering
+    #+BEAMER_HEADER:
+    \includegraphics[height=1.5cm]{./pics/q121.png}
+    #+BEAMER: \footnotesize
+| 1--3 |                        |                          | 8--10 |
+|------+------------------------+--------------------------+-------|
+|  39% | Defender modo de vida  | Adoptar bueno de otros   |   31% |
+|  48% | Evitar el conflicto    | Conflicto inevitable     |   20% |
+|  48% | Religión no se impone  | Religión como base leyes |   19% |
+|  29% | Redistribución         | Iniciativa individual    |   36% |
+|  52% | Medio ambiente         | Crecimiento económico    |   19% |
+|  46% | Migrantes bienvenidos  | No son bienvenidos       |   20% |
+|  25% | /Pro choice/           | /Pro life/               |   45% |
+|  22% | Más servicios públicos | Menos impuestos          |   43% |
+
+** Otros sistemas
+*** La votación cuadrática
+- El votante tiene un prespupuesto de créditos (100)
+- Vota a favor de una alternativa, en contra, o se abstiene
+- Los votos cuestan créditos
+- Puede acumular votos en favor/contra de una alternativa, pero cada voto extra cuesta más créditos que el anterior:
+| votos | créditos |
+|-------+----------|
+|     1 |        1 |
+|     2 |        4 |
+|     3 |        9 |
+|   ... |          |
+Ejercicio: [[https://bit.ly/3Tb8mo6]]
+# https://docs.google.com/spreadsheets/d/12ytNzCZL8-8eGolBu4_Fx6vHdsIjx6_4FeKGaHo8Pr4/edit?usp=sharing
+* Generalización de Arrow
+** Arrow
+*** Imposible cumplir 6 /desiderata/
+1. $>2$ alternativas
+2. Dominio irrestricto
+3. No dictadura
+4. Principio de Pareto: $x>y$ cuando $x>_iy\;\forall i$
+5. IIA: la pref. colectiva entre 2 alternativas nunca depende de las pref. individuales respecto de otra(s) alternativa(s)
+6. Transitividad
+
+** Independencia de alternativas irrelevantes
+# De wikipedia
+# [IIA] says that if Charlie (the irrelevant alternative) enters a race between Alice and Bob, with Alice (leader) liked better than Bob (runner-up), then the individual voter who likes Charlie less than Alice will not switch their vote from Alice to Bob. Because of this, a violation of IIA is commonly referred to as the "spoiler effect": support for Charlie "spoils" the election for Alice, while it "logically" should not have. After all, Alice was liked better than Bob, and Charlie was liked less than Alice.
+*** Ilustración de violación (individual) de IIA
+Quieres postre. El mesero ofrece nieve de guanábana o brownie. Ordenas nieve. Vuelve el mesero y anuncia que también le queda dulce de mamey. Dices ``entonces quiero brownie'' (en vez de nieve o mamey)
+\pause
+*** Fácil incumplirla colectivamente
+- (7 personas) Blanca $>_i$ Clara  $>_i$ Aura  
+- (6 personas) Clara  $>_i$ Aura   $>_i$ Blanca
+- (5 personas) Aura   $>_i$ Blanca $>_i$ Clara
+Pluralidad A /v/ B: gana A (11 votos). Entra C, gana B
+\pause
+*** Lo que pide IRR                                          :B_exampleblock:
+    :PROPERTIES:
+    :BEAMER_env: exampleblock
+    :END:      
+Que si Clara (la candidata irrelevante) entrara, gane Aura o Clara, no Blanca
+
+** La paradoja se generaliza
+Arrow busca las propiedades mínimas de una regla razonablemente democrática
+#+BEAMER: \bigskip
+*** Schwartz: tan mínimas que las comparten
+- una democracia constitucional ideal
+- una aristocracia ilustrada
+- una oligarquía corrupta
+- una tiranía sanguinaria
+
+* Retorno a la mayoría: teorema de May
+** El teorema de May
+Notación de Schwartz
+*** Dada una regla de votación
+    :PROPERTIES:
+    :BEAMER_col: .5
+    :BEAMER_env: block
+    :END:      
+- $x$ derrota $y$ :: si, cuando sólo $(x,y)$ son factibles, la regla elige $x$
+- $x$ empata $y$ ::  cuando ninguna vence a la otra
+#+BEAMER: \bigskip \pause
+*** Regla de mayoría
+    :PROPERTIES:
+    :BEAMER_col: .5
+    :BEAMER_env: example
+    :END:      
+- $x$ derrota $y$ :: si $x$ obtiene más votos que $y$
+- $y$ derrota $x$ :: si $y$ obtiene más votos que $x$
+- $x$ empata $y$ ::  cuando obtienen los mismos votos
+*** 
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:      
+#+BEAMER: \bigskip 
+Ojo: otros autores usan otras notaciones ($x>y$ o $x\;\text{P}\;y$)
+
+** Notación de Schwartz
+- Con $n$ votantes
+- que deciden entre dos alternativas, representadas $-1$ y 1
+- y 0 indica indiferencia/empate
+*** Definiciones
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+- Una *combinación de votos* es un vector $(x_1,...,x_n)$, donde $x_i\in(-1,0,1)$, que representa un modo en que $i=1,2,...,n$ pueden votar o abstenerse 
+- Cualquier *regla de votación binaria* puede representarse como una función $f$ de combinaciones de votos donde $f(x_1,...,x_n)=\begin{cases}-1\\0\\1\end{cases}$
+
+** Tres propiedades deseables de $f$
+#+ATTR_BEAMER: :overlay +-
+- (A) Anonimidad :: trato igualitario de los votantes $f(x_1,...,x_i,...,x_j,...,x_n) \equiv f(x_1,...,x_j,...,x_i,...,x_n)$ 
+- (N) Neutralidad :: trato igualitario de las alternativas $f(x_1,...,x_n) \equiv -f(-x_1,...,-x_n)$ 
+- (E) Fragilidad de empates :: si $f(x_1,...,x_n) = 0$ y $(y_1,...,y_n)$ resulta de cambiar uno o más 0s por 1s, con lo demás constante, entonces $f(y_1,...,y_n) = 1$ 
+#+BEAMER: \bigskip \pause
+# Sin estas propiedades, la regla sesgaría la decisión colectiva en pro de algunos votantes o alternativas, o sería gratuitamente indecisiva
+# ** Teorema de May
+*** de May
+    :PROPERTIES:
+    :BEAMER_env: theorem
+    :END:      
+La de mayoría es la única regla que tiene simultáneamente las propiedades A, N y E 
+
+** El lugar distinguido entre las reglas de decisión
+*** Debido a sus tres propiedades
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:      
+parece ``natural'' usar la regla de mayoría con alternativas binarias (aceptar/rechazar mociones, fallos, tasas, planes, ...)
+
+*** 
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:      
+#+BEAMER: \bigskip \pause
+Tan es así, que muchos asocian *democracia* con *mayoritarismo* --- lo cual, veremos, es falso (/cf./ Lijphart, los Federalistas, neo-institucionalismo...)
+
+#+BEAMER: \bigskip \pause
+*** Tarea: excepciones                                       :B_exampleblock:
+    :PROPERTIES:
+    :BEAMER_env: exampleblock
+    :END:      
+- ¿Qué instancias reales prescinden del mayoritarismo?
+- CPEUM
+
+** Otras reglas binarias
+¿Qué propiedades les faltan?
+- Las encuestas violan la condición (E): si $f(0,x_2,...,x_n)=0$ pero $i=1$ no está en la muestra, $f(1,x_2,...,x_n)\neq1$
+- La mayoría calificada viola (N)
+- La Junta de Coordinación Política del Congreso viola (A) 
+
+** Democracia $\neq$ mayoritarismo
+La regla de mayoría: condición necesaria pero *insuficiente* de la democracia
+
+#+BEAMER: \pause \bigskip
+*** Separación del poder
+- Introduce instituciones que complementan/limitan la regla de mayoría
+- La noción central de la ingeniería institucional es /incumplir/ una o más de las propiedades (A) (N) y (E)
+
+* Recapitulación
+# ** Una lámina resumen aquí
+** Las interrogantes
+#+BEAMER: \centering
+  \includegraphics[width=\textwidth]{./pics/rk8.png} \\
+# #+BEAMER: \pause
+  \includegraphics[width=\textwidth]{./pics/rk9.png} \\
+# #+BEAMER: \pause
+  \includegraphics[width=\textwidth]{./pics/rk10.png} \\
+# #+BEAMER: \pause
+  \includegraphics[width=\textwidth]{./pics/rk11.png}
+** Las interrogantes liberales
+- ¿Puede una votación atar de manos al gobernante si el resultado de la votación es inconsistente? ¿Cómo opera la constricción si ni siquiera está claro cuál constricción impones? 
+#+BEAMER: \pause
+- ¿No será que echas a un oficial, supuestamente constreñido por las urnas, por mera casualidad? Si el resultado puede ser $x \; y\;  z \; x$, entonces es un accidente institucional, en vez del gusto popular, lo que selecciona al ganador. Y si decidiera una constitución accidental, y no el pueblo,  ¿cómo puedes afirmar que opera una democracia?
+** Las interrogantes rousseauvianas
+- Si la libertad se sustenta en una ley inconsistente, ¿no es defectuosa dicha libertad? Cuando hay ciclicidad de leyes alternativas, ¿cuál debería considerarse la voluntad general y su consecuente libertad?  
+#+BEAMER: \pause
+- Cuando el bien absoluto que produce la votación es inconsistente, ¿tiene ese bien absoluto algún significado moral? Parece difícil decir que $x$ es moralmente correcto porque vence a $y$, cuando $z$ también vence a $x$  
+
+
+
+
+  
