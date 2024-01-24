@@ -1,16 +1,16 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org2c0b97b)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgd15ed0f)
-- [Los modelos y el método científico (semana 5)](#org130dc96)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org953f35b)
-- [Los partidos políticos (semanas 6 y 7)](#orgb3730f3)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org1fb5bfe)
-- [El control de la agenda (semana 8)](#org5224c6f)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgc0dabdc)
-- [Ideología (semanas 12 a 14)](#org9ab6892)
-- [Instituciones y estabilidad (semana 15)](#orgb8e3fc3)
-- [Herestética (semana 16)](#org1d6287c)
-- [El mercado de los votos](#org4b883c9)
-- [Recapitulación (semana 17)](#org3e558d9)
+- [La teoría de la elección social (semanas 1 y 2)](#orge333551)
+- [La teoría espacial del voto (semanas 3 y 4)](#org44d4d55)
+- [Los modelos y el método científico (semana 5)](#orga909e5c)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org7fa9d87)
+- [Los partidos políticos (semanas 6 y 7)](#orgb08392f)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orge404f19)
+- [El control de la agenda (semana 8)](#org25cdc09)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org00bd99f)
+- [Ideología (semanas 12 a 14)](#org26b703b)
+- [Instituciones y estabilidad (semana 15)](#org7a18ab4)
+- [Herestética (semana 16)](#orgffc81db)
+- [El mercado de los votos](#org3c94209)
+- [Recapitulación (semana 17)](#orgf428536)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -39,7 +39,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 ---
 
 
-<a id="org2c0b97b"></a>
+<a id="orge333551"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -53,9 +53,10 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
     -   Prefacio 2 pp.
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
+-   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgd15ed0f"></a>
+<a id="org44d4d55"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -64,7 +65,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="org130dc96"></a>
+<a id="orga909e5c"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -75,7 +76,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org953f35b"></a>
+<a id="org7fa9d87"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -88,7 +89,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp.
 
 
-<a id="orgb3730f3"></a>
+<a id="orgb08392f"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -111,7 +112,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
         -   Appendix 5 pp.
 
 
-<a id="org1fb5bfe"></a>
+<a id="orge404f19"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -120,7 +121,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org5224c6f"></a>
+<a id="org25cdc09"></a>
 
 # El control de la agenda (semana 8)
 
@@ -132,7 +133,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgc0dabdc"></a>
+<a id="org00bd99f"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -146,7 +147,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org9ab6892"></a>
+<a id="org26b703b"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -160,7 +161,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgb8e3fc3"></a>
+<a id="org7a18ab4"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -171,7 +172,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org1d6287c"></a>
+<a id="orgffc81db"></a>
 
 # Herestética (semana 16)
 
@@ -182,7 +183,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org4b883c9"></a>
+<a id="org3c94209"></a>
 
 # El mercado de los votos
 
@@ -194,6 +195,6 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org3e558d9"></a>
+<a id="orgf428536"></a>
 
 # Recapitulación (semana 17)
