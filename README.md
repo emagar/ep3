@@ -1,16 +1,16 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orge333551)
-- [La teoría espacial del voto (semanas 3 y 4)](#org44d4d55)
-- [Los modelos y el método científico (semana 5)](#orga909e5c)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org7fa9d87)
-- [Los partidos políticos (semanas 6 y 7)](#orgb08392f)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orge404f19)
-- [El control de la agenda (semana 8)](#org25cdc09)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org00bd99f)
-- [Ideología (semanas 12 a 14)](#org26b703b)
-- [Instituciones y estabilidad (semana 15)](#org7a18ab4)
-- [Herestética (semana 16)](#orgffc81db)
-- [El mercado de los votos](#org3c94209)
-- [Recapitulación (semana 17)](#orgf428536)
+- [La teoría de la elección social (semanas 1 y 2)](#org85f7db5)
+- [La teoría espacial del voto (semanas 3 y 4)](#org06013c2)
+- [Los modelos y el método científico (semana 5)](#org4145e09)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#orgc592337)
+- [Los partidos políticos (semanas 6 y 7)](#org9d78eba)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgbdcedea)
+- [El control de la agenda (semana 8)](#org8aa91c4)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgfb384a9)
+- [Ideología (semanas 12 a 14)](#org1ed48f3)
+- [Instituciones y estabilidad (semana 15)](#org2ad17fe)
+- [Herestética (semana 16)](#org4c0cbd9)
+- [El mercado de los votos](#org08a773f)
+- [Recapitulación (semana 17)](#orgdf725cd)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -38,8 +38,24 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 
 ---
 
+**Trabajo parcial**
 
-<a id="orge333551"></a>
+Entrega el lunes 4 de marzo en clase, el trabajo es individual.
+
+Lea [Balinski y Young (2001)](https://github.com/emagar/sip/blob/master/lit/balinski-young-Fair-representation2001book.pdf), le permitirá entender distintos métodos de prorrateo (*apportionment*) y aplíquelos a la Cámara de Diputados del Congreso de la Unión. Use para ello la población reportada en el [censo de 2020](https://www.inegi.org.mx/programas/ccpv/2020/#tabulados). Cuantifique y discuta la dimensión distributiva de los métodos alternativos.
+
+Después, especule acerca de las coaliciones que podrían apoyar la adopción de uno u otro de los métodos analizados. ¿Qué argumento le recomendaría usar a cada lado en la campaña para aprobar la reforma al proceso de *apportionment*? Recuerde que en política rara vez se argumenta haciendo explícito el interés inmediato.
+
+-   Esta [nota](https://emagar.github.io/reapportion24/) discute el método que usó el INE para 2024.
+-   Revise la Constitución y la ley electoral para ver qué artículos necesitarían cambiarse en esta reforma.
+-   Ignore en su análisis los diputados plurinominales.
+    
+    ¡Suerte!
+
+---
+
+
+<a id="org85f7db5"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -56,7 +72,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org44d4d55"></a>
+<a id="org06013c2"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -65,7 +81,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
 
 
-<a id="orga909e5c"></a>
+<a id="org4145e09"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -76,7 +92,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org7fa9d87"></a>
+<a id="orgc592337"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -89,7 +105,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp.
 
 
-<a id="orgb08392f"></a>
+<a id="org9d78eba"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -112,7 +128,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
         -   Appendix 5 pp.
 
 
-<a id="orge404f19"></a>
+<a id="orgbdcedea"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -121,7 +137,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org25cdc09"></a>
+<a id="org8aa91c4"></a>
 
 # El control de la agenda (semana 8)
 
@@ -133,7 +149,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org00bd99f"></a>
+<a id="orgfb384a9"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -147,7 +163,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org26b703b"></a>
+<a id="org1ed48f3"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -161,7 +177,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org7a18ab4"></a>
+<a id="org2ad17fe"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -172,7 +188,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgffc81db"></a>
+<a id="org4c0cbd9"></a>
 
 # Herestética (semana 16)
 
@@ -183,7 +199,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org3c94209"></a>
+<a id="org08a773f"></a>
 
 # El mercado de los votos
 
@@ -195,6 +211,6 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgf428536"></a>
+<a id="orgdf725cd"></a>
 
 # Recapitulación (semana 17)
