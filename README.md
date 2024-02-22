@@ -1,16 +1,16 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orga563243)
-- [La teoría espacial del voto (semanas 3 y 4)](#org5576e90)
-- [Los modelos y el método científico (semana 5)](#org03c9eac)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org1271ff8)
-- [Los partidos políticos (semanas 6 y 7)](#orga062966)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgf2731fe)
-- [El control de la agenda (semana 8)](#orgc9a360f)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org10df8f6)
-- [Ideología (semanas 12 a 14)](#orgc28111e)
-- [Instituciones y estabilidad (semana 15)](#orgd9d75e1)
-- [Herestética (semana 16)](#org40c3753)
-- [El mercado de los votos](#org5ffc624)
-- [Recapitulación (semana 17)](#org9c787fb)
+- [La teoría de la elección social (semanas 1 y 2)](#orgedc3794)
+- [La teoría espacial del voto (semanas 3 y 4)](#org560aa99)
+- [Los modelos y el método científico (semana 5)](#org113ef93)
+- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org2c65860)
+- [Los partidos políticos (semanas 6 y 7)](#org14cfdde)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org7c682f8)
+- [El control de la agenda (semana 8)](#orgba7d644)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org82f659a)
+- [Ideología (semanas 12 a 14)](#org1cbb881)
+- [Instituciones y estabilidad (semana 15)](#orgefb95f2)
+- [Herestética (semana 16)](#orgc2f920d)
+- [El mercado de los votos](#org9cbacb1)
+- [Recapitulación (semana 17)](#org7d27804)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -55,7 +55,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 ---
 
 
-<a id="orga563243"></a>
+<a id="orgedc3794"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -65,23 +65,25 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 6 [The Marquis](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf) 16 pp.
     -   cap. 11 [The Pessimists](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf) 22 pp.
 -   Schwartz (1986) ["Votes, strategies, and institutions"](https://github.com/emagar/ep3/blob/master/lecturas/schwartz-Votes-strategies-institutions1986.pdf) 28 pp.
--   Riker (1981) [*Liberalism against Populism*](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf)
+-   Riker (1981) *[Liberalism against Populism](https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf)*
     -   Prefacio 2 pp.
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org5576e90"></a>
+<a id="org560aa99"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 5 Spatial models of majority rule](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-5.pdf) pp. 90-110.
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
 -   Cooperrider et al. (2016) [Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5).
+-   Downs (1957) *[An Economic Theory of Democracy](https://github.com/emagar/ep3/blob/master/lecturas/downs-An-Economic-Theory-of-Democracy-1957.pdf)*
+    -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org03c9eac"></a>
+<a id="org113ef93"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -92,7 +94,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org1271ff8"></a>
+<a id="org2c65860"></a>
 
 # Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
 
@@ -105,7 +107,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp.
 
 
-<a id="orga062966"></a>
+<a id="org14cfdde"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -128,7 +130,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
         -   Appendix 5 pp.
 
 
-<a id="orgf2731fe"></a>
+<a id="org7c682f8"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -137,7 +139,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="orgc9a360f"></a>
+<a id="orgba7d644"></a>
 
 # El control de la agenda (semana 8)
 
@@ -149,7 +151,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org10df8f6"></a>
+<a id="org82f659a"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -163,7 +165,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgc28111e"></a>
+<a id="org1cbb881"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -177,7 +179,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgd9d75e1"></a>
+<a id="orgefb95f2"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -188,7 +190,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org40c3753"></a>
+<a id="orgc2f920d"></a>
 
 # Herestética (semana 16)
 
@@ -199,7 +201,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org5ffc624"></a>
+<a id="org9cbacb1"></a>
 
 # El mercado de los votos
 
@@ -211,6 +213,6 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org9c787fb"></a>
+<a id="org7d27804"></a>
 
 # Recapitulación (semana 17)
