@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org95a9e4f)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgc776b4a)
-- [Los modelos y el método científico (semana 5)](#orga0b02c5)
-- [Los partidos políticos (semanas 6 y 7)](#orgbf81715)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgba32348)
-- [El control de la agenda (semana 8)](#org613a26c)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org4aa4e2f)
-- [Ideología (semanas 12 a 14)](#orga79ddea)
-- [Instituciones y estabilidad (semana 15)](#org5db6eaf)
-- [Herestética (semana 16)](#org2920cef)
-- [El mercado de los votos](#org942cf67)
-- [Recapitulación (semana 17)](#org69274ae)
+- [La teoría de la elección social (semanas 1 y 2)](#org2a9b5bf)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgfca93ba)
+- [Los modelos y el método científico (semana 5)](#org2f8feb2)
+- [Los partidos políticos (semanas 6 y 7)](#org42ac3ff)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org2dcd51a)
+- [El control de la agenda (semana 8)](#org6a12a8e)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org22f4802)
+- [Ideología (semanas 12 a 14)](#org930a738)
+- [Instituciones y estabilidad (semana 15)](#orgf365f7b)
+- [Herestética (semana 16)](#org86d01f4)
+- [El mercado de los votos](#org6519951)
+- [Recapitulación (semana 17)](#org4eead1a)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -47,14 +47,14 @@ Entrega: el miércoles 22 de mayo a la hora de inicio asignada por Dirección Es
 
 Hará una reseña del documental *Le Génie Helvétique* de Jean-Stéphane Bron (2003), que proyectaré el viernes 26 de mayo a las 11:30 en el salón 111. También puedes encontrarlo en [streaming](https://www.playsuisse.ch/fr/show/819779) o [descargable ~1GB](https://drive.google.com/drive/folders/1rkLBX4_M53CpAWoRotveJj3_oiaQ7pPE?usp=sharing). La naturaleza de la reseña será analítica, para mostrar cómo aplica algo aprendido en el curso. (Un ejemplo de esto, largo y muy elaborado, es de [Riker](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf).)
 
-La elección pública ofrece una colección de herramientas para entender la negociación política. Algunos recursos que podrían serle útiles para el ejercicio son este [briefing paper](file:///home/eric/Desktop/ep3/clases/13peliSuiza/perrez.etal.GMO-regulation-Switzerland2003.doc) de la regulación de OGMs en Suiza y las [votaciones nominales](file:///home/eric/Desktop/ep3/clases/13peliSuiza/votaciones-nominales/proces-verbal-3-votes.xlsx) del art. 23 de la Ley de Protección del Medio Ambiente.
+La elección pública ofrece una colección de herramientas para entender la negociación política. Algunos recursos que podrían serle útiles para el ejercicio son este de la regulación de OGMs en Suiza y las del art. 23 de la Ley de Protección del Medio Ambiente.
 
 ---
 
 ---
 
 
-<a id="org95a9e4f"></a>
+<a id="org2a9b5bf"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -71,7 +71,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgc776b4a"></a>
+<a id="orgfca93ba"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -82,7 +82,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orga0b02c5"></a>
+<a id="org2f8feb2"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -93,7 +93,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgbf81715"></a>
+<a id="org42ac3ff"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -117,7 +117,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orgba32348"></a>
+<a id="org2dcd51a"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -126,7 +126,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org613a26c"></a>
+<a id="org6a12a8e"></a>
 
 # El control de la agenda (semana 8)
 
@@ -138,7 +138,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org4aa4e2f"></a>
+<a id="org22f4802"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -152,7 +152,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orga79ddea"></a>
+<a id="org930a738"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -166,7 +166,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org5db6eaf"></a>
+<a id="orgf365f7b"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -177,7 +177,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org2920cef"></a>
+<a id="org86d01f4"></a>
 
 # Herestética (semana 16)
 
@@ -188,7 +188,7 @@ La elección pública ofrece una colección de herramientas para entender la neg
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org942cf67"></a>
+<a id="org6519951"></a>
 
 # El mercado de los votos
 
@@ -200,6 +200,6 @@ La elección pública ofrece una colección de herramientas para entender la neg
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org69274ae"></a>
+<a id="org4eead1a"></a>
 
 # Recapitulación (semana 17)
