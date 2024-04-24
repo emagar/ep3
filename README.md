@@ -1,16 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgedc3794)
-- [La teoría espacial del voto (semanas 3 y 4)](#org560aa99)
-- [Los modelos y el método científico (semana 5)](#org113ef93)
-- [Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)](#org2c65860)
-- [Los partidos políticos (semanas 6 y 7)](#org14cfdde)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org7c682f8)
-- [El control de la agenda (semana 8)](#orgba7d644)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org82f659a)
-- [Ideología (semanas 12 a 14)](#org1cbb881)
-- [Instituciones y estabilidad (semana 15)](#orgefb95f2)
-- [Herestética (semana 16)](#orgc2f920d)
-- [El mercado de los votos](#org9cbacb1)
-- [Recapitulación (semana 17)](#org7d27804)
+- [La teoría de la elección social (semanas 1 y 2)](#org30cc286)
+- [La teoría espacial del voto (semanas 3 y 4)](#org0613dd5)
+- [Los modelos y el método científico (semana 5)](#orgaf2dea2)
+- [Los partidos políticos (semanas 6 y 7)](#orgd6f2c22)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org0184ed7)
+- [El control de la agenda (semana 8)](#orga5a02ee)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org954dead)
+- [Ideología (semanas 12 a 14)](#org2c965de)
+- [Instituciones y estabilidad (semana 15)](#orgb476f2b)
+- [Herestética (semana 16)](#org49e66e3)
+- [El mercado de los votos](#orgb66458c)
+- [Recapitulación (semana 17)](#org1a2c538)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -34,28 +33,28 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 
 *Semestre termina*: 2024-05-15.
 
-*Exámenes finales*: del 2024-05-20 al 2024-06-01.
+*Examen final*: 2024-05-22 18:00-21:00.
 
 ---
 
-**Trabajo parcial**
+**Clase extra** de presentaciones personales: 2024-05-03 de 11:30 a 13:00. Será por zoom en [este enlace](https://itam.zoom.us/j/95866001062).
 
-Entrega el lunes 4 de marzo en clase, el trabajo es individual.
+---
 
-Lea [Balinski y Young (2001)](https://github.com/emagar/sip/blob/master/lit/balinski-young-Fair-representation2001book.pdf), le permitirá entender distintos métodos de prorrateo (*apportionment*) y aplíquelos a la Cámara de Diputados del Congreso de la Unión. Use para ello la población reportada en el [censo de 2020](https://www.inegi.org.mx/programas/ccpv/2020/#tabulados). Cuantifique y discuta la dimensión distributiva de los métodos alternativos.
+**Trabajo final**
 
-Después, especule acerca de las coaliciones que podrían apoyar la adopción de uno u otro de los métodos analizados. ¿Qué argumento le recomendaría usar a cada lado en la campaña para reformar el proceso de *apportionment*? Recuerde que, en política, rara vez argumentas haciendo explícito tu interés inmediato.
+Entrega: el miércoles 22 de mayo a la hora de inicio asignada por Dirección Escolar para el examen final. El trabajo es individual.
 
--   Esta [nota](https://emagar.github.io/reapportion24/) discute el método que usó el INE para 2024.
--   Revise la Constitución y la ley electoral para ver qué artículos necesitarían cambiarse en esta reforma.
--   Ignore en su análisis los diputados plurinominales.
-    
-    ¡Suerte!
+Hará una reseña del documental *Le Génie Helvétique* de Jean-Stéphane Bron (2003), que proyectaré el viernes 26 de mayo a las 11:30 en el salón 111. También puedes encontrarlo en [streaming](https://www.playsuisse.ch/fr/show/819779) o [descargable ~1GB](https://drive.google.com/drive/folders/1rkLBX4_M53CpAWoRotveJj3_oiaQ7pPE?usp=sharing). La naturaleza de la reseña será analítica, para mostrar cómo aplica algo aprendido en el curso. (Un ejemplo de esto, largo y muy elaborado, es de [Riker](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf).)
+
+La elección pública ofrece una colección de herramientas para entender la negociación política. Algunos recursos que podrían serle útiles para el ejercicio son este [briefing paper](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf) de la regulación de OGMs en Suiza y las [votaciones nominales](https://github.com/emagar/ep3/blob/master/clases/13peliSuiza/votaciones-nominales.pdf) del art. 23 de la Ley de Protección del Medio Ambiente.
+
+---
 
 ---
 
 
-<a id="orgedc3794"></a>
+<a id="org30cc286"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -72,7 +71,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org560aa99"></a>
+<a id="org0613dd5"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -83,7 +82,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org113ef93"></a>
+<a id="orgaf2dea2"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -94,20 +93,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org2c65860"></a>
-
-# Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
-
--   Shepsle (2010) *Analyzing Politics*, [cap. 16 Cabinets](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-16.pdf) pp. 503-529.
--   Laver y Shepsle (1990) ["Coalitions and cabinet government"](https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf) 18 pp.
-    -   [Winset calculator](https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc)
--   Bawn y Rosenbluth (2006) ["Short versus long coalitions"](https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf) 15 pp.
--   Huber (1996) ["The vote of confidence in parliamentary democracies"](https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf) 14 pp.
--   Heller (2001) ["Making policy stick: why government gets what it wants in multiparty Parliaments"](https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf) 19 pp.
--   Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp.
-
-
-<a id="org14cfdde"></a>
+<a id="orgd6f2c22"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -130,7 +116,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
         -   Appendix 5 pp.
 
 
-<a id="org7c682f8"></a>
+<a id="org0184ed7"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -139,7 +125,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="orgba7d644"></a>
+<a id="orga5a02ee"></a>
 
 # El control de la agenda (semana 8)
 
@@ -151,7 +137,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org82f659a"></a>
+<a id="org954dead"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -165,7 +151,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org1cbb881"></a>
+<a id="org2c965de"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -179,7 +165,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgefb95f2"></a>
+<a id="orgb476f2b"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -190,7 +176,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgc2f920d"></a>
+<a id="org49e66e3"></a>
 
 # Herestética (semana 16)
 
@@ -201,7 +187,7 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org9cbacb1"></a>
+<a id="orgb66458c"></a>
 
 # El mercado de los votos
 
@@ -213,6 +199,6 @@ Después, especule acerca de las coaliciones que podrían apoyar la adopción de
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org7d27804"></a>
+<a id="org1a2c538"></a>
 
 # Recapitulación (semana 17)
