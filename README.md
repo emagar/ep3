@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org6472d5d)
-- [La teoría espacial del voto (semanas 3 y 4)](#org5cf7abd)
-- [Los modelos y el método científico (semana 5)](#orge707a97)
-- [Los partidos políticos (semanas 6 y 7)](#orgec06038)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org0db5d53)
-- [El control de la agenda (semana 8)](#org1a81cfd)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgf24acfa)
-- [Ideología (semanas 12 a 14)](#orgd518f08)
-- [Instituciones y estabilidad (semana 15)](#org80b14e7)
-- [Herestética (semana 16)](#org07cbf17)
-- [El mercado de los votos](#org635e8a8)
-- [Recapitulación (semana 17)](#orgb0bca80)
+- [La teoría de la elección social (semanas 1 y 2)](#orgd7ff2b4)
+- [La teoría espacial del voto (semanas 3 y 4)](#org5ec4cd7)
+- [Los modelos y el método científico (semana 5)](#org687e153)
+- [Los partidos políticos (semanas 6 y 7)](#org038ac23)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgbe69233)
+- [El control de la agenda (semana 8)](#orgb204a27)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orgfec7ad7)
+- [Ideología (semanas 12 a 14)](#org73992cc)
+- [Instituciones y estabilidad (semana 15)](#org6cf2bdb)
+- [Herestética (semana 16)](#org21e0f3c)
+- [El mercado de los votos](#org3d81432)
+- [Recapitulación (semana 17)](#orgb37570f)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -61,10 +61,45 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 
 ---
 
+**Recomendaciones para preparar una presentación**
+
+Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien contará con 8 minutos.
+
+1.  Concéntrate en tu mensaje central
+2.  Cuando prepares ten en mente la pregunta: ¿cuál es el mensaje (o tres puntos) que dejaré?o
+3.  Debes poder comunicar esto claro y consiso (15 palabras).
+4.  Si algo no contribuye a este fin, piensa en quitarlo.
+
+5.  Sonríe y haz contacto visual con tu público
+6.  Suena obvio y fácil. A menudo se olvida.
+7.  Ayuda a establecer un vínculo.
+8.  Además, ayuda con los nervios (hablas con individuos, no con una masa).
+
+9.  Empieza con determinación
+10. El principio es fundamental para atrapar la atención del público.
+11. Tienes par de minutos de gracia antes de que pasen a ver su FB.
+12. No empieces diciendo quién eres, diseña un gancho que entretenga.
+13. Una historia o imagen notable ayuda.
+
+14. Regla 10-20-30
+15. No más de 10 láminas.
+16. No más de 20 minutos (**en este caso 8 minutos o menos**).
+17. Fuente de 30 puntos o más <- OJO: FUNDAMENTAL.
+18. Las láminas no deben tener sentido sin el presentador.
+
+19. Ensaya, ensaya, y vuelve a ensayar
+20. Si puedes, convoca públicos de familiares y amigos.
+21. Repite con públicos que más desconocen tu tema.
+22. Cuida tu tiempo (**8 minutos**), pregunta dónde hay confusión, si captaron tu mensaje, etc.
+
+¡Mucha suerte!
+
+---
+
 ---
 
 
-<a id="org6472d5d"></a>
+<a id="orgd7ff2b4"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -81,7 +116,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org5cf7abd"></a>
+<a id="org5ec4cd7"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -92,7 +127,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orge707a97"></a>
+<a id="org687e153"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -103,7 +138,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgec06038"></a>
+<a id="org038ac23"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -127,7 +162,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="org0db5d53"></a>
+<a id="orgbe69233"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -136,7 +171,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org1a81cfd"></a>
+<a id="orgb204a27"></a>
 
 # El control de la agenda (semana 8)
 
@@ -148,7 +183,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgf24acfa"></a>
+<a id="orgfec7ad7"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -162,7 +197,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgd518f08"></a>
+<a id="org73992cc"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -176,7 +211,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org80b14e7"></a>
+<a id="org6cf2bdb"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -187,7 +222,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org07cbf17"></a>
+<a id="org21e0f3c"></a>
 
 # Herestética (semana 16)
 
@@ -198,7 +233,7 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org635e8a8"></a>
+<a id="org3d81432"></a>
 
 # El mercado de los votos
 
@@ -210,6 +245,6 @@ Algunos elementos que puede tener en mente para su análisis (y otros que consid
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgb0bca80"></a>
+<a id="orgb37570f"></a>
 
 # Recapitulación (semana 17)
