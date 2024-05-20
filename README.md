@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgdaa2cc7)
-- [La teoría espacial del voto (semanas 3 y 4)](#org70aea86)
-- [Los modelos y el método científico (semana 5)](#org8a8f7d8)
-- [Los partidos políticos (semanas 6 y 7)](#org994e6e7)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#orgd333f77)
-- [El control de la agenda (semana 8)](#org0945046)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#org56b9a17)
-- [Ideología (semanas 12 a 14)](#org660eafa)
-- [Instituciones y estabilidad (semana 15)](#org51e7efd)
-- [Herestética (semana 16)](#orgd0a5593)
-- [El mercado de los votos](#orgd1358e2)
-- [Recapitulación (semana 17)](#orgaa01909)
+- [La teoría de la elección social (semanas 1 y 2)](#org57df499)
+- [La teoría espacial del voto (semanas 3 y 4)](#org64f2a63)
+- [Los modelos y el método científico (semana 5)](#org134f0ff)
+- [Los partidos políticos (semanas 6 y 7)](#orgf18a3f3)
+- [Prueba de hipótesis y regresión lineal, un repaso (semana 8)](#org1c7d820)
+- [El control de la agenda (semana 8)](#org7bd4e7b)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)](#orga41293d)
+- [Ideología (semanas 12 a 14)](#orga429286)
+- [Instituciones y estabilidad (semana 15)](#orga7cea38)
+- [Herestética (semana 16)](#org1b1e424)
+- [El mercado de los votos](#orga434cd7)
+- [Recapitulación (semana 17)](#org7a26062)
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -33,7 +33,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 110
 
 *Semestre termina*: 2024-05-15.
 
-*Examen final*: 2024-05-22 18:00-21:00.
+*Examen final*: 2024-05-22 18:00-21:00 salón 105.
 
 ---
 
@@ -95,7 +95,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 ---
 
 
-<a id="orgdaa2cc7"></a>
+<a id="org57df499"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -112,7 +112,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org70aea86"></a>
+<a id="org64f2a63"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -123,7 +123,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org8a8f7d8"></a>
+<a id="org134f0ff"></a>
 
 # Los modelos y el método científico (semana 5)
 
@@ -134,7 +134,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org994e6e7"></a>
+<a id="orgf18a3f3"></a>
 
 # Los partidos políticos (semanas 6 y 7)
 
@@ -158,7 +158,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orgd333f77"></a>
+<a id="org1c7d820"></a>
 
 # Prueba de hipótesis y regresión lineal, un repaso (semana 8)
 
@@ -167,7 +167,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
 
 
-<a id="org0945046"></a>
+<a id="org7bd4e7b"></a>
 
 # El control de la agenda (semana 8)
 
@@ -179,7 +179,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org56b9a17"></a>
+<a id="orga41293d"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
@@ -193,7 +193,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org660eafa"></a>
+<a id="orga429286"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -207,7 +207,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org51e7efd"></a>
+<a id="orga7cea38"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -218,7 +218,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgd0a5593"></a>
+<a id="org1b1e424"></a>
 
 # Herestética (semana 16)
 
@@ -229,7 +229,7 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orgd1358e2"></a>
+<a id="orga434cd7"></a>
 
 # El mercado de los votos
 
@@ -241,6 +241,6 @@ Las presentaciones serán el 22 de mayo 2024 18:00&#x2013;21:00. Cada quien cont
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgaa01909"></a>
+<a id="org7a26062"></a>
 
 # Recapitulación (semana 17)
