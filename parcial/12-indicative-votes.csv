@@ -1,0 +1,651 @@
+ord,mp,MnisId,constituency,party,voteB-27mar19,voteD-27mar19,voteH-27mar19,voteJ-27mar19,voteK-27mar19,voteL-27mar19,voteM-27mar19,voteO-27mar19,voteC-1apr19,voteD-1apr19,voteE-1apr19,voteG-1apr19
+1,Adam Afriyie,1586,Windsor,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+2,Adam Holloway,1522,Gravesham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+3,Adrian Bailey,320,West Bromwich West,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+4,Afzal Khan,4671,Manchester Gorton,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+5,Alan Brown,4470,Kilmarnock and Loudoun,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+6,Alan Campbell,529,Tynemouth,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+7,Alan Duncan,343,Rutland and Melton,con,no,.,.,.,no,aye,no,no,aye,.,no,no
+8,Alan Mak,4484,Havant,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+9,Alan Whitehead,62,Southampton Test,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+10,Albert Owen,1474,Ynys Môn,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+11,Alberto Costa,4439,South Leicestershire,con,no,aye,aye,no,no,no,no,no,aye,no,no,no
+12,Alec Shelbrooke,3997,Elmet and Rothwell,con,.,.,.,.,.,.,.,.,no,no,no,no
+13,Alex Burghart,4613,Brentwood and Ongar,con,.,no,no,no,no,no,no,.,no,no,no,no
+14,Alex Chalk,4481,Cheltenham,con,no,no,no,aye,no,.,.,no,aye,no,.,.
+15,Alex Cunningham,4122,Stockton North,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,.
+16,Alex Norris,4641,Nottingham North,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+17,Alex Sobel,4658,Leeds North West,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+18,Alison McGovern,4083,Wirral South,lab,no,.,no,aye,aye,.,aye,no,aye,aye,aye,aye
+19,Alison Thewliss,4430,Glasgow Central,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+20,Alistair Burt,1201,North East Bedfordshire,con,no,aye,aye,aye,no,.,.,no,aye,.,.,no
+21,Alistair Carmichael,1442,Orkney and Shetland,libdem,no,.,.,.,.,aye,aye,no,no,.,aye,aye
+22,Alister Jack,4619,Dumfries and Galloway,con,no,no,no,no,no,no,no,aye,no,no,no,no
+23,Alok Sharma,4014,Reading West,con,no,no,no,no,no,no,no,no,no,no,no,no
+24,Alun Cairns,4086,Vale of Glamorgan,con,.,.,.,.,.,.,.,.,.,.,.,.
+25,Amanda Milling,4454,Cannock Chase,con,aye,no,no,no,no,no,no,.,no,no,no,no
+26,Amber Rudd,3983,Hastings and Rye,con,.,.,.,.,.,.,.,.,.,.,.,.
+27,Andrea Jenkyns,4490,Morley and Outwood,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+28,Andrea Leadsom,4117,South Northamptonshire,con,.,.,.,.,.,.,.,.,.,.,.,.
+29,Andrew Bowie,4601,West Aberdeenshire and Kincardine,con,no,no,no,no,no,no,no,no,no,no,no,no
+30,Andrew Bridgen,4133,North West Leicestershire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+31,Andrew Griffiths,3936,Burton,con,aye,no,no,no,no,no,no,no,no,no,no,no
+32,Andrew Gwynne,1506,Denton and Reddish,lab,no,aye,.,aye,aye,.,.,no,aye,aye,aye,.
+33,Andrew Jones,3996,Harrogate and Knaresborough,con,no,no,no,no,no,no,no,no,no,no,no,no
+34,Andrew Lewer,4659,Northampton South,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+35,Andrew Mitchell,1211,Sutton Coldfield,con,aye,.,.,aye,no,no,no,aye,aye,.,no,no
+36,Andrew Murrison,1466,South West Wiltshire,con,aye,no,.,no,no,no,no,.,no,no,no,no
+37,Andrew Percy,3939,Brigg and Goole,con,aye,aye,aye,no,no,no,no,aye,no,aye,no,no
+38,Andrew Rosindell,1447,Romford,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+39,Andrew Selous,1453,South West Bedfordshire,con,.,no,no,no,no,no,no,.,no,no,no,no
+40,Andrew Stephenson,4044,Pendle,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+41,Andy McDonald,4269,Middlesbrough,lab,no,aye,.,aye,aye,.,aye,.,aye,aye,aye,.
+42,Andy Slaughter,1516,Hammersmith,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+43,Angela Crawley,4469,Lanark and Hamilton East,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+44,Angela Eagle,491,Wallasey,lab,no,.,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+45,Angela Rayner,4356,Ashton-under-Lyne,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+46,Angela Smith,1564,Penistone and Stocksbridge,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+47,Angus MacNeil,1546,Na h-Eileanan an Iar,snp,no,.,no,.,.,aye,.,no,.,.,.,.
+48,Ann Clwyd,553,Cynon Valley,lab,no,no,no,no,no,aye,aye,no,aye,.,aye,aye
+49,Ann Coffey,458,Stockport,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+50,Anna McMorrin,4632,Cardiff North,lab,no,no,no,no,aye,aye,aye,no,no,no,aye,aye
+51,Anna Soubry,3938,Broxtowe,con,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+52,Anna Turley,4449,Redcar,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+53,Anne Main,1568,St Albans,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+54,Anne Marie Morris,4249,Newton Abbot,con,aye,no,no,no,no,no,no,no,no,no,no,no
+55,Anne Milton,1523,Guildford,con,no,.,.,aye,no,.,.,no,aye,.,.,.
+56,Anne-Marie Trevelyan,4531,Berwick-upon-Tweed,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+57,Anneliese Dodds,4657,Oxford East,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+58,Antoinette Sandbach,4506,Eddisbury,con,no,aye,aye,aye,no,.,aye,no,aye,aye,aye,aye
+59,Bambos Charalambous,4610,Enfield Southgate,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+60,Barbara Keeley,1588,Worsley and Eccles South,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+61,Barry Gardiner,146,Brent North,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+62,Barry Sheerman,411,Huddersfield,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+63,Ben Bradley,4663,Mansfield,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+64,Ben Bradshaw,230,Exeter,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+65,Ben Lake,4630,Ceredigion,plaid,no,aye,.,.,.,aye,aye,no,.,aye,aye,aye
+66,Ben Wallace,1539,Wyre and Preston North,con,aye,no,aye,no,no,no,no,no,no,no,no,no
+67,Bernard Jenkin,40,Harwich and North Essex,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+68,Bill Esterson,4061,Sefton Central,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+69,Bill Grant,4605,Ayr Carrick and Cumnock,con,no,no,aye,no,no,no,no,no,no,aye,no,no
+70,Bill Wiggin,1428,North Herefordshire,con,aye,no,no,no,no,no,no,aye,no,.,.,.
+71,Bim Afolami,4639,Hitchin and Harpenden,con,no,aye,aye,.,no,no,no,.,.,aye,.,no
+72,Bob Blackman,4005,Harrow East,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+73,Bob Seely,4681,Isle of Wight,con,aye,no,no,no,no,no,no,no,no,no,no,no
+74,Bob Stewart,3919,Beckenham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+75,Boris Johnson,1423,Uxbridge and South Ruislip,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+76,Brandon Lewis,4009,Great Yarmouth,con,.,.,.,.,.,.,.,.,.,.,.,.
+77,Brendan O'Hara,4371,Argyll and Bute,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+78,Bridget Phillipson,4046,Houghton and Sunderland South,lab,no,.,no,aye,aye,.,aye,no,aye,.,aye,aye
+79,Carol Monaghan,4443,Glasgow North West,snp,no,.,no,.,.,aye,aye,no,.,.,.,.
+80,Caroline Dinenage,4008,Gosport,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+81,Caroline Flint,389,Don Valley,lab,no,no,no,.,aye,no,no,no,aye,no,no,no
+82,Caroline Johnson,4592,Sleaford and North Hykeham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+83,Caroline Lucas,3930,Brighton Pavilion,green,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+84,Caroline Nokes,4048,Romsey and Southampton North,con,.,.,.,.,.,.,.,.,.,.,.,.
+85,Caroline Spelman,312,Meriden,con,no,aye,aye,aye,no,no,no,no,aye,aye,.,.
+86,Carolyn Harris,4480,Swansea East,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+87,Cat Smith,4436,Lancaster and Fleetwood,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+88,Catherine McKinnell,4125,Newcastle upon Tyne North,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+89,Catherine West,4523,Hornsey and Wood Green,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+90,Charles Walker,1493,Broxbourne,con,no,no,no,no,no,no,no,no,no,no,no,no
+91,Charlie Elphicke,3971,Dover,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+92,Cheryl Gillan,18,Chesham and Amersham,con,no,no,no,no,no,no,no,no,no,no,no,no
+93,Chi Onwurah,4124,Newcastle upon Tyne Central,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+94,Chloe Smith,1609,Norwich North,con,.,no,no,no,no,no,no,.,no,no,no,no
+95,Chris Bryant,1446,Rhondda,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,aye
+96,Chris Davies,4376,Brecon and Radnorshire,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+97,Chris Elmore,4572,Ogmore,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+98,Chris Evans,4040,Islwyn,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+99,Chris Grayling,1413,Epsom and Ewell,con,.,.,.,.,.,.,.,.,.,.,.,.
+100,Chris Green,4398,Bolton West,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+101,Chris Hazzard,.,South Down,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+102,Chris Heaton-Harris,3977,Daventry,con,aye,no,no,no,no,no,no,no,no,no,no,no
+103,Chris Law,4403,Dundee West,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+104,Chris Leslie,422,Nottingham East,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+105,Chris Matheson,4408,City of Chester,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+106,Chris Philp,4503,Croydon South,con,.,no,no,no,no,no,no,aye,no,no,no,no
+107,Chris Ruane,534,Vale of Clwyd,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,aye
+108,Chris Skidmore,4021,Kingswood,con,no,no,no,no,no,no,no,no,no,no,no,no
+109,Chris Stephens,4463,Glasgow South West,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+110,Chris Williamson,3976,Derby North,lab,.,no,.,aye,aye,no,no,no,aye,.,no,.
+111,Christina Rees,4525,Neath,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+112,Christine Jardine,4634,Edinburgh West,libdem,no,.,.,.,.,aye,aye,no,.,.,aye,aye
+113,Christopher Chope,242,Christchurch,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+114,Christopher Pincher,4075,Tamworth,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+115,Chuka Umunna,4128,Streatham,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+116,Claire Perry,3974,Devizes,con,.,.,.,.,.,.,.,.,.,.,.,.
+117,Clive Betts,394,Sheffield South East,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,.
+118,Clive Efford,165,Eltham,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+119,Clive Lewis,4500,Norwich South,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+120,Colin Clark,4650,Gordon,con,no,no,.,.,no,no,no,.,no,no,no,no
+121,Colleen Fletcher,4378,Coventry North East,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+122,Conor Burns,3922,Bournemouth West,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+123,Conor McGinn,4458,St Helens North,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+124,Craig Mackinlay,4529,South Thanet,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+125,Craig Tracey,4509,North Warwickshire,con,aye,no,no,no,no,no,no,no,no,no,no,no
+126,Craig Whittaker,3940,Calder Valley,con,aye,no,no,no,no,no,no,no,no,no,no,no
+127,Crispin Blunt,104,Reigate,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+128,Damian Collins,3986,Folkestone and Hythe,con,no,aye,aye,no,no,no,no,no,no,aye,no,no
+129,Damian Green,76,Ashford,con,no,no,aye,aye,no,no,no,.,aye,no,no,no
+130,Damian Hinds,3969,East Hampshire,con,.,.,.,.,.,.,.,.,.,.,.,.
+131,Damien Moore,4669,Southport,con,no,no,no,no,no,no,no,no,no,no,no,no
+132,Dan Carden,4651,Liverpool Walton,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+133,Dan Jarvis,4243,Barnsley Central,lab,no,aye,.,aye,aye,.,no,no,aye,aye,no,.
+134,Dan Poulter,3932,Central Suffolk and North Ipswich,con,aye,no,aye,no,no,no,no,no,no,no,no,no
+135,Daniel Kawczynski,1566,Shrewsbury and Atcham,con,aye,no,no,no,no,no,no,no,no,no,no,no
+136,Daniel Zeichner,4382,Cambridge,lab,no,no,no,.,.,aye,aye,no,.,no,aye,aye
+137,Danielle Rowley,4628,Midlothian,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+138,Darren Jones,4621,Bristol North West,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+139,David Amess,44,Southend West,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+140,David Crausby,437,Bolton North East,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,.
+141,David Davis,373,Haltemprice and Howden,con,aye,no,no,no,no,no,no,no,no,no,no,no
+142,David Drew,252,Stroud,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+143,David Duguid,4606,Banff and Buchan,con,no,no,aye,no,no,no,no,no,no,no,no,no
+144,David Evennett,1198,Bexleyheath and Crayford,con,.,no,no,no,no,no,no,no,no,no,no,no
+145,David Gauke,1529,South West Hertfordshire,con,.,.,.,.,.,.,.,.,.,.,.,.
+146,David Hanson,533,Delyn,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+147,David Jones,1502,Clwyd West,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+148,David Lammy,206,Tottenham,lab,no,.,no,.,aye,aye,aye,no,.,.,aye,aye
+149,David Lidington,15,Aylesbury,con,.,.,.,.,.,.,.,.,.,.,.,.
+150,David Linden,4640,Glasgow East,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+151,David Morris,4135,Morecambe and Lunesdale,con,no,no,no,no,no,no,no,no,no,no,no,no
+152,David Mundell,1512,Dumfriesshire Clydesdale and Tweeddale,con,.,.,.,.,.,.,.,.,.,.,.,.
+153,David Rutley,4033,Macclesfield,con,.,.,.,.,.,.,.,.,no,no,no,no
+154,David Simpson,1597,Upper Bann,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+155,David T.C. Davies,1545,Monmouth,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+156,David Tredinnick,335,Bosworth,con,no,aye,aye,no,no,no,no,no,no,aye,no,no
+157,David Warburton,4526,Somerton and Frome,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+158,Dawn Butler,1489,Brent Central,lab,no,.,no,aye,aye,.,aye,no,aye,aye,aye,.
+159,Debbie Abrahams,4212,Oldham East and Saddleworth,lab,no,.,no,aye,aye,.,aye,no,aye,.,aye,.
+160,Deidre Brock,4417,Edinburgh North and Leith,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+161,Dennis Skinner,325,Bolsover,lab,aye,no,aye,no,aye,no,no,no,aye,.,aye,.
+162,Derek Thomas,4532,St Ives,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+163,Derek Twigg,429,Halton,lab,no,no,no,aye,aye,no,no,no,aye,no,no,no
+164,Desmond Swayne,55,New Forest West,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+165,Diana Johnson,1533,Hull North,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+166,Diane Abbott,172,Hackney North and Stoke Newington,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+167,Dominic Grieve,16,Beaconsfield,con,no,.,no,.,no,aye,aye,no,.,.,aye,aye
+168,Dominic Raab,4007,Esher and Walton,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+169,Douglas Chapman,4402,Dunfermline and West Fife,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+170,Douglas Ross,4627,Moray,con,.,no,no,no,no,no,no,.,no,no,no,no
+171,Drew Hendry,4467,Inverness Nairn Badenoch and Strathspey,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+172,Ed Davey,188,Kingston and Surbiton,libdem,no,.,.,.,.,aye,aye,no,no,no,aye,aye
+173,Ed Miliband,1510,Doncaster North,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+174,Ed Vaizey,1580,Wantage,con,no,aye,aye,aye,no,.,.,no,aye,aye,aye,aye
+175,Eddie Hughes,4635,Walsall North,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+176,Edward Argar,4362,Charnwood,con,.,no,no,no,no,no,no,no,no,no,no,no
+177,Edward Leigh,345,Gainsborough,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+178,Eleanor Laing,36,Epping Forest,speaker,.,.,.,.,.,.,.,.,.,.,.,.
+179,Eleanor Smith,4609,Wolverhampton South West,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+180,Elisha McCallion,.,Foyle,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+181,Elizabeth Truss,4097,South West Norfolk,con,.,.,.,.,.,.,.,.,.,.,.,.
+182,Ellie Reeves,4620,Lewisham West and Penge,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+183,Emily Thornberry,1536,Islington South and Finsbury,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+184,Emma Dent Coad,4683,Kensington,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+185,Emma Hardy,4645,Kingston upon Hull West and Hessle,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+186,Emma Lewell-Buck,4277,South Shields,lab,no,.,.,aye,aye,.,no,no,aye,no,no,no
+187,Emma Little-Pengelly,4611,Belfast South,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+188,Emma Reynolds,4077,Wolverhampton North East,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+189,Esther McVey,4084,Tatton,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+190,Fabian Hamilton,415,Leeds North East,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+191,Faisal Rashid,4670,Warrington South,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+192,Fiona Bruce,3958,Congleton,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+193,Fiona Onasanya,4629,Peterborough,indep,no,aye,no,no,.,.,aye,no,no,aye,aye,.
+194,Francie Molloy,.,Mid Ulster,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+195,Frank Field,478,Birkenhead,indep,no,no,no,no,no,no,no,no,aye,no,no,no
+196,Gareth Johnson,3970,Dartford,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+197,Gareth Snell,4595,Stoke-on-Trent Central,lab,no,no,no,aye,aye,no,no,no,aye,no,no,no
+198,Gareth Thomas,177,Harrow West,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+199,Gary Streeter,234,South West Devon,con,no,no,aye,no,no,no,no,no,no,no,no,no
+200,Gavin Newlands,4420,Paisley and Renfrewshire North,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+201,Gavin Robinson,4360,Belfast East,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+202,Gavin Shuker,4013,Luton South,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+203,Gavin Williamson,4108,South Staffordshire,con,.,.,.,.,.,.,.,.,.,.,.,.
+204,Geoffrey Clifton-Brown,249,The Cotswolds,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+205,Geoffrey Cox,1508,Torridge and West Devon,con,.,.,.,.,.,.,.,.,.,.,.,.
+206,Geoffrey Robinson,307,Coventry North West,lab,no,aye,.,aye,aye,no,aye,no,aye,aye,aye,.
+207,George Eustice,3934,Camborne and Redruth,con,aye,aye,aye,no,no,no,no,aye,no,aye,no,no
+208,George Freeman,4020,Mid Norfolk,con,.,aye,aye,aye,no,no,.,no,.,.,.,.
+209,George Hollingbery,4016,Meon Valley,con,no,no,no,no,no,no,no,aye,no,no,no,no
+210,George Howarth,481,Knowsley,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,no
+211,Geraint Davies,155,Swansea West,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+212,Gerald Jones,4501,Merthyr Tydfil and Rhymney,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+213,Gerard Killen,4672,Rutherglen and Hamilton West,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+214,Giles Watling,4677,Clacton,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+215,Gill Furniss,4571,Sheffield Brightside and Hillsborough,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+216,Gillian Keegan,4680,Chichester,con,no,no,.,no,no,no,no,no,.,no,no,no
+217,Gloria De Piero,3915,Ashfield,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+218,Glyn Davies,4041,Montgomeryshire,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+219,Gordon Henderson,4050,Sittingbourne and Sheppey,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+220,Gordon Marsden,465,Blackpool South,lab,no,aye,no,aye,aye,no,aye,no,aye,aye,aye,.
+221,Graham Brady,435,Altrincham and Sale West,con,no,no,no,no,no,no,no,no,no,no,no,no
+222,Graham P Jones,3999,Hyndburn,lab,no,.,no,aye,aye,.,aye,no,aye,.,aye,.
+223,Graham Stringer,449,Blackley and Broughton,lab,.,no,no,no,.,no,no,aye,no,no,no,no
+224,Graham Stuart,1482,Beverley and Holderness,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+225,Grahame Morris,3973,Easington,lab,no,no,no,no,aye,no,no,no,aye,no,no,.
+226,Grant Shapps,1582,Welwyn Hatfield,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+227,Greg Clark,1578,Tunbridge Wells,con,.,.,.,.,.,.,.,.,.,.,.,.
+228,Greg Hands,1526,Chelsea and Fulham,con,no,no,no,no,no,no,no,.,no,no,no,no
+229,Greg Knight,1200,East Yorkshire,con,aye,no,no,no,no,no,no,no,no,no,no,no
+230,Gregory Campbell,1409,East Londonderry,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+231,Guto Bebb,3910,Aberconwy,con,no,no,aye,aye,no,aye,aye,no,no,aye,aye,aye
+232,Guy Opperman,4142,Hexham,con,no,no,no,no,no,no,no,no,aye,no,no,no
+233,Hannah Bardell,4486,Livingston,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+234,Harriet Harman,150,Camberwell and Peckham,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+235,Harriett Baldwin,4107,West Worcestershire,con,.,no,.,no,no,no,no,.,no,no,no,no
+236,Heather Wheeler,4053,South Derbyshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+237,Heidi Allen,4516,South Cambridgeshire,con,no,no,no,no,no,aye,aye,.,no,no,aye,aye
+238,Helen Goodman,1484,Bishop Auckland,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,aye
+239,Helen Grant,4018,Maidstone and The Weald,con,no,no,no,no,no,no,no,no,no,no,no,no
+240,Helen Hayes,4510,Dulwich and West Norwood,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+241,Helen Jones,432,Warrington North,lab,no,aye,no,aye,aye,no,no,no,aye,aye,no,no
+242,Helen Whately,4527,Faversham and Mid Kent,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+243,Henry Bellingham,1441,North West Norfolk,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+244,Henry Smith,3960,Crawley,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+245,Hilary Benn,413,Leeds Central,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+246,Holly Lynch,4472,Halifax,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+247,Hugh Gaffney,4614,Coatbridge Chryston and Bellshill,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+248,Hugo Swire,1408,East Devon,con,no,no,no,no,no,no,no,.,no,no,no,no
+249,Huw Merriman,4442,Bexhill and Battle,con,aye,no,no,no,no,no,aye,no,no,no,aye,no
+250,Hywel Williams,1397,Arfon,plaid,no,aye,.,.,.,aye,aye,no,.,aye,aye,aye
+251,Iain Duncan Smith,152,Chingford and Woodford Green,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+252,Iain Stewart,4015,Milton Keynes South,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+253,Ian Austin,1511,Dudley North,lab,no,aye,.,aye,aye,.,no,no,.,aye,no,no
+254,Ian Blackford,4390,Ross Skye and Lochaber,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+255,Ian Lavery,4139,Wansbeck,lab,no,aye,.,aye,aye,.,.,aye,aye,aye,.,.
+256,Ian Liddell-Grainger,1396,Bridgwater and West Somerset,con,aye,no,no,no,no,no,no,no,no,no,no,no
+257,Ian Lucas,1470,Wrexham,lab,no,aye,no,aye,aye,no,aye,no,aye,aye,aye,.
+258,Ian Mearns,4000,Gateshead,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,aye
+259,Ian Murray,3966,Edinburgh South,lab,no,aye,no,aye,.,aye,aye,no,aye,aye,aye,aye
+260,Ian Paisley,4129,North Antrim,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+261,Imran Hussain,4394,Bradford East,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+262,Ivan Lewis,441,Bury South,indep,no,aye,no,aye,aye,.,no,no,aye,aye,no,no
+263,Jack Brereton,4643,Stoke-on-Trent South,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+264,Jack Dromey,3913,Birmingham Erdington,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+265,Jack Lopresti,3989,Filton and Bradley Stoke,con,aye,no,no,no,no,no,no,no,no,no,no,no
+266,Jackie Doyle-Price,4065,Thurrock,con,aye,no,no,no,no,no,no,no,no,no,no,no
+267,Jacob Rees-Mogg,4099,North East Somerset,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+268,Jake Berry,4060,Rossendale and Darwen,con,aye,no,no,no,no,no,no,no,no,no,no,no
+269,James Brokenshire,1530,Old Bexley and Sidcup,con,.,.,.,.,.,.,.,.,.,.,.,.
+270,James Cartlidge,4519,South Suffolk,con,no,aye,aye,no,no,no,no,no,no,aye,no,no
+271,James Cleverly,4366,Braintree,con,.,no,no,no,no,no,no,no,no,no,no,no
+272,James Duddridge,1559,Rochford and Southend East,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+273,James Frith,4637,Bury North,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+274,James Gray,261,North Wiltshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+275,James Heappey,4528,Wells,con,.,no,no,no,no,no,no,.,no,no,no,no
+276,James Morris,3992,Halesowen and Rowley Regis,con,aye,no,no,no,no,no,no,no,no,no,no,no
+277,Jamie Stone,4612,Caithness Sutherland and Easter Ross,libdem,no,.,.,.,.,aye,aye,no,.,.,aye,aye
+278,Janet Daby,4698,Lewisham East,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+279,Jared O'Mara,4661,Sheffield Hallam,indep,.,.,.,.,.,.,.,.,aye,aye,aye,.
+280,Jeff Smith,4456,Manchester Withington,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+281,Jeffrey Donaldson,650,Lagan Valley,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+282,Jenny Chapman,3972,Darlington,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+283,Jeremy Corbyn,185,Islington North,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+284,Jeremy Hunt,1572,South West Surrey,con,.,.,.,.,.,.,.,.,.,.,.,.
+285,Jeremy Lefroy,4109,Stafford,con,no,aye,aye,aye,.,.,.,.,aye,aye,no,no
+286,Jeremy Quin,4507,Horsham,con,no,no,no,no,no,no,no,no,no,no,no,no
+287,Jeremy Wright,1560,Kenilworth and Southam,con,.,.,.,.,.,.,.,.,.,.,.,.
+288,Jess Phillips,4370,Birmingham Yardley,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+289,Jesse Norman,3991,Hereford and South Herefordshire,con,no,no,no,no,no,no,no,no,no,no,no,no
+290,Jessica Morden,1548,Newport East,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+291,Jim Cunningham,308,Coventry South,lab,no,aye,no,no,aye,no,aye,no,aye,aye,aye,.
+292,Jim Fitzpatrick,197,Poplar and Limehouse,lab,no,no,no,aye,aye,.,no,no,aye,.,.,aye
+293,Jim McMahon,4569,Oldham West and Royton,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+294,Jim Shannon,4131,Strangford,dup,no,.,.,no,no,no,no,aye,no,no,no,no
+295,Jo Churchill,4380,Bury St Edmunds,con,no,no,no,no,no,no,no,no,no,no,no,no
+296,Jo Platt,4673,Leigh,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+297,Jo Stevens,4425,Cardiff Central,lab,no,no,no,.,.,aye,aye,no,no,no,aye,aye
+298,Jo Swinson,1513,East Dunbartonshire,libdem,no,.,.,.,.,aye,aye,no,no,no,aye,aye
+299,Joan Ryan,166,Enfield North,lab,no,no,no,.,no,aye,aye,no,no,no,aye,aye
+300,Joanna Cherry,4419,Edinburgh South West,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+301,John Baron,1390,Basildon and Billericay,con,aye,no,no,no,no,no,no,.,no,no,no,no
+302,John Bercow,.,Buckingham,speaker,.,.,.,.,.,.,.,.,.,.,.,.
+303,John Cryer,181,Leyton and Wanstead,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+304,John Glen,4051,Salisbury,con,no,no,no,no,no,no,no,no,no,no,no,no
+305,John Grogan,382,Keighley,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+306,John Hayes,350,South Holland and The Deepings,con,aye,no,no,no,no,no,no,aye,.,.,.,.
+307,John Healey,400,Wentworth and Dearne,lab,no,.,.,aye,aye,.,aye,.,aye,aye,aye,.
+308,John Howell,1606,Henley,con,no,no,no,no,no,no,.,no,no,no,no,no
+309,John Lamont,4608,Berwickshire Roxburgh and Selkirk,con,.,no,no,no,no,no,no,.,no,no,no,no
+310,John Mann,1387,Bassetlaw,lab,no,no,no,no,aye,no,no,no,no,no,no,no
+311,John McDonnell,178,Hayes and Harlington,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+312,John McNally,4424,Falkirk,snp,.,.,.,.,.,.,.,.,.,aye,aye,aye
+313,John Penrose,1584,Weston-super-Mare,con,aye,aye,aye,no,no,no,no,aye,no,aye,no,no
+314,John Redwood,14,Wokingham,con,aye,no,no,no,no,no,no,no,no,no,no,no
+315,John Spellar,318,Birmingham Northfield,lab,no,no,no,aye,aye,no,no,no,aye,no,.,.
+316,John Stevenson,3942,Carlisle,con,.,aye,aye,no,no,no,no,no,no,aye,no,no
+317,John Whittingdale,39,Maldon,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+318,John Woodcock,3917,Barrow and Furness,indep,no,.,no,.,no,aye,aye,no,.,.,aye,aye
+319,Johnny Mercer,4485,Plymouth Moor View,con,aye,no,no,no,no,no,no,no,no,no,no,no
+320,Jon Ashworth,4244,Leicester South,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+321,Jon Cruddas,1406,Dagenham and Rainham,lab,no,aye,.,aye,aye,no,no,no,aye,aye,no,no
+322,Jon Trickett,410,Hemsworth,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+323,Jonathan Djanogly,1425,Huntingdon,con,no,aye,aye,aye,no,no,.,no,aye,aye,no,no
+324,Jonathan Edwards,3943,Carmarthen East and Dinefwr,plaid,no,aye,.,.,.,aye,aye,no,.,aye,aye,aye
+325,Jonathan Lord,4090,Woking,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+326,Jonathan Reynolds,4119,Stalybridge and Hyde,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+327,Joseph Johnson,4039,Orpington,con,no,no,no,no,no,no,aye,no,no,.,aye,no
+328,Judith Cummins,4391,Bradford South,lab,no,.,.,aye,aye,.,.,no,aye,aye,.,.
+329,Julia Lopez,4647,Hornchurch and Upminster,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+330,Julian Knight,4410,Solihull,con,.,no,aye,no,no,no,no,aye,no,.,no,no
+331,Julian Lewis,54,New Forest East,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+332,Julian Smith,4118,Skipton and Ripon,con,.,.,.,.,.,.,.,.,.,.,.,.
+333,Julian Sturdy,4079,York Outer,con,.,no,aye,no,no,no,no,aye,no,.,no,no
+334,Julie Cooper,4405,Burnley,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+335,Julie Elliott,4127,Sunderland Central,lab,no,.,.,aye,aye,.,aye,no,aye,.,aye,.
+336,Justin Madders,4418,Ellesmere Port and Neston,lab,no,aye,no,aye,aye,.,no,no,aye,aye,aye,.
+337,Justin Tomlinson,4105,North Swindon,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+338,Justine Greening,1555,Putney,con,no,.,.,.,.,aye,aye,.,.,.,aye,aye
+339,Karen Bradley,4110,Staffordshire Moorlands,con,.,.,.,.,.,.,.,.,.,.,.,.
+340,Karen Buck,199,Westminster North,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+341,Karen Lee,4664,Lincoln,lab,no,no,.,aye,aye,.,aye,no,aye,aye,aye,.
+342,Karin Smyth,4444,Bristol South,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+343,Karl Turner,4030,Kingston upon Hull East,lab,.,aye,.,aye,aye,.,aye,.,aye,aye,aye,.
+344,Kate Green,4120,Stretford and Urmston,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+345,Kate Hoey,210,Vauxhall,lab,aye,no,.,no,.,no,no,aye,no,no,no,no
+346,Kate Hollern,4363,Blackburn,lab,.,aye,.,aye,aye,.,aye,.,aye,aye,aye,.
+347,Kate Osamor,4515,Edmonton,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+348,Keir Starmer,4514,Holborn and St Pancras,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+349,Keith Simpson,126,Broadland,con,no,no,no,no,no,no,no,no,no,no,no,no
+350,Keith Vaz,338,Leicester East,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+351,Kelly Tolhurst,4487,Rochester and Strood,con,aye,no,no,no,no,no,no,no,no,no,no,no
+352,Kelvin Hopkins,2,Luton North,indep,.,.,.,.,.,.,.,.,no,no,no,no
+353,Kemi Badenoch,4597,Saffron Walden,con,.,no,no,no,no,no,no,aye,no,no,no,no
+354,Ken Clarke,366,Rushcliffe,con,no,aye,no,aye,aye,aye,.,no,aye,aye,.,aye
+355,Kerry McCarthy,1491,Bristol East,lab,no,no,no,aye,aye,aye,aye,no,aye,.,aye,aye
+356,Kevan Jones,1438,North Durham,lab,no,no,no,aye,aye,.,no,no,aye,.,no,.
+357,Kevin Barron,392,Rother Valley,lab,no,no,no,aye,.,no,no,no,aye,no,no,no
+358,Kevin Brennan,1400,Cardiff West,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+359,Kevin Foster,4451,Torbay,con,aye,no,aye,no,no,no,no,no,no,no,no,no
+360,Kevin Hollinrake,4474,Thirsk and Malton,con,no,aye,aye,no,no,no,no,no,no,aye,no,no
+361,Khalid Mahmood,1392,Birmingham Perry Barr,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+362,Kirstene Hair,4675,Angus,con,.,no,no,no,no,no,no,.,no,no,no,no
+363,Kirsty Blackman,4357,Aberdeen North,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+364,Kit Malthouse,4495,North West Hampshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+365,Kwasi Kwarteng,4134,Spelthorne,con,aye,no,no,no,no,no,no,no,no,no,no,no
+366,Lady Hermon,1437,North Down,indep,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+367,Laura Pidcock,4665,North West Durham,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+368,Laura Smith,4648,Crewe and Nantwich,lab,no,no,no,aye,aye,.,no,no,aye,no,no,.
+369,Laurence Robertson,253,Tewkesbury,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+370,Layla Moran,4656,Oxford West and Abingdon,libdem,no,.,.,.,.,aye,aye,no,.,.,aye,aye
+371,Lee Rowley,4652,North East Derbyshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+372,Leo Docherty,4600,Aldershot,con,.,.,.,.,.,.,.,.,no,no,no,no
+373,Lesley Laird,4660,Kirkcaldy and Cowdenbeath,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+374,Liam Byrne,1171,Birmingham Hodge Hill,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+375,Liam Fox,223,North Somerset,con,.,.,.,.,.,.,.,.,.,.,.,.
+376,Lilian Greenwood,4029,Nottingham South,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+377,Lindsay Hoyle,467,Chorley,speaker,.,.,.,.,.,.,.,.,.,.,.,.
+378,Lisa Cameron,4412,East Kilbride Strathaven and Lesmahagow,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+379,Lisa Nandy,4082,Wigan,lab,no,aye,.,aye,aye,aye,.,.,aye,aye,.,aye
+380,Liz Kendall,4026,Leicester West,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+381,Liz McInnes,4342,Heywood and Middleton,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+382,Liz Saville Roberts,4521,Dwyfor Meirionnydd,plaid,no,aye,.,.,.,aye,aye,no,.,aye,aye,aye
+383,Liz Twist,4618,Blaydon,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+384,Lloyd Russell-Moyle,4615,Brighton Kemptown,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+385,Louise Ellman,484,Liverpool Riverside,lab,no,no,no,aye,aye,aye,aye,no,aye,.,aye,aye
+386,Louise Haigh,4473,Sheffield Heeley,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,.
+387,Luciana Berger,4036,Liverpool Riverside,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+388,Lucy Allan,4411,Telford,con,.,.,.,.,.,.,.,.,no,no,no,no
+389,Lucy Frazer,4517,South East Cambridgeshire,con,no,no,no,.,no,no,no,.,.,no,no,no
+390,Lucy Powell,4263,Manchester Central,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+391,Luke Graham,4622,Ochil and South Perthshire,con,no,no,aye,no,no,no,no,.,aye,no,no,no
+392,Luke Hall,4450,Thornbury and Yate,con,no,no,no,no,no,no,no,no,no,no,no,no
+393,Luke Pollard,4682,Plymouth Sutton and Devonport,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+394,Lyn Brown,1583,West Ham,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+395,Madeleine Moon,1490,Bridgend,lab,no,no,no,aye,aye,aye,aye,no,aye,.,aye,aye
+396,Maggie Throup,4447,Erewash,con,aye,no,no,no,no,no,no,no,no,no,no,no
+397,Marcus Fysh,4446,Yeovil,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+398,Marcus Jones,4024,Nuneaton,con,aye,no,no,no,no,no,no,no,no,no,no,no
+399,Margaret Beckett,328,Derby South,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+400,Margaret Greenwood,4400,Wirral West,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+401,Margaret Hodge,140,Barking,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+402,Margot James,4115,Stourbridge,con,no,aye,.,aye,no,.,.,no,aye,.,aye,.
+403,Maria Caulfield,4492,Lewes,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+404,Maria Eagle,483,Garston and Halewood,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+405,Maria Miller,1480,Basingstoke,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+406,Marie Rimmer,4457,St Helens South and Whiston,lab,no,aye,no,aye,aye,aye,aye,no,aye,.,aye,.
+407,Marion Fellows,4440,Motherwell and Wishaw,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+408,Mark Field,1405,Cities of London and Westminster,con,no,no,no,aye,no,aye,.,aye,aye,.,.,aye
+409,Mark Francois,1444,Rayleigh and Wickford,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+410,Mark Garnier,4074,Wyre Forest,con,.,no,aye,no,no,no,.,aye,.,.,aye,no
+411,Mark Harper,1520,Forest of Dean,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+412,Mark Hendrick,473,Preston,lab,no,aye,aye,aye,aye,aye,aye,no,aye,aye,aye,aye
+413,Mark Lancaster,1544,Milton Keynes North,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+414,Mark Menzies,3998,Fylde,con,aye,no,no,no,no,no,no,no,no,no,no,no
+415,Mark Pawsey,4052,Rugby,con,no,aye,aye,aye,no,no,no,no,aye,aye,no,no
+416,Mark Prisk,1424,Hertford and Stortford,con,no,no,aye,no,no,no,no,no,no,.,.,.
+417,Mark Pritchard,1576,The Wrekin,con,aye,no,no,no,no,no,no,no,no,no,no,no
+418,Mark Spencer,4055,Sherwood,con,aye,no,no,no,no,no,no,.,no,no,no,no
+419,Mark Tami,1383,Alyn and Deeside,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+420,Marsha de Cordova,4676,Battersea,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+421,Martin Docherty-Hughes,4374,West Dunbartonshire,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+422,Martin Vickers,3957,Cleethorpes,con,aye,no,no,no,no,no,no,no,no,no,no,no
+423,Martin Whitfield,4626,East Lothian,lab,no,.,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+424,Martyn Day,4488,Linlithgow and East Falkirk,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+425,Mary Creagh,1579,Wakefield,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+426,Mary Glindon,4126,North Tyneside,lab,no,aye,.,aye,aye,.,.,no,aye,aye,no,.
+427,Mary Robinson,4406,Cheadle,con,no,no,no,no,no,no,no,no,no,no,no,no
+428,Matt Hancock,4070,West Suffolk,con,.,.,.,.,.,.,.,.,.,.,.,.
+429,Matt Rodda,4654,Reading East,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+430,Matt Warman,4361,Boston and Skegness,con,aye,no,no,no,no,no,no,no,no,no,no,no
+431,Matthew Offord,4006,Hendon,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+432,Matthew Pennycook,4520,Greenwich and Woolwich,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+433,Matthew Western,4617,Warwick and Leamington,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+434,Meg Hillier,1524,Hackney South and Shoreditch,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+435,Mel Stride,3935,Central Devon,con,no,no,no,no,no,no,no,no,no,no,no,no
+436,Melanie Onn,4464,Great Grimsby,lab,no,aye,.,aye,aye,.,no,.,aye,aye,no,.
+437,Mhairi Black,4421,Paisley and Renfrewshire South,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+438,Michael Ellis,4116,Northampton North,con,aye,no,no,no,no,no,no,no,no,no,no,no
+439,Michael Fabricant,280,Lichfield,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+440,Michael Fallon,88,Sevenoaks,con,no,.,aye,no,no,no,no,aye,no,no,no,no
+441,Michael Gove,1571,Surrey Heath,con,.,.,.,.,.,.,.,.,.,.,.,.
+442,Michael Tomlinson,4497,Mid Dorset and North Poole,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+443,Michelle Donelan,4530,Chippenham,con,.,no,no,no,no,no,no,aye,no,no,no,no
+444,Michelle Gildernew,.,Fermanagh and South Tyrone,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+445,Mickey Brady,.,Newry and Armagh,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+446,Mike Amesbury,4667,Weaver Vale,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+447,Mike Freer,4004,Finchley and Golders Green,con,no,no,no,no,no,aye,no,no,no,no,aye,no
+448,Mike Gapes,184,Ilford South,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+449,Mike Hill,4644,Hartlepool,lab,no,.,.,aye,aye,.,no,no,aye,no,no,.
+450,Mike Kane,4316,Wythenshawe and Sale East,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,.
+451,Mike Penning,1528,Hemel Hempstead,con,aye,no,no,no,no,no,no,no,no,no,no,no
+452,Mike Wood,4384,Dudley South,con,aye,no,no,no,no,no,no,.,no,no,no,no
+453,Mims Davies,4513,Eastleigh,con,aye,no,no,no,no,no,no,no,no,no,no,no
+454,Mohammad Yasin,4598,Bedford,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+455,Nadhim Zahawi,4113,Stratford-on-Avon,con,.,.,.,no,no,no,no,.,no,no,no,no
+456,Nadine Dorries,1481,Mid Bedfordshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+457,Naz Shah,4409,Bradford West,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+458,Neil Coyle,4368,Bermondsey and Old Southwark,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+459,Neil Gray,4365,Airdrie and Shotts,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+460,Neil O'Brien,4679,Harborough,con,aye,no,no,no,no,no,no,.,no,no,no,no
+461,Neil Parish,4072,Tiverton and Honiton,con,aye,.,aye,no,no,no,no,aye,no,.,no,no
+462,Nia Griffith,1541,Llanelli,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+463,Nic Dakin,4056,Scunthorpe,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+464,Nicholas Soames,116,Mid Sussex,con,no,aye,no,aye,no,no,no,no,aye,aye,no,no
+465,Nick Boles,3995,Grantham and Stamford,con,no,aye,aye,aye,no,no,.,no,aye,aye,aye,aye
+466,Nick Brown,523,Newcastle-upon-Tyne East and Wallsend,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+467,Nick Gibb,111,Bognor Regis and Littlehampton,con,.,.,.,no,no,no,no,no,no,no,no,no
+468,Nick Herbert,1479,Arundel and South Downs,con,no,aye,aye,aye,no,no,no,no,aye,aye,no,no
+469,Nick Hurd,1561,Ruislip Northwood and Pinner,con,no,.,.,.,no,no,.,no,.,.,.,no
+470,Nick Smith,3928,Blaenau Gwent,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+471,Nick Thomas-Symonds,4479,Torfaen,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,.
+472,Nicky Morgan,4027,Loughborough,con,no,aye,aye,aye,no,no,no,no,aye,aye,no,no
+473,Nigel Adams,4057,Selby and Ainsty,con,.,no,no,no,no,no,no,aye,no,no,no,no
+474,Nigel Dodds,1388,Belfast North,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+475,Nigel Evans,474,Ribble Valley,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+476,Nigel Huddleston,4407,Mid Worcestershire,con,.,.,.,.,no,no,no,.,.,.,no,no
+477,Nigel Mills,4136,Amber Valley,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+478,Norman Lamb,1439,North Norfolk,libdem,no,aye,.,aye,.,.,aye,no,aye,aye,aye,.
+479,Nus Ghani,4460,Wealden,con,aye,no,no,no,no,no,no,no,no,no,no,no
+480,Oliver Dowden,4441,Hertsmere,con,no,no,no,no,no,no,no,no,no,no,no,no
+481,Oliver Heald,69,North East Hertfordshire,con,no,.,.,aye,no,no,no,no,aye,no,no,no
+482,Oliver Letwin,247,West Dorset,con,no,aye,aye,aye,no,no,no,no,aye,aye,.,.
+483,Órfhlaith Begley,.,West Tyrone,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+484,Owen Paterson,274,North Shropshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+485,Owen Smith,4042,Pontypridd,lab,no,no,no,.,.,aye,aye,no,no,no,aye,aye
+486,Pat McFadden,1587,Wolverhampton South East,lab,no,.,no,aye,aye,.,aye,no,aye,aye,aye,.
+487,Patricia Gibson,4435,North Ayrshire and Arran,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+488,Patrick Grady,4432,Glasgow North,snp,no,.,no,.,.,aye,aye,.,.,aye,aye,aye
+489,Patrick McLoughlin,333,Derbyshire Dales,con,no,no,no,no,no,no,no,no,no,no,no,no
+490,Paul Beresford,103,Mole Valley,con,no,no,no,no,no,no,no,no,no,no,no,no
+491,Paul Blomfield,4058,Sheffield Central,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+492,Paul Farrelly,1436,Newcastle-under-Lyme,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+493,Paul Flynn,545,Newport West,lab,.,.,.,.,.,.,.,.,.,.,.,.
+494,Paul Girvan,4633,South Antrim,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+495,Paul Maskey,.,Belfast West,sinn,.,.,.,.,.,.,.,.,.,.,.,.
+496,Paul Masterton,4625,East Renfrewshire,con,no,aye,aye,aye,no,.,no,no,aye,aye,no,.
+497,Paul Maynard,3926,Blackpool North and Cleveleys,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+498,Paul Scully,4414,Sutton and Cheam,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+499,Paul Sweeney,4642,Glasgow North East,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+500,Paul Williams,4666,Stockton South,lab,no,no,no,no,aye,aye,aye,no,no,no,aye,aye
+501,Paula Sherriff,4426,Dewsbury,lab,no,aye,.,aye,aye,.,.,no,aye,aye,.,aye
+502,Pauline Latham,4025,Mid Derbyshire,con,.,no,no,no,no,no,no,aye,no,no,no,no
+503,Penny Mordaunt,4017,Portsmouth North,con,.,.,.,.,.,.,.,.,.,.,.,.
+504,Pete Wishart,1440,Perth and North Perthshire,snp,no,.,no,.,.,aye,.,no,.,aye,.,aye
+505,Peter Aldous,4069,Waveney,con,no,no,aye,no,no,no,no,no,no,no,no,no
+506,Peter Bone,1581,Wellingborough,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+507,Peter Bottomley,117,Worthing West,con,no,no,no,no,no,no,no,.,no,no,no,no
+508,Peter Dowd,4397,Bootle,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+509,Peter Grant,4466,Glenrothes,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+510,Peter Heaton-Jones,4524,North Devon,con,.,no,no,no,no,no,no,no,no,no,no,no
+511,Peter Kyle,4505,Hove,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+512,Phil Wilson,1603,Sedgefield,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+513,Philip Davies,1565,Shipley,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+514,Philip Dunne,1542,Ludlow,con,no,no,no,no,no,no,no,aye,no,no,no,no
+515,Philip Hammond,105,Runnymede and Weybridge,con,.,.,.,.,.,.,.,.,.,.,.,.
+516,Philip Hollobone,1537,Kettering,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+517,Philippa Whitford,4385,Central Ayrshire,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+518,Phillip Lee,3921,Bracknell,con,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+519,Preet Gill,4603,Birmingham Edgbaston,lab,no,.,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+520,Priti Patel,4066,Witham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+521,Rachael Maskell,4471,York Central,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+522,Rachel Maclean,4668,Redditch,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+523,Rachel Reeves,4031,Leeds West,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+524,Ranil Jayawardena,4498,North East Hampshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+525,Rebecca Harris,3948,Castle Point,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+526,Rebecca Long-Bailey,4396,Salford and Eccles,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+527,Rebecca Pow,4522,Taunton Deane,con,no,aye,aye,no,no,no,no,no,no,aye,no,no
+528,Rehman Chishti,3987,Gillingham and Rainham,con,aye,no,no,no,no,no,no,.,no,no,no,no
+529,Richard Bacon,1451,South Norfolk,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+530,Richard Benyon,1547,Newbury,con,no,aye,no,aye,no,no,no,no,aye,aye,no,no
+531,Richard Burden,301,Birmingham Northfield,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,aye
+532,Richard Burgon,4493,Leeds East,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+533,Richard Drax,4132,South Dorset,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+534,Richard Graham,3990,Gloucester,con,no,.,.,.,no,no,no,no,aye,no,no,no
+535,Richard Harrington,4068,Watford,con,no,aye,.,aye,no,aye,.,no,aye,aye,aye,aye
+536,Rishi Sunak,4483,Richmond (Yorks),con,aye,no,no,no,no,no,no,aye,no,no,no,no
+537,Robert Buckland,4106,South Swindon,con,no,no,no,no,no,no,no,no,aye,no,no,no
+538,Robert Courts,4589,Witney,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+539,Robert Goodwill,1562,Scarborough and Whitby,con,aye,no,no,no,no,no,no,no,no,no,no,no
+540,Robert Halfon,3985,Harlow,con,no,aye,aye,no,no,no,no,.,no,aye,no,no
+541,Robert Jenrick,4320,Newark,con,aye,no,no,no,no,no,no,no,no,no,no,no
+542,Robert Neill,1601,Bromley and Chislehurst,con,no,aye,aye,aye,no,no,no,no,aye,.,.,no
+543,Robert Syms,245,Poole,con,aye,no,no,no,no,no,no,no,no,no,no,no
+544,Roberta Blackman-Woods,1501,City of Durham,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+545,Robin Walker,4091,Worcester,con,no,no,no,.,no,no,no,no,no,no,no,no
+546,Roger Gale,87,North Thanet,con,no,no,no,no,no,no,no,no,no,no,no,no
+547,Roger Godsiff,304,Birmingham Hall Green,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+548,Ronnie Campbell,514,Blyth Valley,lab,aye,no,aye,no,no,no,no,no,no,no,no,no
+549,Ronnie Cowan,4465,Inverclyde,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+550,Rory Stewart,4137,Penrith and The Border,con,no,.,.,aye,no,no,no,no,aye,.,no,no
+551,Rosena Allin-Khan,4573,Tooting,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+552,Rosie Cooper,1538,West Lancashire,lab,no,no,no,aye,aye,no,no,no,aye,no,no,no
+553,Rosie Duffield,4616,Canterbury,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+554,Rosie Winterton,7267,Doncaster Central,speaker,.,.,.,.,.,.,.,.,.,.,.,.
+555,Ross Thomson,4599,Aberdeen South,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+556,Royston Smith,4478,Southampton Itchen,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+557,Rupa Huq,4511,Ealing Central and Acton,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+558,Rushanara Ali,4138,Bethnal Green and Bow,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+559,Ruth Cadbury,4389,Brentford and Isleworth—,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+560,Ruth George,4662,High Peak,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+561,Ruth Smeeth,4508,Stoke-on-Trent North,lab,no,no,no,aye,aye,no,no,no,aye,no,no,no
+562,Sajid Javid,3945,Bromsgrove,con,.,.,.,.,.,.,.,.,.,.,.,.
+563,Sam Gyimah,3980,East Surrey,con,no,.,.,.,no,.,aye,no,.,.,aye,.
+564,Sammy Wilson,1593,East Antrim,dup,.,.,.,no,no,no,no,aye,no,no,no,no
+565,Sandy Martin,4678,Ipswich,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+566,Sarah Champion,4267,Rotherham,lab,no,no,no,aye,aye,no,no,no,aye,no,no,no
+567,Sarah Jones,4631,Croydon Central,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+568,Sarah Newton,4071,Truro and Falmouth,con,no,.,aye,aye,no,.,.,no,aye,aye,.,.
+569,Sarah Wollaston,4073,Totnes,con,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+570,Scott Mann,4496,North Cornwall,con,aye,no,aye,no,no,no,no,aye,no,no,no,no
+571,Seema Kennedy,4455,South Ribble,con,no,no,no,no,no,no,no,no,no,no,no,no
+572,Seema Malhotra,4253,Feltham and Heston,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+573,Shabana Mahmood,3914,Birmingham Ladywood,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+574,Shailesh Vara,1496,North West Cambridgeshire,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+575,Sharon Hodgson,1521,Washington and Sunderland West,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+576,Sheryll Murray,4100,South East Cornwall,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+577,Simon Clarke,4655,Middlesbrough South and East Cleveland,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+578,Simon Hart,3944,Carmarthen West and South Pembrokeshire,con,.,aye,aye,no,no,no,no,.,no,aye,no,no
+579,Simon Hoare,4494,North Dorset,con,no,aye,aye,aye,no,no,no,no,.,.,.,.
+580,Siobhain McDonagh,193,Mitcham and Morden,lab,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+581,Stella Creasy,4088,Walthamstow,lab,no,.,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+582,Stephanie Peacock,4607,Barnsley East,lab,no,aye,.,aye,aye,.,no,no,aye,aye,no,.
+583,Stephen Barclay,4095,North East Cambridgeshire,con,.,.,.,.,.,.,.,.,.,.,.,.
+584,Stephen Crabb,1554,Preseli Pembrokeshire,con,no,aye,aye,aye,no,no,no,no,no,no,no,no
+585,Stephen Doughty,4264,Cardiff South and Penarth,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+586,Stephen Gethins,4434,North East Fife,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+587,Stephen Hammond,1585,Wimbledon,con,no,aye,aye,aye,no,aye,.,no,aye,aye,.,.
+588,Stephen Hepburn,520,Jarrow,lab,no,no,no,no,no,no,no,no,no,no,no,no
+589,Stephen Kerr,4604,Stirling,con,no,no,aye,no,no,no,no,no,no,aye,no,no
+590,Stephen Kinnock,4359,Aberavon,lab,no,aye,aye,aye,aye,.,.,no,aye,aye,aye,.
+591,Stephen Lloyd,3968,Eastbourne,indep,no,aye,aye,aye,aye,aye,.,no,aye,aye,.,.
+592,Stephen McPartland,4093,Stevenage,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+593,Stephen Metcalfe,4092,South Basildon and East Thurrock,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+594,Stephen Morgan,4653,Portsmouth South,lab,no,no,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+595,Stephen Pound,161,Ealing North,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+596,Stephen Timms,163,East Ham,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+597,Stephen Twigg,167,Liverpool West Derby,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+598,Steve Baker,4064,Wycombe,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+599,Steve Brine,4067,Winchester,con,no,aye,aye,aye,no,.,.,no,aye,aye,aye,.
+600,Steve Double,4452,St Austell and Newquay,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+601,Steve McCabe,298,Birmingham Selly Oak,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,aye
+602,Steve Reed,4268,Croydon North,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+603,Stewart Hosie,1514,Dundee East,snp,no,.,no,.,.,aye,aye,no,.,.,.,.
+604,Stewart M. McDonald,4461,Glasgow South,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+605,Stuart Andrew,4032,Pudsey,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+606,Stuart C. McDonald,4393,Cumbernauld Kilsyth and Kirkintilloch East,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+607,Sue Hayman,4395,Workington,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+608,Suella Braverman,4475,Fareham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+609,Susan Elan Jones,3956,Clwyd South,lab,no,.,no,aye,aye,aye,aye,no,aye,.,aye,aye
+610,Tanmanjeet Singh Dhesi,4638,Slough,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+611,Teresa Pearce,4003,Erith and Thamesmead,lab,no,.,.,aye,aye,.,aye,no,aye,aye,aye,aye
+612,Thangam Debbonaire,4433,Bristol West,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+613,Thelma Walker,4649,Colne Valley,lab,no,no,no,aye,aye,aye,aye,no,aye,.,aye,aye
+614,Theresa May,8,Maidenhead,con,.,.,.,.,.,.,.,.,.,.,.,.
+615,Theresa Villiers,1500,Chipping Barnet,con,.,no,no,no,no,no,no,aye,no,no,no,no
+616,Thérèse Coffey,4098,Suffolk Coastal,con,.,no,no,no,no,no,no,.,no,no,no,no
+617,Tim Farron,1591,Westmorland and Lonsdale,libdem,no,.,.,.,.,aye,aye,no,.,aye,aye,aye
+618,Tim Loughton,114,East Worthing and Shoreham,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+619,Tobias Ellwood,1487,Bournemouth East,con,.,.,.,.,.,.,.,.,aye,no,no,no
+620,Toby Perkins,3952,Chesterfield,lab,no,aye,no,aye,aye,no,aye,no,aye,.,aye,no
+621,Tom Brake,151,Carshalton and Wallington,libdem,no,.,.,.,.,aye,aye,no,no,no,aye,aye
+622,Tom Pursglove,4369,Corby,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+623,Tom Tugendhat,4462,Tonbridge and Malling,con,.,.,.,.,.,no,no,.,no,no,no,no
+624,Tom Watson,1463,West Bromwich East,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+625,Tommy Sheppard,4453,Edinburgh East,snp,no,.,no,.,.,aye,aye,no,.,aye,aye,aye
+626,Tonia Antoniazzi,4623,Gower,lab,no,no,no,aye,aye,aye,aye,no,aye,no,aye,aye
+627,Tony Lloyd,450,Rochdale,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+628,Tracey Crouch,3950,Chatham and Aylesford,con,aye,no,no,no,no,no,no,.,no,no,no,no
+629,Tracy Brabin,4588,Batley and Spen,lab,no,aye,.,aye,aye,.,.,no,aye,aye,aye,.
+630,Trudy Harrison,4593,Copeland,con,aye,no,aye,no,no,no,no,no,no,no,no,no
+631,Tulip Siddiq,4518,Hampstead and Kilburn,lab,no,no,no,aye,aye,aye,aye,no,aye,.,aye,aye
+632,Valerie Vaz,4076,Walsall South,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+633,Vernon Coaker,360,Gedling,lab,no,aye,no,aye,aye,.,aye,no,aye,aye,aye,.
+634,Vicky Ford,4674,Chelmsford,con,no,aye,.,aye,no,no,no,no,aye,no,no,no
+635,Vicky Foxcroft,4491,Lewisham Deptford,lab,no,aye,.,aye,aye,aye,aye,no,aye,aye,aye,aye
+636,Victoria Atkins,4399,Louth and Horncastle,con,no,no,no,no,no,no,no,no,no,no,no,no
+637,Victoria Prentis,4401,Banbury,con,no,.,.,aye,no,no,no,no,aye,.,no,no
+638,Vince Cable,207,Twickenham,libdem,no,.,no,.,no,aye,aye,no,.,.,aye,aye
+639,Virendra Sharma,1604,Ealing Southall,lab,no,aye,no,aye,aye,aye,aye,no,aye,aye,aye,aye
+640,Wayne David,1398,Caerphilly,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+641,Wendy Morton,4358,Aldridge-Brownhills,con,aye,no,no,no,no,no,no,no,no,no,no,no
+642,Wera Hobhouse,4602,Bath,libdem,no,no,no,no,no,aye,aye,no,no,no,aye,aye
+643,Wes Streeting,4504,Ilford North,lab,no,.,no,aye,aye,aye,aye,no,.,.,aye,aye
+644,Will Quince,4423,Colchester,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+645,William Cash,288,Stone,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+646,William Wragg,4429,Hazel Grove,con,aye,no,no,no,no,no,no,aye,no,no,no,no
+647,Yasmin Qureshi,3924,Bolton South East,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+648,Yvette Cooper,420,Normanton Pontefract and Castleford,lab,no,aye,.,aye,aye,.,aye,no,aye,aye,aye,.
+649,Yvonne Fovargue,4034,Makerfield,lab,no,.,.,aye,aye,.,no,.,aye,no,no,no
+650,Zac Goldsmith,4062,Richmond Park (Surrey),con,aye,no,no,no,no,no,no,aye,no,no,no,no

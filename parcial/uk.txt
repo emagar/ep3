@@ -1,0 +1,1354 @@
+Elección Pública III
+Otoño 2024
+Trabajo parcial
+
+**************************
+1. Desarrollo de pericia técnica: conversión de texto en datos. Fusione las siguientes dos votaciones nominales (indicative votes) para cada miembro del Parlamento. 
+
+First "meaningful vote" (15 January 2019)
+https://hansard.parliament.uk/Commons/2019-01-15/division/B975E889-89F5-42D3-9C18-7562AFD1977C/EuropeanUnion(Withdrawal)Act?outputType=Names
+
+The meaningful vote took place in the House of Commons on 15 January 2019.[73] The vote was originally scheduled to be held on 11 December 2018 but on 10 December, May postponed it because it became clear the government's Brexit deal would be voted down.
+
+In the absence of any significant changes in the positions of the political parties, as expected, the government was defeated in 15 January vote by 432 votes to 202. The 230-vote margin of defeat was the worst for any government in modern Parliamentary history
+
+
+European Union (Withdrawal) Act
+  Share
+Division 293
+
+The House divided:
+
+Ayes: 202
+Noes: 432
+Question accordingly negatived.
+
+
+Ayes (202)
+
+Conservative (196)
+Nigel Adams, Selby and Ainsty
+Bim Afolami, Hitchin and Harpenden
+Peter Aldous, Waveney
+Stuart Andrew, Pudsey
+Edward Argar, Charnwood
+Victoria Atkins, Louth and Horncastle
+Kemi Badenoch, Saffron Walden
+Harriett Baldwin, West Worcestershire
+Stephen Barclay, North East Cambridgeshire
+Henry Bellingham, North West Norfolk
+Richard Benyon, Newbury
+Paul Beresford, Mole Valley
+Jake Berry, Rossendale and Darwen
+Nick Boles, Grantham and Stamford
+Peter Bottomley, Worthing West
+Andrew Bowie, West Aberdeenshire and Kincardine
+Karen Bradley, Staffordshire Moorlands
+Jack Brereton, Stoke-on-Trent South
+Steve Brine, Winchester
+James Brokenshire, Old Bexley and Sidcup
+Robert Buckland, South Swindon
+Alex Burghart, Brentwood and Ongar
+Alistair Burt, North East Bedfordshire
+Alun Cairns, Vale of Glamorgan
+James Cartlidge, South Suffolk
+Alex Chalk, Cheltenham
+Jo Churchill, Bury St Edmunds
+Colin Clark, Gordon
+Greg Clark, Tunbridge Wells
+Ken Clarke, Rushcliffe
+James Cleverly, Braintree
+Geoffrey Clifton-Brown, The Cotswolds
+Thérèse Coffey, Suffolk Coastal
+Alberto Costa, South Leicestershire
+Geoffrey Cox, Torridge and West Devon
+Stephen Crabb, Preseli Pembrokeshire
+Chris Davies, Brecon and Radnorshire
+David T.C. Davies, Monmouth
+Glyn Davies, Montgomeryshire
+Mims Davies, Eastleigh
+Caroline Dinenage, Gosport
+Jonathan Djanogly, Huntingdon
+Leo Docherty, Aldershot
+Michelle Donelan, Chippenham
+Oliver Dowden, Hertsmere
+Jackie Doyle-Price, Thurrock
+David Duguid, Banff and Buchan
+Alan Duncan, Rutland and Melton
+Philip Dunne, Ludlow
+Michael Ellis, Northampton North
+Tobias Ellwood, Bournemouth East
+George Eustice, Camborne and Redruth
+Mark Field, Cities of London and Westminster
+Vicky Ford, Chelmsford
+Kevin Foster, Torbay
+Liam Fox, North Somerset
+Lucy Frazer, South East Cambridgeshire
+George Freeman, Mid Norfolk
+Mike Freer, Finchley and Golders Green
+Roger Gale, North Thanet
+Mark Garnier, Wyre Forest
+David Gauke, South West Hertfordshire
+Nus Ghani, Wealden
+Nick Gibb, Bognor Regis and Littlehampton
+Cheryl Gillan, Chesham and Amersham
+John Glen, Salisbury
+Robert Goodwill, Scarborough and Whitby
+Michael Gove, Surrey Heath
+Luke Graham, Ochil and South Perthshire
+Richard Graham, Gloucester
+Bill Grant, Ayr, Carrick and Cumnock
+Helen Grant, Maidstone and The Weald
+Chris Grayling, Epsom and Ewell
+Damian Green, Ashford
+Andrew Griffiths, Burton
+Kirstene Hair, Angus
+Luke Hall, Thornbury and Yate
+Philip Hammond, Runnymede and Weybridge
+Stephen Hammond, Wimbledon
+Matt Hancock, West Suffolk
+Richard Harrington, Watford
+Rebecca Harris, Castle Point
+Trudy Harrison, Copeland
+Simon Hart, Carmarthen West and South Pembrokeshire
+Oliver Heald, North East Hertfordshire
+James Heappey, Wells
+Chris Heaton-Harris, Daventry
+Peter Heaton-Jones, North Devon
+Nick Herbert, Arundel and South Downs
+Damian Hinds, East Hampshire
+Simon Hoare, North Dorset
+George Hollingbery, Meon Valley
+Kevin Hollinrake, Thirsk and Malton
+John Howell, Henley
+Nigel Huddleston, Mid Worcestershire
+Jeremy Hunt, South West Surrey
+Nick Hurd, Ruislip, Northwood and Pinner
+Alister Jack, Dumfries and Galloway
+Margot James, Stourbridge
+Sajid Javid, Bromsgrove
+Robert Jenrick, Newark
+Caroline Johnson, Sleaford and North Hykeham
+Andrew Jones, Harrogate and Knaresborough
+Marcus Jones, Nuneaton
+Gillian Keegan, Chichester
+Seema Kennedy, South Ribble
+Stephen Kerr, Stirling
+Julian Knight, Solihull
+Kwasi Kwarteng, Spelthorne
+Mark Lancaster, Milton Keynes North
+Andrea Leadsom, South Northamptonshire
+Jeremy Lefroy, Stafford
+Edward Leigh, Gainsborough
+Oliver Letwin, West Dorset
+Brandon Lewis, Great Yarmouth
+David Lidington, Aylesbury
+Jack Lopresti, Filton and Bradley Stoke
+Rachel Maclean, Redditch
+Alan Mak, Havant
+Kit Malthouse, North West Hampshire
+Paul Masterton, East Renfrewshire
+Theresa May, Maidenhead
+Paul Maynard, Blackpool North and Cleveleys
+Patrick McLoughlin, Derbyshire Dales
+Mark Menzies, Fylde
+Huw Merriman, Bexhill and Battle
+Maria Miller, Basingstoke
+Amanda Milling, Cannock Chase
+Anne Milton, Guildford
+Penny Mordaunt, Portsmouth North
+Nicky Morgan, Loughborough
+David Morris, Morecambe and Lunesdale
+James Morris, Halesowen and Rowley Regis
+David Mundell, Dumfriesshire, Clydesdale and Tweeddale
+Andrew Murrison, South West Wiltshire
+Bob Neill, Bromley and Chislehurst
+Sarah Newton, Truro and Falmouth
+Caroline Nokes, Romsey and Southampton North
+Jesse Norman, Hereford and South Herefordshire
+Neil O'Brien, Harborough
+Guy Opperman, Hexham
+Neil Parish, Tiverton and Honiton
+Mark Pawsey, Rugby
+John Penrose, Weston-super-Mare
+Andrew Percy, Brigg and Goole
+Claire Perry, Devizes
+Chris Philp, Croydon South
+Christopher Pincher, Tamworth
+Dan Poulter, Central Suffolk and North Ipswich
+Rebecca Pow, Taunton Deane
+Victoria Prentis, Banbury
+Mark Prisk, Hertford and Stortford
+Jeremy Quin, Horsham
+Mary Robinson, Cheadle
+Amber Rudd, Hastings and Rye
+David Rutley, Macclesfield
+Antoinette Sandbach, Eddisbury
+Paul Scully, Sutton and Cheam
+Bob Seely, Isle of Wight
+Andrew Selous, South West Bedfordshire
+Alok Sharma, Reading West
+Alec Shelbrooke, Elmet and Rothwell
+Keith Simpson, Broadland
+Chris Skidmore, Kingswood
+Chloe Smith, Norwich North
+Julian Smith, Skipton and Ripon
+Nicholas Soames, Mid Sussex
+Caroline Spelman, Meriden
+Mark Spencer, Sherwood
+Andrew Stephenson, Pendle
+John Stevenson, Carlisle
+Rory Stewart, Penrith and The Border
+Gary Streeter, South West Devon
+Mel Stride, Central Devon
+Graham Stuart, Beverley and Holderness
+Rishi Sunak, Richmond (Yorks)
+Desmond Swayne, New Forest West
+Maggie Throup, Erewash
+Kelly Tolhurst, Rochester and Strood
+Justin Tomlinson, North Swindon
+David Tredinnick, Bosworth
+Elizabeth Truss, South West Norfolk
+Tom Tugendhat, Tonbridge and Malling
+Ed Vaizey, Wantage
+Charles Walker, Broxbourne
+Robin Walker, Worcester
+Ben Wallace, Wyre and Preston North
+David Warburton, Somerton and Frome
+Matt Warman, Boston and Skegness
+Helen Whately, Faversham and Mid Kent
+Heather Wheeler, South Derbyshire
+Craig Whittaker, Calder Valley
+Gavin Williamson, South Staffordshire
+Mike Wood, Dudley South
+Jeremy Wright, Kenilworth and Southam
+Nadhim Zahawi, Stratford-on-Avon
+
+Independent (3)
+Frank Field, Birkenhead
+Sylvia Hermon, North Down
+Stephen Lloyd, Eastbourne
+
+Labour (3)
+Ian Austin, Dudley North
+Kevin Barron, Rother Valley
+John Mann, Bassetlaw
+
+
+Noes (432)
+
+Conservative (118)
+Adam Afriyie, Windsor
+Lucy Allan, Telford
+Heidi Allen, South Cambridgeshire
+David Amess, Southend West
+Richard Bacon, South Norfolk
+Steve Baker, Wycombe
+John Baron, Basildon and Billericay
+Guto Bebb, Aberconwy
+Bob Blackman, Harrow East
+Crispin Blunt, Reigate
+Peter Bone, Wellingborough
+Ben Bradley, Mansfield
+Graham Brady, Altrincham and Sale West
+Suella Braverman, Fareham
+Andrew Bridgen, North West Leicestershire
+Fiona Bruce, Congleton
+Conor Burns, Bournemouth West
+Bill Cash, Stone
+Maria Caulfield, Lewes
+Rehman Chishti, Gillingham and Rainham
+Christopher Chope, Christchurch
+Simon Clarke, Middlesbrough South and East Cleveland
+Damian Collins, Folkestone and Hythe
+Robert Courts, Witney
+Tracey Crouch, Chatham and Aylesford
+Philip Davies, Shipley
+David Davis, Haltemprice and Howden
+Nadine Dorries, Mid Bedfordshire
+Steve Double, St Austell and Newquay
+Richard Drax, South Dorset
+James Duddridge, Rochford and Southend East
+Iain Duncan Smith, Chingford and Woodford Green
+Charlie Elphicke, Dover
+Nigel Evans, Ribble Valley
+David Evennett, Bexleyheath and Crayford
+Michael Fabricant, Lichfield
+Michael Fallon, Sevenoaks
+Mark Francois, Rayleigh and Wickford
+Marcus Fysh, Yeovil
+Zac Goldsmith, Richmond Park (Surrey)
+James Gray, North Wiltshire
+Chris Green, Bolton West
+Justine Greening, Putney
+Dominic Grieve, Beaconsfield
+Sam Gyimah, East Surrey
+Robert Halfon, Harlow
+Greg Hands, Chelsea and Fulham
+Mark Harper, Forest of Dean
+John Hayes, South Holland and The Deepings
+Gordon Henderson, Sittingbourne and Sheppey
+Philip Hollobone, Kettering
+Adam Holloway, Gravesham
+Eddie Hughes, Walsall North
+Ranil Jayawardena, North East Hampshire
+Bernard Jenkin, Harwich and North Essex
+Andrea Jenkyns, Morley and Outwood
+Boris Johnson, Uxbridge and South Ruislip
+Gareth Johnson, Dartford
+Jo Johnson, Orpington
+David Jones, Clwyd West
+Daniel Kawczynski, Shrewsbury and Atcham
+Greg Knight, East Yorkshire
+John Lamont, Berwickshire, Roxburgh and Selkirk
+Pauline Latham, Mid Derbyshire
+Phillip Lee, Bracknell
+Andrew Lewer, Northampton South
+Julian Lewis, New Forest East
+Ian Liddell-Grainger, Bridgwater and West Somerset
+Julia Lopez, Hornchurch and Upminster
+Jonathan Lord, Woking
+Tim Loughton, East Worthing and Shoreham
+Craig Mackinlay, South Thanet
+Anne Main, St Albans
+Scott Mann, North Cornwall
+Stephen McPartland, Stevenage
+Esther McVey, Tatton
+Johnny Mercer, Plymouth, Moor View
+Stephen Metcalfe, South Basildon and East Thurrock
+Nigel Mills, Amber Valley
+Andrew Mitchell, Sutton Coldfield
+Damien Moore, Southport
+Anne Marie Morris, Newton Abbot
+Sheryll Murray, South East Cornwall
+Matthew Offord, Hendon
+Priti Patel, Witham
+Owen Paterson, North Shropshire
+Mike Penning, Hemel Hempstead
+Mark Pritchard, The Wrekin
+Tom Pursglove, Corby
+Will Quince, Colchester
+Dominic Raab, Esher and Walton
+John Redwood, Wokingham
+Jacob Rees-Mogg, North East Somerset
+Laurence Robertson, Tewkesbury
+Andrew Rosindell, Romford
+Douglas Ross, Moray
+Lee Rowley, North East Derbyshire
+Grant Shapps, Welwyn Hatfield
+Henry Smith, Crawley
+Royston Smith, Southampton Itchen
+Anna Soubry, Broxtowe
+Bob Stewart, Beckenham
+Julian Sturdy, York Outer
+Hugo Swire, East Devon
+Robert Syms, Poole
+Derek Thomas, St Ives
+Ross Thomson, Aberdeen South
+Michael Tomlinson, Mid Dorset and North Poole
+Craig Tracey, North Warwickshire
+Anne-Marie Trevelyan, Berwick-upon-Tweed
+Shailesh Vara, North West Cambridgeshire
+Martin Vickers, Cleethorpes
+Theresa Villiers, Chipping Barnet
+Giles Watling, Clacton
+John Whittingdale , Maldon
+Bill Wiggin, North Herefordshire
+Sarah Wollaston, Totnes
+William Wragg, Hazel Grove
+
+Democratic Unionist Party (10)
+Gregory Campbell, East Londonderry
+Nigel Dodds, Belfast North
+Jeffrey Donaldson, Lagan Valley
+Paul Girvan, South Antrim
+Emma Little-Pengelly, Belfast South
+Ian Paisley, North Antrim
+Gavin Robinson, Belfast East
+Jim Shannon, Strangford
+David Simpson, Upper Bann
+Sammy Wilson, East Antrim
+
+Green (1)
+Caroline Lucas, Brighton Pavilion
+
+Independent (5)
+Kelvin Hopkins, Luton North
+Ivan Lewis, Bury South
+Jared O'Mara, Sheffield Hallam
+Fiona Onasanya, Peterborough
+John Woodcock, Barrow and Furness
+
+Labour (248)
+Diane Abbott, Hackney North and Stoke Newington
+Debbie Abrahams, Oldham East and Saddleworth
+Rushanara Ali, Bethnal Green and Bow
+Rosena Allin-Khan, Tooting
+Mike Amesbury, Weaver Vale
+Tonia Antoniazzi, Gower
+Jon Ashworth, Leicester South
+Adrian Bailey, West Bromwich West
+Margaret Beckett, Derby South
+Hilary Benn, Leeds Central
+Luciana Berger, Liverpool Riverside
+Clive Betts, Sheffield South East
+Roberta Blackman-Woods, City of Durham
+Paul Blomfield, Sheffield Central
+Tracy Brabin, Batley and Spen
+Ben Bradshaw, Exeter
+Kevin Brennan, Cardiff West
+Lyn Brown, West Ham
+Nick Brown, Newcastle-upon-Tyne East and Wallsend
+Chris Bryant, Rhondda
+Karen Buck, Westminster North
+Richard Burden, Birmingham Northfield
+Richard Burgon, Leeds East
+Dawn Butler, Brent Central
+Liam Byrne, Birmingham Hodge Hill
+Ruth Cadbury, Brentford and Isleworth—
+Alan Campbell, Tynemouth
+Ronnie Campbell, Blyth Valley
+Dan Carden, Liverpool Walton
+Sarah Champion, Rotherham
+Jenny Chapman, Darlington
+Bambos Charalambous, Enfield Southgate
+Ann Clwyd, Cynon Valley
+Vernon Coaker, Gedling
+Ann Coffey, Stockport
+Julie Cooper, Burnley
+Rosie Cooper, West Lancashire
+Yvette Cooper, Normanton, Pontefract and Castleford
+Jeremy Corbyn, Islington North
+Neil Coyle, Bermondsey and Old Southwark
+David Crausby, Bolton North East
+Mary Creagh, Wakefield
+Stella Creasy, Walthamstow
+Jon Cruddas, Dagenham and Rainham
+John Cryer, Leyton and Wanstead
+Judith Cummins, Bradford South
+Alex Cunningham, Stockton North
+Jim Cunningham, Coventry South
+Janet Daby, Lewisham East
+Nic Dakin, Scunthorpe
+Wayne David, Caerphilly
+Geraint Davies Swansea West
+Marsha de Cordova, Battersea
+Gloria De Piero, Ashfield
+Thangam Debbonaire, Bristol West
+Emma Dent Coad, Kensington
+Tanmanjeet Singh Dhesi, Slough
+Anneliese Dodds, Oxford East
+Stephen Doughty, Cardiff South and Penarth
+Peter Dowd, Bootle
+David Drew, Stroud
+Jack Dromey, Birmingham Erdington
+Rosie Duffield, Canterbury
+Angela Eagle, Wallasey
+Maria Eagle, Garston and Halewood
+Clive Efford, Eltham
+Julie Elliott, Sunderland Central
+Louise Ellman, Liverpool Riverside
+Chris Elmore, Ogmore
+Esterson, Sefton Central
+Chris Evans, Islwyn
+Paul Farrelly, Newcastle-under-Lyme
+Jim Fitzpatrick Poplar and Limehouse
+Colleen Fletcher, Coventry North East
+Caroline Flint, Don Valley
+Yvonne Fovargue, Makerfield
+James Frith, Bury North
+Gill Furniss, Sheffield Brightside and Hillsborough
+Hugh Gaffney, Coatbridge, Chryston and Bellshill
+Mike Gapes, Ilford South
+Barry Gardiner, Brent North
+Ruth George, High Peak
+Preet Gill, Birmingham Edgbaston
+Mary Glindon, North Tyneside
+Roger Godsiff, Birmingham Hall Green
+Helen Goodman, Bishop Auckland
+Kate Green, Stretford and Urmston
+Lilian Greenwood, Nottingham South
+Margaret Greenwood, Wirral West
+Nia Griffith, Llanelli
+John Grogan, Keighley
+Andrew Gwynne, Denton and Reddish
+Louise Haigh, Sheffield Heeley
+Fabian Hamilton, Leeds North East
+David Hanson, Delyn
+Emma Hardy, Kingston upon Hull West and Hessle
+Harriet Harman, Camberwell and Peckham
+Carolyn Harris, Swansea East
+Helen Hayes, Dulwich and West Norwood
+Sue Hayman, Workington
+John Healey, Wentworth and Dearne
+Mark Hendrick, Preston
+Stephen Hepburn, Jarrow
+Mike Hill, Hartlepool
+Meg Hillier, Hackney South and Shoreditch
+Margaret Hodge, Barking
+Sharon Hodgson, Washington and Sunderland West
+Kate Hoey, Vauxhall
+Kate Hollern, Blackburn
+George Howarth, Knowsley
+Rupa Huq, Ealing Central and Acton
+Imran Hussain, Bradford East
+Dan Jarvis, Barnsley Central
+Diana Johnson, Hull North
+Darren Jones, Bristol North West
+Gerald Jones, Merthyr Tydfil and Rhymney
+Graham Jones, Hyndburn
+Helen Jones, Warrington North
+Kevan Jones, North Durham
+Sarah Jones, Croydon Central
+Susan Elan Jones, Clwyd South
+Mike Kane, Wythenshawe and Sale East
+Barbara Keeley, Worsley and Eccles South
+Liz Kendall, Leicester West
+Afzal Khan, Manchester Gorton
+Gerard Killen, Rutherglen and Hamilton West
+Stephen Kinnock, Aberavon
+Peter Kyle, Hove
+Lesley Laird, Kirkcaldy and Cowdenbeath
+David Lammy, Tottenham
+Ian Lavery, Wansbeck
+Karen Lee, Lincoln
+Chris Leslie, Nottingham East
+Emma Lewell-Buck, South Shields
+Clive Lewis, Norwich South
+Tony Lloyd, Rochdale
+Rebecca Long-Bailey, Salford and Eccles
+Ian Lucas, Wrexham
+Holly Lynch, Halifax
+Justin Madders, Ellesmere Port and Neston
+Khalid Mahmood, Birmingham Perry Barr
+Shabana Mahmood, Birmingham Ladywood
+Seema Malhotra, Feltham and Heston
+Gordon Marsden, Blackpool South
+Sandy Martin, Ipswich
+Rachael Maskell, York Central
+Chris Matheson, City of Chester
+Steve McCabe, Birmingham Selly Oak
+Kerry McCarthy, Bristol East
+Siobhain McDonagh, Mitcham and Morden
+Andy McDonald, Middlesbrough
+John McDonnell, Hayes and Harlington
+Pat McFadden, Wolverhampton South East
+Conor McGinn, St Helens North
+Alison McGovern, Wirral South
+Liz McInnes, Heywood and Middleton
+Catherine McKinnell, Newcastle upon Tyne North
+Jim McMahon, Oldham West and Royton
+Anna McMorrin, Cardiff North
+Ian Mearns, Gateshead
+Ed Miliband, Doncaster North
+Madeleine Moon, Bridgend
+Jessica Morden, Newport East
+Stephen Morgan, Portsmouth South
+Grahame Morris, Easington
+Ian Murray, Edinburgh South
+Lisa Nandy, Wigan
+Alex Norris, Nottingham North
+Melanie Onn, Great Grimsby
+Chi Onwurah, Newcastle upon Tyne Central
+Kate Osamor, Edmonton
+Albert Owen, Ynys Môn
+Stephanie Peacock, Barnsley East
+Teresa Pearce, Erith and Thamesmead
+Matthew Pennycook, Greenwich and Woolwich
+Toby Perkins, Chesterfield
+Jess Phillips, Birmingham Yardley
+Bridget Phillipson, Houghton and Sunderland South
+Laura Pidcock, North West Durham
+Jo Platt, Leigh
+Luke Pollard, Plymouth Sutton and Devonport
+Stephen Pound, Ealing North
+Lucy Powell, Manchester Central
+Yasmin Qureshi, Bolton South East
+Faisal Rashid, Warrington South
+Angela Rayner, Ashton-under-Lyne
+Steve Reed, Croydon North
+Christina Rees, Neath
+Ellie Reeves, Lewisham West and Penge
+Rachel Reeves, Leeds West
+Emma Reynolds, Wolverhampton North East
+Jonathan Reynolds, Stalybridge and Hyde
+Marie Rimmer, St Helens South and Whiston
+Geoffrey Robinson, Coventry North West
+Matt Rodda, Reading East
+Danielle Rowley, Midlothian
+Chris Ruane, Vale of Clwyd
+Lloyd Russell-Moyle, Brighton Kemptown
+Joan Ryan, Enfield North
+Naz Shah, Bradford West
+Virendra Sharma, Ealing Southall
+Barry Sheerman, Huddersfield
+Paula Sherriff, Dewsbury
+Gavin Shuker, Luton South
+Tulip Siddiq, Hampstead and Kilburn
+Dennis Skinner, Bolsover
+Andy Slaughter, Hammersmith
+Ruth Smeeth, Stoke-on-Trent North
+Angela Smith, Penistone and Stocksbridge
+Cat Smith, Lancaster and Fleetwood
+Eleanor Smith, Wolverhampton South West
+Jeff Smith, Manchester Withington
+Laura Smith, Crewe and Nantwich
+Owen Smith, Pontypridd
+Karin Smyth, Bristol South
+Gareth Snell, Stoke-on-Trent Central
+Alex Sobel, Leeds North West
+John Spellar, Birmingham Northfield
+Keir Starmer, Holborn and St Pancras
+Jo Stevens, Cardiff Central
+Wes Streeting, Ilford North
+Graham Stringer, Blackley and Broughton
+Paul Sweeney, Glasgow North East
+Mark Tami, Alyn and Deeside
+Gareth Thomas, Harrow West
+Nick Thomas-Symonds, Torfaen
+Emily Thornberry, Islington South and Finsbury
+Stephen Timms, East Ham
+Jon Trickett, Hemsworth
+Anna Turley, Redcar
+Karl Turner, Kingston upon Hull East
+Derek Twigg, Halton
+Stephen Twigg, Liverpool West Derby
+Liz Twist, Blaydon
+Chuka Umunna, Streatham
+Keith Vaz, Leicester East
+Valerie Vaz, Walsall South
+Thelma Walker, Colne Valley
+Tom Watson, West Bromwich East
+Catherine West, Hornsey and Wood Green
+Matthew Western, Warwick and Leamington
+Alan Whitehead, Southampton Test
+Martin Whitfield East Lothian
+Paul Williams, Stockton South
+Chris Williamson, Derby North
+Phil Wilson, Sedgefield
+Mohammad Yasin, Bedford
+Daniel Zeichner, Cambridge
+
+Liberal Democrat (11)
+Tom Brake, Carshalton and Wallington
+Vince Cable, Twickenham
+Alistair Carmichael, Orkney and Shetland
+Ed Davey, Kingston and Surbiton
+Tim Farron, Westmorland and Lonsdale
+Wera Hobhouse, Bath
+Christine Jardine, Edinburgh West
+Norman Lamb, North Norfolk
+Layla Moran, Oxford West and Abingdon
+Jamie Stone, Caithness, Sutherland and Easter Ross
+Jo Swinson, East Dunbartonshire
+
+Plaid Cymru (4)
+Jonathan Edwards, Carmarthen East and Dinefwr
+Ben Lake, Ceredigion
+Liz Saville Roberts, Dwyfor Meirionnydd
+Hywel Williams, Arfon
+
+Scottish National Party (35)
+Hannah Bardell, Livingston
+Mhairi Black, Paisley and Renfrewshire South
+Ian Blackford, Ross, Skye and Lochaber
+Kirsty Blackman, Aberdeen North
+Deidre Brock, Edinburgh North and Leith
+Alan Brown, Kilmarnock and Loudoun
+Lisa Cameron, East Kilbride, Strathaven and Lesmahagow
+Douglas Chapman, Dunfermline and West Fife
+Joanna Cherry, Edinburgh South West
+Ronnie Cowan, Inverclyde
+Angela Crawley, Lanark and Hamilton East
+Martyn Day, Linlithgow and East Falkirk
+Martin Docherty-Hughes, West Dunbartonshire
+Marion Fellows, Motherwell and Wishaw
+Stephen Gethins, North East Fife
+Patricia Gibson, North Ayrshire and Arran
+Patrick Grady, Glasgow North
+Peter Grant, Glenrothes
+Neil Gray, Airdrie and Shotts
+Drew Hendry, Inverness, Nairn, Badenoch and Strathspey
+Stewart Hosie, Dundee East
+Chris Law, Dundee West
+David Linden, Glasgow East
+Angus MacNeil, Na h-Eileanan an Iar
+John McNally, Falkirk
+Stewart McDonald, Glasgow South
+Stuart McDonald, Cumbernauld, Kilsyth and Kirkintilloch East
+Carol Monaghan, Glasgow North West
+Gavin Newlands, Paisley and Renfrewshire North
+Brendan O'Hara, Argyll and Bute
+Tommy Sheppard, Edinburgh East
+Chris Stephens, Glasgow South West
+Alison Thewliss, Glasgow Central
+Philippa Whitford, Central Ayrshire
+Pete Wishart, Perth and North Perthshire
+
+
+Abstentions (1)
+
+Labour (1)
+Paul Flynn, Newport West (due to ill health)
+
+
+-----------------------------------------------------------------------------------------
+Second "meaningful vote" (12 March 2019)
+https://hansard.parliament.uk/commons/2019-03-12/debates/5F35A04D-1C6E-4D7D-87B6-C06EE8AEE3F5/EuropeanUnion(Withdrawal)Act
+
+The second meaningful vote took place on 12 March 2019. The deal was supported by 235 Conservative MPs, four independent MPs, and Labour MPs Kevin Barron, Caroline Flint and John Mann, and was opposed by the remaining MPs, including all 10 DUP MPs and 75 Conservative MPs. One Conservative MP, Douglas Ross, was unable to vote or exercise his right to a proxy vote due to the birth of his child on the day of the vote.
+
+Ayes
+
+Adams, Nigel
+Afolami, Bim
+Aldous, Peter
+Amess, Sir David
+Andrew, Stuart
+Argar, Edward
+Atkins, Victoria
+Austin, Ian
+Badenoch, Mrs Kemi
+Baldwin, Harriett
+Barclay, rh Stephen
+Barron, rh Sir Kevin
+Bellingham, Sir Henry
+Benyon, rh Richard
+Beresford, Sir Paul
+Berry, Jake
+Blackman, Bob
+Boles, Nick
+Bottomley, Sir Peter
+Bowie, Andrew
+Bradley, Ben
+Bradley, rh Karen
+Brady, Sir Graham
+Brereton, Jack
+Brine, Steve
+Brokenshire, rh James
+Bruce, Fiona
+Buckland, Robert
+Burghart, Alex
+Burt, rh Alistair
+Cairns, rh Alun
+Cartlidge, James
+Caulfield, Maria
+Chalk, Alex
+Churchill, Jo
+Clark, Colin
+Clark, rh Greg
+Clarke, rh Mr Kenneth
+Cleverly, James
+Clifton-Brown, Sir Geoffrey
+Coffey, Dr Thérèse
+Costa, Alberto
+Cox, rh Mr Geoffrey
+Crabb, rh Stephen
+Crouch, Tracey
+Davies, Chris
+Davies, David T. C.
+Davies, Glyn
+Davies, Mims
+Davies, Philip
+Davis, rh Mr David
+Dinenage, Caroline
+Djanogly, Mr Jonathan
+Docherty, Leo
+Donelan, Michelle
+Dorries, Ms Nadine
+Double, Steve
+Dowden, Oliver
+Doyle-Price, Jackie
+Duguid, David
+Duncan, rh Sir Alan
+Dunne, rh Mr Philip
+Ellis, Michael
+Ellwood, rh Mr Tobias
+Eustice, George
+Evans, Mr Nigel
+Evennett, rh Sir David
+Field, rh Frank
+Field, rh Mark
+Flint, rh Caroline
+Ford, Vicky
+Foster, Kevin
+Fox, rh Dr Liam
+Frazer, Lucy
+Freeman, George
+Freer, Mike
+Gale, rh Sir Roger
+Garnier, Mark
+Gauke, rh Mr David
+Ghani, Ms Nusrat
+Gibb, rh Nick
+Gillan, rh Dame Cheryl
+Glen, John
+Goldsmith, Zac
+Goodwill, rh Mr Robert
+Gove, rh Michael
+Graham, Luke
+Graham, Richard
+Grant, Bill
+Grant, Mrs Helen
+Grayling, rh Chris
+Green, rh Damian
+Griffiths, Andrew
+Hair, Kirstene
+Halfon, rh Robert
+Hall, Luke
+Hammond, rh Mr Philip
+Hammond, Stephen
+Hancock, rh Matt
+Hands, rh Greg
+Harrington, Richard
+Harris, Rebecca
+Harrison, Trudy
+Hart, Simon
+Hayes, rh Sir John
+Heald, rh Sir Oliver
+Heappey, James
+Heaton-Harris, Chris
+Heaton-Jones, Peter
+Herbert, rh Nick
+Hermon, Lady
+Hinds, rh Damian
+Hoare, Simon
+Hollingbery, George
+Hollinrake, Kevin
+Howell, John
+Huddleston, Nigel
+Hunt, rh Mr Jeremy
+Hurd, rh Mr Nick
+Jack, Mr Alister
+James, Margot
+Javid, rh Sajid
+Jenrick, Robert
+Johnson, Dr Caroline
+Jones, Andrew
+Jones, Mr Marcus
+Keegan, Gillian
+Kennedy, Seema
+Kerr, Stephen
+Knight, rh Sir Greg
+Knight, Julian
+Kwarteng, Kwasi
+Lamont, John
+Lancaster, rh Mark
+Leadsom, rh Andrea
+Lefroy, Jeremy
+Leigh, rh Sir Edward
+Letwin, rh Sir Oliver
+Lewis, rh Brandon
+Lidington, rh Mr David
+Lloyd, Stephen
+Lopresti, Jack
+Loughton, Tim
+Maclean, Rachel
+Mak, Alan
+Malthouse, Kit
+Mann, John
+Mann, Scott
+Masterton, Paul
+May, rh Mrs Theresa
+Maynard, Paul
+McLoughlin, rh Sir Patrick
+McPartland, Stephen
+Menzies, Mark
+Mercer, Johnny
+Merriman, Huw
+Metcalfe, Stephen
+Miller, rh Mrs Maria
+Milling, Amanda
+Mills, Nigel
+Milton, rh Anne
+Mitchell, rh Mr Andrew
+Moore, Damien
+Mordaunt, rh Penny
+Morgan, rh Nicky
+Morris, David
+Morris, James
+Morton, Wendy
+Mundell, rh David
+Murrison, Dr Andrew
+Neill, Robert
+Newton, Sarah
+Nokes, rh Caroline
+Norman, Jesse
+O'Brien, Neil
+Offord, Dr Matthew
+Opperman, Guy
+Parish, Neil
+Pawsey, Mark
+Penning, rh Sir Mike
+Penrose, John
+Percy, Andrew
+Perry, rh Claire
+Philp, Chris
+Pincher, rh Christopher
+Poulter, Dr Dan
+Pow, Rebecca
+Prentis, Victoria
+Prisk, Mr Mark
+Pritchard, Mark
+Quin, Jeremy
+Quince, Will
+Robinson, Mary
+Rudd, rh Amber
+Rutley, David
+Sandbach, Antoinette
+Scully, Paul
+Seely, Mr Bob
+Selous, Andrew
+Sharma, Alok
+Shelbrooke, Alec
+Simpson, rh Mr Keith
+Skidmore, Chris
+Smith, Chloe
+Smith, rh Julian
+Soames, rh Sir Nicholas
+Spelman, rh Dame Caroline
+Spencer, Mark
+Stevenson, John
+Stewart, Rory
+Streeter, Sir Gary
+Stride, rh Mel
+Stuart, Graham
+Sturdy, Julian
+Sunak, Rishi
+Swayne, rh Sir Desmond
+Swire, rh Sir Hugo
+Syms, Sir Robert
+Thomas, Derek
+Throup, Maggie
+Tolhurst, Kelly
+Tomlinson, Justin
+Tredinnick, David
+Truss, rh Elizabeth
+Tugendhat, Tom
+Vaizey, rh Mr Edward
+Vickers, Martin
+Walker, Mr Charles
+Walker, Mr Robin
+Wallace, rh Mr Ben
+Warburton, David
+Warman, Matt
+Watling, Giles
+Whately, Helen
+Wheeler, Mrs Heather
+Whittaker, Craig
+Wiggin, Bill
+Williamson, rh Gavin
+Wood, Mike
+Wragg, Mr William
+Wright, rh Jeremy
+Zahawi, Nadhim
+
+
+Noes
+
+Abbott, rh Ms Diane
+Abrahams, Debbie
+Afriyie, Adam
+Ali, Rushanara
+Allan, Lucy
+Allen, Heidi
+Allin-Khan, Dr Rosena
+Amesbury, Mike
+Antoniazzi, Tonia
+Ashworth, Jonathan
+Bacon, Mr Richard
+Bailey, Mr Adrian
+Baker, Mr Steve
+Bardell, Hannah
+Baron, Mr John
+Bebb, Guto
+Beckett, rh Margaret
+Benn, rh Hilary
+Berger, Luciana
+Betts, Mr Clive
+Black, Mhairi
+Blackford, rh Ian
+Blackman, Kirsty
+Blackman-Woods, Dr Roberta
+Blomfield, Paul
+Blunt, Crispin
+Bone, Mr Peter
+Brabin, Tracy
+Bradshaw, rh Mr Ben
+Brake, rh Tom
+Braverman, Suella
+Brennan, Kevin
+Bridgen, Andrew
+Brock, Deidre
+Brown, Alan
+Brown, Lyn
+Brown, rh Mr Nicholas
+Bryant, Chris
+Buck, Ms Karen
+Burden, Richard
+Burgon, Richard
+Burns, Conor
+Butler, Dawn
+Byrne, rh Liam
+Cable, rh Sir Vince
+Cadbury, Ruth
+Cameron, Dr Lisa
+Campbell, rh Sir Alan
+Campbell, Mr Gregory
+Campbell, Mr Ronnie
+Carden, Dan
+Carmichael, rh Mr Alistair
+Cash, Sir William
+Champion, Sarah
+Chapman, Douglas
+Chapman, Jenny
+Charalambous, Bambos
+Cherry, Joanna
+Chishti, Rehman
+Chope, Sir Christopher
+Clarke, Mr Simon
+Clwyd, rh Ann
+Coaker, Vernon
+Coffey, Ann
+Collins, Damian
+Cooper, Julie
+Cooper, Rosie
+Cooper, rh Yvette
+Corbyn, rh Jeremy
+Courts, Robert
+Cowan, Ronnie
+Coyle, Neil
+Crausby, Sir David
+Crawley, Angela
+Creagh, Mary
+Creasy, Stella
+Cruddas, Jon
+Cryer, John
+Cummins, Judith
+Cunningham, Alex
+Cunningham, Mr Jim
+Daby, Janet
+Davey, rh Sir Edward
+David, Wayne
+Davies, Geraint
+Day, Martyn
+De Cordova, Marsha
+De Piero, Gloria
+Dent Coad, Emma
+Dhesi, Mr Tanmanjeet Singh
+Docherty-Hughes, Martin
+Dodds, Anneliese
+Dodds, rh Nigel
+Donaldson, rh Sir Jeffrey M.
+Doughty, Stephen
+Dowd, Peter
+Drax, Richard
+Drew, Dr David
+Dromey, Jack
+Duddridge, James
+Duffield, Rosie
+Duncan Smith, rh Mr Iain
+Eagle, Ms Angela
+Eagle, Maria
+Edwards, Jonathan
+Efford, Clive
+Elliott, Julie
+Ellman, Dame Louise
+Elmore, Chris
+Elphicke, Charlie
+Esterson, Bill
+Evans, Chris
+Fabricant, Michael
+Fallon, rh Sir Michael
+Farrelly, Paul
+Farron, Tim
+Fellows, Marion
+Fitzpatrick, Jim
+Fletcher, Colleen
+Fovargue, Yvonne
+Foxcroft, Vicky
+Francois, rh Mr Mark
+Frith, James
+Furniss, Gill
+Fysh, Mr Marcus
+Gaffney, Hugh
+Gapes, Mike
+Gardiner, Barry
+George, Ruth
+Gethins, Stephen
+Gibson, Patricia
+Gill, Preet Kaur
+Girvan, Paul
+Glindon, Mary
+Godsiff, Mr Roger
+Goodman, Helen
+Grady, Patrick
+Grant, Peter
+Gray, James
+Gray, Neil
+Green, Chris
+Green, Kate
+Greening, rh Justine
+Greenwood, Lilian
+Greenwood, Margaret
+Grieve, rh Mr Dominic
+Griffith, Nia
+Grogan, John
+Gwynne, Andrew
+Gyimah, Mr Sam
+Haigh, Louise
+Hamilton, Fabian
+Hanson, rh David
+Hardy, Emma
+Harman, rh Ms Harriet
+Harper, rh Mr Mark
+Harris, Carolyn
+Hayes, Helen
+Hayman, Sue
+Healey, rh John
+Henderson, Gordon
+Hendrick, Sir Mark
+Hendry, Drew
+Hepburn, Mr Stephen
+Hill, Mike
+Hillier, Meg
+Hobhouse, Wera
+Hodge, rh Dame Margaret
+Hodgson, Mrs Sharon
+Hoey, Kate
+Hollern, Kate
+Hollobone, Mr Philip
+Holloway, Adam
+Hopkins, Kelvin
+Hosie, Stewart
+Howarth, rh Mr George
+Hughes, Eddie
+Huq, Dr Rupa
+Hussain, Imran
+Jardine, Christine
+Jarvis, Dan
+Jayawardena, Mr Ranil
+Jenkin, Sir Bernard
+Jenkyns, Andrea
+Johnson, rh Boris
+Johnson, Diana
+Johnson, Gareth
+Johnson, Joseph
+Jones, Darren
+Jones, rh Mr David
+Jones, Gerald
+Jones, Graham P.
+Jones, Helen
+Jones, rh Mr Kevan
+Jones, Sarah
+Jones, Susan Elan
+Kane, Mike
+Kawczynski, Daniel
+Keeley, Barbara
+Kendall, Liz
+Khan, Afzal
+Killen, Ged
+Kinnock, Stephen
+Kyle, Peter
+Laird, Lesley
+Lake, Ben
+Lamb, rh Norman
+Lammy, rh Mr David
+Latham, Mrs Pauline
+Lavery, Ian
+Law, Chris
+Lee, Karen
+Lee, Dr Phillip
+Leslie, Mr Chris
+Lewell-Buck, Mrs Emma
+Lewer, Andrew
+Lewis, Clive
+Lewis, Mr Ivan
+Lewis, rh Dr Julian
+Liddell-Grainger, Mr Ian
+Linden, David
+Little Pengelly, Emma
+Lloyd, Tony
+Long Bailey, Rebecca
+Lopez, Julia
+Lord, Mr Jonathan
+Lucas, Caroline
+Lucas, Ian C.
+Lynch, Holly
+Mackinlay, Craig
+MacNeil, Angus Brendan
+Madders, Justin
+Mahmood, Mr Khalid
+Mahmood, Shabana
+Main, Mrs Anne
+Malhotra, Seema
+Marsden, Gordon
+Martin, Sandy
+Maskell, Rachael
+Matheson, Christian
+Mc Nally, John
+McCabe, Steve
+McCarthy, Kerry
+McDonagh, Siobhain
+McDonald, Andy
+McDonald, Stewart Malcolm
+McDonald, Stuart C.
+McDonnell, rh John
+McFadden, rh Mr Pat
+McGinn, Conor
+McGovern, Alison
+McInnes, Liz
+McKinnell, Catherine
+McMahon, Jim
+McMorrin, Anna
+McVey, rh Ms Esther
+Mearns, Ian
+Miliband, rh Edward
+Monaghan, Carol
+Moon, Mrs Madeleine
+Moran, Layla
+Morden, Jessica
+Morgan, Stephen
+Morris, Anne Marie
+Morris, Grahame
+Murray, Ian
+Murray, Mrs Sheryll
+Nandy, Lisa
+Newlands, Gavin
+Norris, Alex
+O'Hara, Brendan
+O'Mara, Jared
+Onasanya, Fiona
+Onn, Melanie
+Onwurah, Chi
+Osamor, Kate
+Owen, Albert
+Paisley, Ian
+Patel, rh Priti
+Paterson, rh Mr Owen
+Peacock, Stephanie
+Pearce, Teresa
+Pennycook, Matthew
+Perkins, Toby
+Phillips, Jess
+Phillipson, Bridget
+Pidcock, Laura
+Platt, Jo
+Pollard, Luke
+Pound, Stephen
+Powell, Lucy
+Pursglove, Tom
+Qureshi, Yasmin
+Raab, rh Dominic
+Rashid, Faisal
+Rayner, Angela
+Redwood, rh John
+Reed, Mr Steve
+Rees, Christina
+Rees-Mogg, Mr Jacob
+Reeves, Ellie
+Reeves, Rachel
+Reynolds, Emma
+Reynolds, Jonathan
+Rimmer, Ms Marie
+Robertson, Mr Laurence
+Robinson, Gavin
+Robinson, Mr Geoffrey
+Rodda, Matt
+Rosindell, Andrew
+Rowley, Danielle
+Rowley, Lee
+Ruane, Chris
+Russell-Moyle, Lloyd
+Ryan, rh Joan
+Saville Roberts, Liz
+Shah, Naz
+Shannon, Jim
+Shapps, rh Grant
+Sharma, Mr Virendra
+Sheerman, Mr Barry
+Sheppard, Tommy
+Sherriff, Paula
+Shuker, Mr Gavin
+Siddiq, Tulip
+Simpson, David
+Skinner, Mr Dennis
+Slaughter, Andy
+Smeeth, Ruth
+Smith, Angela
+Smith, Cat
+Smith, Eleanor
+Smith, Henry
+Smith, Jeff
+Smith, Laura
+Smith, Nick
+Smith, Owen
+Smith, Royston
+Smyth, Karin
+Snell, Gareth
+Sobel, Alex
+Soubry, rh Anna
+Spellar, rh John
+Starmer, rh Keir
+Stephens, Chris
+Stevens, Jo
+Stewart, Bob
+Stone, Jamie
+Streeting, Wes
+Stringer, Graham
+Sweeney, Mr Paul
+Swinson, Jo
+Tami, rh Mark
+Thewliss, Alison
+Thomas, Gareth
+Thomas-Symonds, Nick
+Thomson, Ross
+Thornberry, rh Emily
+Timms, rh Stephen
+Tomlinson, Michael
+Tracey, Craig
+Trevelyan, Anne-Marie
+Trickett, Jon
+Turley, Anna
+Turner, Karl
+Twigg, Derek
+Twigg, Stephen
+Twist, Liz
+Umunna, Chuka
+Vara, Mr Shailesh
+Vaz, rh Keith
+Vaz, Valerie
+Villiers, rh Theresa
+Walker, Thelma
+Watson, Tom
+West, Catherine
+Western, Matt
+Whitehead, Dr Alan
+Whitfield, Martin
+Whitford, Dr Philippa
+Whittingdale, rh Mr John
+Williams, Hywel
+Williams, Dr Paul
+Williamson, Chris
+Wilson, Phil
+Wilson, rh Sammy
+Wishart, Pete
+Wollaston, Dr Sarah
+Woodcock, John
+Yasin, Mohammad
+Zeichner, Daniel
+
+****************************
+
+El archivo 12-indicative-votes.csv contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron sin línea partidista.
+
+Hay información sobre las opciones aquí: https://en.wikipedia.org/wiki/Parliamentary_votes_on_Brexit#First_Round_of_Indicative_Votes_(27_March_2019)
+
+Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats. 
+
+Calcule también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
+
+Y obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
+
+Use estas estadísticas para extraer algunas conclusiones acerca de la conducta de los partidos en la discusión del Brexit.
+
