@@ -1,16 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgfe0b6b4)
-- [La teoría espacial del voto (semanas 3 y 4)](#org8051849)
-- [El control de la agenda (semana 5)](#orgb271b34)
-- [Cohesión de un grupo (semana 6)](#org6a3c794)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 6 a 8)](#org4de7e54)
-- [Los modelos y el método científico (semana 9)](#org9c7740f)
-- [Prueba de hipótesis y regresión lineal, un repaso (semana 9)](#org1f0678b)
-- [Los partidos políticos (semanas 10 y 11)](#orga7279dc)
-- [Ideología (semanas 12 a 14)](#orge48502c)
-- [Instituciones y estabilidad (semana 15)](#org6f57986)
-- [Herestética (semana 16)](#org1fc2935)
-- [El mercado de los votos](#orge436d13)
-- [Recapitulación (semana 17)](#org814db18)
+- [La teoría de la elección social (semanas 1 y 2)](#org588fac7)
+- [La teoría espacial del voto (semanas 3 y 4)](#org62fa8db)
+- [El control de la agenda (semana 5)](#org3bb4444)
+- [Cohesión de un grupo (semana 6)](#orge601c9d)
+- [Los modelos y el método científico (semana 7)](#org0ea5594)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgc3c8be6)
+- [Los partidos políticos (semanas 10 y 11)](#org1629ece)
+- [Ideología (semanas 12 a 14)](#orgc5cf9e4)
+- [Instituciones y estabilidad (semana 15)](#orgaf3b591)
+- [Herestética (semana 16)](#orgb6862af)
+- [El mercado de los votos](#org690486d)
+- [Recapitulación (semana 17)](#org96954c9)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -40,8 +39,34 @@ Por reglamento habrá también un examen final en clase
 
 ---
 
+**Trabajo parcial**
 
-<a id="orgfe0b6b4"></a>
+Entrega el lunes 14 de octubre en clase, el trabajo es individual.
+
+Parte 1. Desarrollo de pericia técnica: conversión de texto en datos. Abra el archivo [parcial/uk.txt](https://github.com/emagar/ep3/blob/master/parcial/uk.txt) para encontrar las indicaciones.
+
+Parte 2. Analice la conducta de los partidos conservador, laborista y liberal-demócrata en los *indicative votes* que celebraron en 2019. Encontrará las votaciones nominales en el archivo [parcial/12-indicative-votes.csv](https://github.com/emagar/ep3/blob/master/parcial/12-indicative-votes.csv).
+
+El archivo contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron sin línea partidista.
+
+Hay información sobre las opciones aquí: <https://en.wikipedia.org/wiki/Parliamentary_votes_on_Brexit#First_Round_of_Indicative_Votes_(27_March_2019)>
+
+Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats.
+
+Obtenga también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
+
+Y obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
+
+Y, para cada uno de los tres partidos, obtenga el número de éxitos, bloqueos, rolls y decepciones (tipo Cox y McCubbins).
+
+Finalmente, use estas estadísticas para extraer algunas conclusiones breves y puntuales de la conducta de los partidos en la discusión del Brexit.
+
+**¡Mucha suerte!**
+
+---
+
+
+<a id="org588fac7"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -58,7 +83,7 @@ Por reglamento habrá también un examen final en clase
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org8051849"></a>
+<a id="org62fa8db"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -69,7 +94,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orgb271b34"></a>
+<a id="org3bb4444"></a>
 
 # El control de la agenda (semana 5)
 
@@ -81,7 +106,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org6a3c794"></a>
+<a id="orge601c9d"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -90,9 +115,20 @@ Por reglamento habrá también un examen final en clase
     -   cap. 5 Final-Passage votes pp. 89-94.
 
 
-<a id="org4de7e54"></a>
+<a id="org0ea5594"></a>
 
-# Aplicaciones del modelo de manipulación de la agenda (semanas 6 a 8)
+# Los modelos y el método científico (semana 7)
+
+-   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
+-   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
+-   Pain (2016) [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) 5 pp.
+-   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
+-   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
+
+
+<a id="orgc3c8be6"></a>
+
+# Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
 -   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet%2BmccubbinsAJPS1988.pdf)" 14 pp.
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
@@ -104,27 +140,7 @@ Por reglamento habrá también un examen final en clase
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org9c7740f"></a>
-
-# Los modelos y el método científico (semana 9)
-
--   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
--   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
--   Pain (2016) [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) 5 pp.
--   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
--   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
-
-
-<a id="org1f0678b"></a>
-
-# Prueba de hipótesis y regresión lineal, un repaso (semana 9)
-
--   Shively (1974) *The Craft of Political Research*,
-    -   cap. 7 ["Introduction to statistics: measuring relationships for interval data"](https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf) 22 pp.
--   Garfias (2018) ["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"](https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) 19 pp.
-
-
-<a id="orga7279dc"></a>
+<a id="org1629ece"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -148,7 +164,7 @@ Por reglamento habrá también un examen final en clase
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orge48502c"></a>
+<a id="orgc5cf9e4"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -162,7 +178,7 @@ Por reglamento habrá también un examen final en clase
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org6f57986"></a>
+<a id="orgaf3b591"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -173,7 +189,7 @@ Por reglamento habrá también un examen final en clase
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org1fc2935"></a>
+<a id="orgb6862af"></a>
 
 # Herestética (semana 16)
 
@@ -184,7 +200,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orge436d13"></a>
+<a id="org690486d"></a>
 
 # El mercado de los votos
 
@@ -196,6 +212,6 @@ Por reglamento habrá también un examen final en clase
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org814db18"></a>
+<a id="org96954c9"></a>
 
 # Recapitulación (semana 17)

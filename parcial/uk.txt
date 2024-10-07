@@ -3,9 +3,42 @@ Otoño 2024
 Trabajo parcial
 
 **************************
-1. Desarrollo de pericia técnica: conversión de texto en datos. Fusione las siguientes dos votaciones nominales (indicative votes) para cada miembro del Parlamento. 
+Parte 1. Desarrollo de pericia técnica: conversión de texto en datos. 
 
-First "meaningful vote" (15 January 2019)
+Para el par de "meaningful votes" que aparecen más abajo, complete la frecuencia (el número de miembros del Parlamento o MPs) de cada celda de la siguiente tabla:
+
+|--------------------------------------------+-------------+-----------+-------------|
+| voto 1 -- voto 2                           | conservador | laborista | liberal-dem |
+|--------------------------------------------+-------------+-----------+-------------|
+| aye -- aye                                 |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| aye -- no                                  |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| aye -- abstención/ausencia                 |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| no -- aye                                  |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| no -- no                                   |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| no -- abstención/ausencia                  |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| abstención/ausencia -- aye                 |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| abstención/ausencia -- no                  |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| abstención/ausencia -- abstención/ausencia |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+| total de columna                           |             |           |             |
+|--------------------------------------------+-------------+-----------+-------------|
+
+
+Para lograrlo, deberá empezar por consolidar el voto de cada MP en las dos votaciones nominales. 
+
+Narre concisa pero claramente los pasos que siguió para obtener las frecuencias que reporta, los obstáculos que enfrentó y cómo los superó.
+
+*******************************
+
+Voto 1 = First "meaningful vote" (15 January 2019)
 https://hansard.parliament.uk/Commons/2019-01-15/division/B975E889-89F5-42D3-9C18-7562AFD1977C/EuropeanUnion(Withdrawal)Act?outputType=Names
 
 The meaningful vote took place in the House of Commons on 15 January 2019.[73] The vote was originally scheduled to be held on 11 December 2018 but on 10 December, May postponed it because it became clear the government's Brexit deal would be voted down.
@@ -692,8 +725,9 @@ Labour (1)
 Paul Flynn, Newport West (due to ill health)
 
 
------------------------------------------------------------------------------------------
-Second "meaningful vote" (12 March 2019)
+***************************************
+
+Voto 2 = Second "meaningful vote" (12 March 2019)
 https://hansard.parliament.uk/commons/2019-03-12/debates/5F35A04D-1C6E-4D7D-87B6-C06EE8AEE3F5/EuropeanUnion(Withdrawal)Act
 
 The second meaningful vote took place on 12 March 2019. The deal was supported by 235 Conservative MPs, four independent MPs, and Labour MPs Kevin Barron, Caroline Flint and John Mann, and was opposed by the remaining MPs, including all 10 DUP MPs and 75 Conservative MPs. One Conservative MP, Douglas Ross, was unable to vote or exercise his right to a proxy vote due to the birth of his child on the day of the vote.
@@ -1338,17 +1372,5 @@ Woodcock, John
 Yasin, Mohammad
 Zeichner, Daniel
 
-****************************
-
-El archivo 12-indicative-votes.csv contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron sin línea partidista.
-
-Hay información sobre las opciones aquí: https://en.wikipedia.org/wiki/Parliamentary_votes_on_Brexit#First_Round_of_Indicative_Votes_(27_March_2019)
-
-Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats. 
-
-Calcule también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
-
-Y obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
-
-Use estas estadísticas para extraer algunas conclusiones acerca de la conducta de los partidos en la discusión del Brexit.
+***************************************
 
