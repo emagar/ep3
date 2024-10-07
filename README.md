@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgd0bec26)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgada174d)
-- [El control de la agenda (semana 5)](#org42a54cc)
-- [Cohesión de un grupo (semana 6)](#org4c04033)
-- [Los modelos y el método científico (semana 7)](#org9f4ee69)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org62ce100)
-- [Los partidos políticos (semanas 10 y 11)](#org0a2f1a1)
-- [Ideología (semanas 12 a 14)](#org6eeefec)
-- [Instituciones y estabilidad (semana 15)](#org069c5a0)
-- [Herestética (semana 16)](#orgc637e02)
-- [El mercado de los votos](#orgeb31a04)
-- [Recapitulación (semana 17)](#org998162e)
+- [La teoría de la elección social (semanas 1 y 2)](#org6417224)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgc258731)
+- [El control de la agenda (semana 5)](#orgfe2c099)
+- [Cohesión de un grupo (semana 6)](#orgd23437a)
+- [Los modelos y el método científico (semana 7)](#orgb409e78)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org6f25132)
+- [Los partidos políticos (semanas 10 y 11)](#orgf79a02e)
+- [Ideología (semanas 12 a 14)](#org11fac1f)
+- [Instituciones y estabilidad (semana 15)](#org65279a6)
+- [Herestética (semana 16)](#orgf2be156)
+- [El mercado de los votos](#orgcc7ea94)
+- [Recapitulación (semana 17)](#org0af0c12)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -41,32 +41,32 @@ Por reglamento habrá también un examen final en clase
 
 **Trabajo parcial**
 
-Entrega el lunes 14 de octubre en clase, el trabajo es individual.
+Entrega el lunes 21 de octubre en clase, el trabajo es individual.
 
 Parte 1. Desarrollo de pericia técnica: conversión de texto en datos. Abra el archivo [parcial/uk.txt](https://github.com/emagar/ep3/blob/master/parcial/uk.txt) para encontrar las indicaciones.
 
 Parte 2. Analice la conducta de los partidos conservador, laborista y liberal-demócrata en los *indicative votes* que celebraron en 2019. Encontrará las votaciones nominales en el archivo [parcial/12-indicative-votes.csv](https://github.com/emagar/ep3/blob/master/parcial/12-indicative-votes.csv).
 
-El archivo contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron sin línea partidista.
+El archivo contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron cada una sin línea partidista.
 
 Hay información sobre las opciones aquí: <https://en.wikipedia.org/wiki/Parliamentary_votes_on_Brexit#First_Round_of_Indicative_Votes_(27_March_2019)>
 
-Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats.
+a) Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats. (Ojo: tiene que lidiar con las abstenciones ya sea excluyéndolas de las cuentas, o contabilizándolas como votos a favor o en contra; justifique su decisión.)
 
-Obtenga también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
+b) Obtenga también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
 
-Y obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
+c) Obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
 
-Y, para cada uno de los tres partidos, obtenga el número de éxitos, bloqueos, rolls y decepciones (tipo Cox y McCubbins).
+d) Para cada uno de los tres partidos, obtenga el número de éxitos, bloqueos, rolls y decepciones (tipo Cox y McCubbins).
 
-Finalmente, use estas estadísticas para extraer algunas conclusiones breves y puntuales de la conducta de los partidos en la discusión del Brexit.
+e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves y puntuales de la conducta de los partidos en la discusión del Brexit.
 
 **¡Mucha suerte!**
 
 ---
 
 
-<a id="orgd0bec26"></a>
+<a id="org6417224"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -83,7 +83,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgada174d"></a>
+<a id="orgc258731"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -94,7 +94,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org42a54cc"></a>
+<a id="orgfe2c099"></a>
 
 # El control de la agenda (semana 5)
 
@@ -106,7 +106,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org4c04033"></a>
+<a id="orgd23437a"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -116,7 +116,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="org9f4ee69"></a>
+<a id="orgb409e78"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -127,7 +127,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org62ce100"></a>
+<a id="org6f25132"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -141,7 +141,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org0a2f1a1"></a>
+<a id="orgf79a02e"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -165,7 +165,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="org6eeefec"></a>
+<a id="org11fac1f"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -179,7 +179,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org069c5a0"></a>
+<a id="org65279a6"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -190,7 +190,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgc637e02"></a>
+<a id="orgf2be156"></a>
 
 # Herestética (semana 16)
 
@@ -201,7 +201,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orgeb31a04"></a>
+<a id="orgcc7ea94"></a>
 
 # El mercado de los votos
 
@@ -213,6 +213,6 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org998162e"></a>
+<a id="org0af0c12"></a>
 
 # Recapitulación (semana 17)
