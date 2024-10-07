@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org588fac7)
-- [La teoría espacial del voto (semanas 3 y 4)](#org62fa8db)
-- [El control de la agenda (semana 5)](#org3bb4444)
-- [Cohesión de un grupo (semana 6)](#orge601c9d)
-- [Los modelos y el método científico (semana 7)](#org0ea5594)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgc3c8be6)
-- [Los partidos políticos (semanas 10 y 11)](#org1629ece)
-- [Ideología (semanas 12 a 14)](#orgc5cf9e4)
-- [Instituciones y estabilidad (semana 15)](#orgaf3b591)
-- [Herestética (semana 16)](#orgb6862af)
-- [El mercado de los votos](#org690486d)
-- [Recapitulación (semana 17)](#org96954c9)
+- [La teoría de la elección social (semanas 1 y 2)](#orgd0bec26)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgada174d)
+- [El control de la agenda (semana 5)](#org42a54cc)
+- [Cohesión de un grupo (semana 6)](#org4c04033)
+- [Los modelos y el método científico (semana 7)](#org9f4ee69)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org62ce100)
+- [Los partidos políticos (semanas 10 y 11)](#org0a2f1a1)
+- [Ideología (semanas 12 a 14)](#org6eeefec)
+- [Instituciones y estabilidad (semana 15)](#org069c5a0)
+- [Herestética (semana 16)](#orgc637e02)
+- [El mercado de los votos](#orgeb31a04)
+- [Recapitulación (semana 17)](#org998162e)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -66,7 +66,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 ---
 
 
-<a id="org588fac7"></a>
+<a id="orgd0bec26"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -83,7 +83,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org62fa8db"></a>
+<a id="orgada174d"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -94,7 +94,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org3bb4444"></a>
+<a id="org42a54cc"></a>
 
 # El control de la agenda (semana 5)
 
@@ -106,16 +106,17 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orge601c9d"></a>
+<a id="org4c04033"></a>
 
 # Cohesión de un grupo (semana 6)
 
 -   Rice (1925) ["The Behavior of Legislative Groups: A Method of Measurement"](https://github.com/emagar/ep3/blob/master/lecturas/riceMeasLegCohesion1925psq.pdf) 12 pp.
 -   Cox y McCubbins (2005) *[Setting the Agenda: Responsible Party Government in the U.S. House of Representatives](https://github.com/emagar/ep3/blob/master/lecturas/cox-mccubbins-Setting-the-agenda2005book.pdf)*
     -   cap. 5 Final-Passage votes pp. 89-94.
+-   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="org0ea5594"></a>
+<a id="org9f4ee69"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -126,7 +127,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgc3c8be6"></a>
+<a id="org62ce100"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -140,7 +141,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org1629ece"></a>
+<a id="org0a2f1a1"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -164,7 +165,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orgc5cf9e4"></a>
+<a id="org6eeefec"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -178,7 +179,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgaf3b591"></a>
+<a id="org069c5a0"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -189,7 +190,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgb6862af"></a>
+<a id="orgc637e02"></a>
 
 # Herestética (semana 16)
 
@@ -200,7 +201,7 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org690486d"></a>
+<a id="orgeb31a04"></a>
 
 # El mercado de los votos
 
@@ -212,6 +213,6 @@ Finalmente, use estas estadísticas para extraer algunas conclusiones breves y p
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org96954c9"></a>
+<a id="org998162e"></a>
 
 # Recapitulación (semana 17)
