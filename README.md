@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org60f2c2f)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgea7aeed)
-- [El control de la agenda (semana 5)](#org150ee16)
-- [Cohesión de un grupo (semana 6)](#orgbdb70f8)
-- [Los modelos y el método científico (semana 7)](#orgcc1bc83)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org6d04d3a)
-- [Los partidos políticos (semanas 10 y 11)](#orgd447c5a)
-- [Ideología (semanas 12 a 14)](#org2662353)
-- [Instituciones y estabilidad (semana 15)](#orgd20864c)
-- [Herestética (semana 16)](#org34c7047)
-- [El mercado de los votos](#org5b234ac)
-- [Recapitulación (semana 17)](#orgdf8b9bd)
+- [La teoría de la elección social (semanas 1 y 2)](#org287b707)
+- [La teoría espacial del voto (semanas 3 y 4)](#org51bee53)
+- [El control de la agenda (semana 5)](#org0648fa1)
+- [Cohesión de un grupo (semana 6)](#orgdf07d00)
+- [Los modelos y el método científico (semana 7)](#org3a74409)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orga846ad0)
+- [Los partidos políticos (semanas 10 y 11)](#orgb5b5465)
+- [Ideología (semanas 12 a 14)](#orgf9174dd)
+- [Instituciones y estabilidad (semana 15)](#org9e0b040)
+- [Herestética (semana 16)](#org5ac1fb0)
+- [El mercado de los votos](#org5d8dd9a)
+- [Recapitulación (semana 17)](#orgce2c19f)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -29,44 +29,46 @@ Por reglamento habrá también un examen final en clase
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
-*Días de asueto*: 2024-09-16 (Independencia) y 2024-11-18 (Revolución).
+*Fechas importantes*:
 
-*No habrá clase*: 2024-09-04
+-   Días de asueto: 2024-09-16 (Independencia) y 2024-11-18 (Revolución).
 
-*Semestre termina*: 2024-12-21.
+-   No habrá clase: 2024-09-04
 
-*Exámenes finales*: del 2024-12-09 al 2024-12-21.
+-   El semestre termina: 2024-12-21
 
----
-
-**Trabajo parcial**
-
-Entrega el lunes 21 de octubre en clase, el trabajo es individual.
-
-Parte 1. Desarrollo de pericia técnica: conversión de texto en datos. Abra el archivo [parcial/uk.txt](https://github.com/emagar/ep3/blob/master/parcial/uk.txt) para encontrar las indicaciones.
-
-Parte 2. Analice la conducta de los partidos conservador, laborista y liberal-demócrata en los *indicative votes* que celebraron en 2019. Encontrará las votaciones nominales en el archivo [parcial/12-indicative-votes.csv](https://github.com/emagar/ep3/blob/master/parcial/12-indicative-votes.csv).
-
-El archivo contiene votaciones nominales sobre el Brexit celebradas el 27 de marzo y 1 de abril de 2019. A diferencia de las votaciones para ratificar el tratado de Brexit, estos doce "indicative votes" le presentaron a los MPs opciones de salida de la Unión Europea y votaron cada una sin línea partidista.
-
-Hay información sobre las opciones aquí: <https://en.wikipedia.org/wiki/Parliamentary_votes_on_Brexit#First_Round_of_Indicative_Votes_(27_March_2019)>
-
-a) Calcule los índices de cohesión de Rice de cada voto para los Conservadores, Laboristas y Liberal Democrats. (Ojo: tiene que lidiar con las abstenciones ya sea excluyéndolas de las cuentas, o contabilizándolas como votos a favor o en contra; justifique su decisión.)
-
-b) Obtenga también los índices de disimilitud de Rice de cada voto para pares de estos tres partidos.
-
-c) Obtenga el promedio de cada índice para los doce votos de cada partido o par de ellos.
-
-d) Para cada uno de los tres partidos, obtenga el número de éxitos, bloqueos, rolls y decepciones (tipo Cox y McCubbins).
-
-e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves y puntuales de la conducta de los partidos en la discusión del Brexit.
-
-**¡Mucha suerte!**
+-   Exámenes finales: del 2024-12-09 al 2024-12-21
 
 ---
 
+**Trabajo final**
 
-<a id="org60f2c2f"></a>
+Entrega: el día y hora de inicio que asigne Dirección Escolar para el examen final. El trabajo es en equipos de dos.
+
+Harán una reseña del documental *Le Génie Helvétique* de Jean-Stéphane Bron (2003), que puede encontrar descargable [aquí ~1GB](https://drive.google.com/drive/folders/1rkLBX4_M53CpAWoRotveJj3_oiaQ7pPE?usp=sharing). La reseña será de naturaleza analítica y el objetivo será explicar algún aspecto interesante de la historia con alguna de las herramientas aprendidas en el curso.
+
+(Un ejemplo de reseña analítica, larga y muy elaborada, es de [Riker](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf).)
+
+La elección pública ofrece una colección de herramientas para entender la negociación política. Además, algunos recursos que podrían serle útiles para contextualizar y profundizar el ejercicio son este [briefing paper](https://github.com/emagar/ep3/blob/master/clases/13peliSuiza/perrez-etal-GMOregulationSwitzerland2003.pdf) de la regulación de OGMs en Suiza y las [votaciones nominales](https://github.com/emagar/ep3/blob/master/clases/13peliSuiza/votaciones-nominales/proces-verbal-3-votes.xlsx) del art. 23 de la Ley de Protección del Medio Ambiente.
+
+Algunos elementos que pueden tener en mente para su análisis (y otros que consideren relevantes para entender la ley GenLex):
+
+-   los actores relevantes
+-   sus preferencias
+-   el punto de reversión
+-   qué negocian, cuáles son las alternativas
+-   reglas de decisión relevantes
+-   ¿hay pagos colaterales?
+-   ¿la información es completa?
+
+Sean claros y concisos en su reseña, anuncien claramente su argumento. Además de la reseña escrita, harán una breve presentación en clase de su argumento y sus hallazgos. Encontrarán tips para preparar una presentación [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/tips.md) y [aquí](https://github.com/emagar/ep3/blob/master/tips-presentation/10-rules-oral-pres.jpeg).
+
+¡Mucha suerte!
+
+---
+
+
+<a id="org287b707"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -83,7 +85,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgea7aeed"></a>
+<a id="org51bee53"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -94,7 +96,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org150ee16"></a>
+<a id="org0648fa1"></a>
 
 # El control de la agenda (semana 5)
 
@@ -106,7 +108,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgbdb70f8"></a>
+<a id="orgdf07d00"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -116,7 +118,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="orgcc1bc83"></a>
+<a id="org3a74409"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -127,7 +129,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org6d04d3a"></a>
+<a id="orga846ad0"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -141,7 +143,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgd447c5a"></a>
+<a id="orgb5b5465"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -165,7 +167,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="org2662353"></a>
+<a id="orgf9174dd"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -179,7 +181,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orgd20864c"></a>
+<a id="org9e0b040"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -190,7 +192,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org34c7047"></a>
+<a id="org5ac1fb0"></a>
 
 # Herestética (semana 16)
 
@@ -201,7 +203,7 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org5b234ac"></a>
+<a id="org5d8dd9a"></a>
 
 # El mercado de los votos
 
@@ -213,6 +215,6 @@ e) Finalmente, use estas estadísticas para extraer algunas conclusiones breves 
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgdf8b9bd"></a>
+<a id="orgce2c19f"></a>
 
 # Recapitulación (semana 17)
