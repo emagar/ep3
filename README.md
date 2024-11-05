@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org287b707)
-- [La teoría espacial del voto (semanas 3 y 4)](#org51bee53)
-- [El control de la agenda (semana 5)](#org0648fa1)
-- [Cohesión de un grupo (semana 6)](#orgdf07d00)
-- [Los modelos y el método científico (semana 7)](#org3a74409)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orga846ad0)
-- [Los partidos políticos (semanas 10 y 11)](#orgb5b5465)
-- [Ideología (semanas 12 a 14)](#orgf9174dd)
-- [Instituciones y estabilidad (semana 15)](#org9e0b040)
-- [Herestética (semana 16)](#org5ac1fb0)
-- [El mercado de los votos](#org5d8dd9a)
-- [Recapitulación (semana 17)](#orgce2c19f)
+- [La teoría de la elección social (semanas 1 y 2)](#orgf463e5b)
+- [La teoría espacial del voto (semanas 3 y 4)](#org03a52df)
+- [El control de la agenda (semana 5)](#org17ea7bf)
+- [Cohesión de un grupo (semana 6)](#org256d8e9)
+- [Los modelos y el método científico (semana 7)](#orgdd817e3)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org495f436)
+- [Los partidos políticos (semanas 10 y 11)](#orge87aa36)
+- [Ideología (semanas 12 a 14)](#org6d8b192)
+- [Instituciones y estabilidad (semana 15)](#org49dc0ff)
+- [Herestética (semana 16)](#orga5cb377)
+- [El mercado de los votos](#org7f45e61)
+- [Recapitulación (semana 17)](#orgfedfb01)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -45,7 +45,7 @@ Por reglamento habrá también un examen final en clase
 
 Entrega: el día y hora de inicio que asigne Dirección Escolar para el examen final. El trabajo es en equipos de dos.
 
-Harán una reseña del documental *Le Génie Helvétique* de Jean-Stéphane Bron (2003), que puede encontrar descargable [aquí ~1GB](https://drive.google.com/drive/folders/1rkLBX4_M53CpAWoRotveJj3_oiaQ7pPE?usp=sharing). La reseña será de naturaleza analítica y el objetivo será explicar algún aspecto interesante de la historia con alguna de las herramientas aprendidas en el curso.
+Cada equipo elaborará una reseña del documental *Le Génie Helvétique* de Jean-Stéphane Bron (2003), que pueden encontrar descargable [aquí ~1GB](https://drive.google.com/drive/folders/1rkLBX4_M53CpAWoRotveJj3_oiaQ7pPE?usp=sharing). La reseña será de naturaleza analítica y el objetivo será explicar algún aspecto interesante de la historia con alguna de las herramientas aprendidas en el curso.
 
 (Un ejemplo de reseña analítica, larga y muy elaborada, es de [Riker](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf).)
 
@@ -68,7 +68,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 ---
 
 
-<a id="org287b707"></a>
+<a id="orgf463e5b"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -85,7 +85,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org51bee53"></a>
+<a id="org03a52df"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -96,7 +96,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org0648fa1"></a>
+<a id="org17ea7bf"></a>
 
 # El control de la agenda (semana 5)
 
@@ -108,7 +108,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgdf07d00"></a>
+<a id="org256d8e9"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -118,7 +118,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="org3a74409"></a>
+<a id="orgdd817e3"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -129,7 +129,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orga846ad0"></a>
+<a id="org495f436"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -143,7 +143,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgb5b5465"></a>
+<a id="orge87aa36"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -167,7 +167,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orgf9174dd"></a>
+<a id="org6d8b192"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -181,7 +181,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org9e0b040"></a>
+<a id="org49dc0ff"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -192,7 +192,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org5ac1fb0"></a>
+<a id="orga5cb377"></a>
 
 # Herestética (semana 16)
 
@@ -203,7 +203,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org5d8dd9a"></a>
+<a id="org7f45e61"></a>
 
 # El mercado de los votos
 
@@ -215,6 +215,6 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgce2c19f"></a>
+<a id="orgfedfb01"></a>
 
 # Recapitulación (semana 17)
