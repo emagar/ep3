@@ -1,15 +1,15 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgad984ca)
-- [La teoría espacial del voto (semanas 3 y 4)](#org6d1d85b)
-- [El control de la agenda (semana 5)](#orgc46532d)
-- [Cohesión de un grupo (semana 6)](#org5b97841)
-- [Los modelos y el método científico (semana 7)](#org8bdb850)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgfdf0ebc)
-- [Los partidos políticos (semanas 10 y 11)](#orgaacb71d)
-- [Ideología (semanas 12 a 14)](#orga3c1e4f)
-- [Instituciones y estabilidad (semana 15)](#org4de2bde)
-- [Herestética (semana 16)](#org0bab23e)
-- [El mercado de los votos](#orgcdd9328)
-- [Recapitulación (semana 17)](#org394d505)
+- [La teoría de la elección social (semanas 1 y 2)](#org663b131)
+- [La teoría espacial del voto (semanas 3 y 4)](#org4991539)
+- [El control de la agenda (semana 5)](#org7838c6f)
+- [Cohesión de un grupo (semana 6)](#orgfe6e634)
+- [Los modelos y el método científico (semana 7)](#org61e6b51)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org7c87195)
+- [Los partidos políticos (semanas 10 y 11)](#orgab09faa)
+- [Ideología (semanas 12 a 14)](#orgcda1160)
+- [Instituciones y estabilidad (semana 15)](#org5c46830)
+- [Herestética (semana 16)](#org39c3cb0)
+- [El mercado de los votos](#orgb384027)
+- [Recapitulación (semana 17)](#orgd7c5816)
 
 ITAM Depto. de ciencia política, otoño 2024
 
@@ -37,7 +37,7 @@ Por reglamento habrá también un examen final en clase
 
 -   El semestre termina: 2024-12-21
 
--   Examen final: 2024-12-13 13:00-16:00
+-   Examen final: 2024-12-13 13:00-16:00 salón 303
 
 ---
 
@@ -68,7 +68,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 ---
 
 
-<a id="orgad984ca"></a>
+<a id="org663b131"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -85,7 +85,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org6d1d85b"></a>
+<a id="org4991539"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -96,7 +96,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orgc46532d"></a>
+<a id="org7838c6f"></a>
 
 # El control de la agenda (semana 5)
 
@@ -108,7 +108,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org5b97841"></a>
+<a id="orgfe6e634"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -118,7 +118,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="org8bdb850"></a>
+<a id="org61e6b51"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -129,7 +129,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgfdf0ebc"></a>
+<a id="org7c87195"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -143,7 +143,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgaacb71d"></a>
+<a id="orgab09faa"></a>
 
 # Los partidos políticos (semanas 10 y 11)
 
@@ -167,7 +167,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
 
 
-<a id="orga3c1e4f"></a>
+<a id="orgcda1160"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -181,7 +181,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org4de2bde"></a>
+<a id="org5c46830"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -192,7 +192,7 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org0bab23e"></a>
+<a id="org39c3cb0"></a>
 
 # Herestética (semana 16)
 
@@ -200,10 +200,11 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Riker (1986) *The art of political manipulation*
     -   cap. 1 [Lincoln at Freeport](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap1Lincoln.pdf) 9 pp.
     -   cap. 2 [Chauncey DePew and the seventeenth amendment](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap2SeventeenthAmendment.pdf) 8 pp.
+    -   cap. 5 [Heresthetics in fiction](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf) 13 pp.
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orgcdd9328"></a>
+<a id="orgb384027"></a>
 
 # El mercado de los votos
 
@@ -215,6 +216,6 @@ Sean claros y concisos en su reseña, anuncien claramente su argumento. Además 
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org394d505"></a>
+<a id="orgd7c5816"></a>
 
 # Recapitulación (semana 17)
