@@ -1,14 +1,13 @@
-- [La teoría de la elección social (semanas 1 y 2)](#orgc34d73a)
-- [La teoría espacial del voto (semanas 3 y 4)](#org36ebe87)
-- [El control de la agenda (semana 5)](#org85044ca)
-- [Cohesión de un grupo (semana 6)](#orgcaf6a17)
-- [Los modelos y el método científico (semana 7)](#org22ddc62)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orga1998c4)
-- [Ideología (semanas 12 a 14)](#orgb29cc90)
-- [Instituciones y estabilidad (semana 15)](#org38c5c6b)
-- [Herestética (semana 16)](#org5e9e224)
-- [El mercado de los votos](#orge55c0ce)
-- [Recapitulación (semana 17)](#orga5f6b15)
+- [La teoría de la elección social (semanas 1 y 2)](#org59981bd)
+- [La teoría espacial del voto (semanas 3 y 4)](#org0c8ee74)
+- [El control de la agenda (semanas 5 y 6)](#org008ea06)
+- [Los modelos y el método científico (semana 7)](#orgfb9e696)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org2125e7c)
+- [Ideología (semanas 12 a 14)](#org071d1aa)
+- [Instituciones y estabilidad (semana 15)](#org49e79fa)
+- [Herestética (semana 16)](#orgb5c7b0f)
+- [El mercado de los votos](#orgbbba3ab)
+- [Recapitulación (semana 17)](#org1abd754)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -39,7 +38,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="orgc34d73a"></a>
+<a id="org59981bd"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -56,7 +55,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org36ebe87"></a>
+<a id="org0c8ee74"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -67,9 +66,9 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org85044ca"></a>
+<a id="org008ea06"></a>
 
-# El control de la agenda (semana 5)
+# El control de la agenda (semanas 5 y 6)
 
 -   Washington state (sf) ["How does a school district work?"](https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf) 2 pp.
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
@@ -79,17 +78,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgcaf6a17"></a>
-
-# Cohesión de un grupo (semana 6)
-
--   Rice (1925) ["The Behavior of Legislative Groups: A Method of Measurement"](https://github.com/emagar/ep3/blob/master/lecturas/riceMeasLegCohesion1925psq.pdf) 12 pp.
--   Cox y McCubbins (2005) *[Setting the Agenda: Responsible Party Government in the U.S. House of Representatives](https://github.com/emagar/ep3/blob/master/lecturas/cox-mccubbins-Setting-the-agenda2005book.pdf)*
-    -   cap. 5 Final-Passage votes pp. 89-94.
--   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
-
-
-<a id="org22ddc62"></a>
+<a id="orgfb9e696"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -100,7 +89,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orga1998c4"></a>
+<a id="org2125e7c"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -114,7 +103,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgb29cc90"></a>
+<a id="org071d1aa"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -128,7 +117,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org38c5c6b"></a>
+<a id="org49e79fa"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -139,7 +128,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org5e9e224"></a>
+<a id="orgb5c7b0f"></a>
 
 # Herestética (semana 16)
 
@@ -151,7 +140,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orge55c0ce"></a>
+<a id="orgbbba3ab"></a>
 
 # El mercado de los votos
 
@@ -163,6 +152,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orga5f6b15"></a>
+<a id="org1abd754"></a>
 
 # Recapitulación (semana 17)
