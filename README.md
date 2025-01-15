@@ -1,13 +1,12 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org59981bd)
-- [La teoría espacial del voto (semanas 3 y 4)](#org0c8ee74)
-- [El control de la agenda (semanas 5 y 6)](#org008ea06)
-- [Los modelos y el método científico (semana 7)](#orgfb9e696)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org2125e7c)
-- [Ideología (semanas 12 a 14)](#org071d1aa)
-- [Instituciones y estabilidad (semana 15)](#org49e79fa)
-- [Herestética (semana 16)](#orgb5c7b0f)
-- [El mercado de los votos](#orgbbba3ab)
-- [Recapitulación (semana 17)](#org1abd754)
+- [La teoría de la elección social (semanas 1 y 2)](#org98172a7)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgcd81a15)
+- [El control de la agenda (semanas 5 y 6)](#orgc1ea634)
+- [Los modelos y el método científico (semana 7)](#org5dcd837)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org506d922)
+- [Ideología (semanas 12 a 14)](#orgc8eff83)
+- [Instituciones y estabilidad (semana 15)](#orgb603121)
+- [Herestética (semana 16)](#orgb7d7bbf)
+- [Recapitulación (semana 17)](#org9797da7)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -38,7 +37,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org59981bd"></a>
+<a id="org98172a7"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -55,7 +54,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org0c8ee74"></a>
+<a id="orgcd81a15"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -66,7 +65,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org008ea06"></a>
+<a id="orgc1ea634"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -78,7 +77,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgfb9e696"></a>
+<a id="org5dcd837"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -89,7 +88,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org2125e7c"></a>
+<a id="org506d922"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -103,7 +102,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org071d1aa"></a>
+<a id="orgc8eff83"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -117,7 +116,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org49e79fa"></a>
+<a id="orgb603121"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -128,7 +127,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgb5c7b0f"></a>
+<a id="orgb7d7bbf"></a>
 
 # Herestética (semana 16)
 
@@ -140,18 +139,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="orgbbba3ab"></a>
-
-# El mercado de los votos
-
--   Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
--   Díaz Cayeros, Estévez y Magaloni (2016) *The Political Logic of Poverty Relief*
-    -   Introduction 20 pp.
-    -   cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
--   Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
--   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
-
-
-<a id="org1abd754"></a>
+<a id="org9797da7"></a>
 
 # Recapitulación (semana 17)
