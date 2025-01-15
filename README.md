@@ -1,14 +1,14 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org68ee8a4)
-- [La teoría espacial del voto (semanas 3 y 4)](#org8c4e155)
-- [El control de la agenda (semana 5)](#org65af95f)
-- [Cohesión de un grupo (semana 6)](#orgcb1489c)
-- [Los modelos y el método científico (semana 7)](#org036f802)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org3c25e31)
-- [Ideología (semanas 12 a 14)](#org00fffb4)
-- [Instituciones y estabilidad (semana 15)](#org3adbeeb)
-- [Herestética (semana 16)](#orga0b4e97)
-- [El mercado de los votos](#org424641b)
-- [Recapitulación (semana 17)](#org7d36921)
+- [La teoría de la elección social (semanas 1 y 2)](#orgc34d73a)
+- [La teoría espacial del voto (semanas 3 y 4)](#org36ebe87)
+- [El control de la agenda (semana 5)](#org85044ca)
+- [Cohesión de un grupo (semana 6)](#orgcaf6a17)
+- [Los modelos y el método científico (semana 7)](#org22ddc62)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orga1998c4)
+- [Ideología (semanas 12 a 14)](#orgb29cc90)
+- [Instituciones y estabilidad (semana 15)](#org38c5c6b)
+- [Herestética (semana 16)](#org5e9e224)
+- [El mercado de los votos](#orge55c0ce)
+- [Recapitulación (semana 17)](#orga5f6b15)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -23,8 +23,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 *Horas de oficina*: lunes y miércoles de 11:30 a 13:00, o con cita.
 
 *Evaluación*: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
-
-Por reglamento habrá también un examen final en clase
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
 
@@ -41,7 +39,7 @@ Por reglamento habrá también un examen final en clase
 ---
 
 
-<a id="org68ee8a4"></a>
+<a id="orgc34d73a"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -58,7 +56,7 @@ Por reglamento habrá también un examen final en clase
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org8c4e155"></a>
+<a id="org36ebe87"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -69,7 +67,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org65af95f"></a>
+<a id="org85044ca"></a>
 
 # El control de la agenda (semana 5)
 
@@ -81,7 +79,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgcb1489c"></a>
+<a id="orgcaf6a17"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -91,7 +89,7 @@ Por reglamento habrá también un examen final en clase
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="org036f802"></a>
+<a id="org22ddc62"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -102,7 +100,7 @@ Por reglamento habrá también un examen final en clase
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org3c25e31"></a>
+<a id="orga1998c4"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -116,7 +114,7 @@ Por reglamento habrá también un examen final en clase
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org00fffb4"></a>
+<a id="orgb29cc90"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -130,7 +128,7 @@ Por reglamento habrá también un examen final en clase
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org3adbeeb"></a>
+<a id="org38c5c6b"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -141,7 +139,7 @@ Por reglamento habrá también un examen final en clase
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orga0b4e97"></a>
+<a id="org5e9e224"></a>
 
 # Herestética (semana 16)
 
@@ -153,7 +151,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org424641b"></a>
+<a id="orge55c0ce"></a>
 
 # El mercado de los votos
 
@@ -165,6 +163,6 @@ Por reglamento habrá también un examen final en clase
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="org7d36921"></a>
+<a id="orga5f6b15"></a>
 
 # Recapitulación (semana 17)
