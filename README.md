@@ -1,15 +1,14 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org56cd42e)
-- [La teoría espacial del voto (semanas 3 y 4)](#org747d86a)
-- [El control de la agenda (semana 5)](#org7eda621)
-- [Cohesión de un grupo (semana 6)](#org9efe2ed)
-- [Los modelos y el método científico (semana 7)](#orgc2254e8)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org6de9267)
-- [Los partidos políticos (semanas 10 y 11)](#org9d67c29)
-- [Ideología (semanas 12 a 14)](#org89729b8)
-- [Instituciones y estabilidad (semana 15)](#org1f9381c)
-- [Herestética (semana 16)](#org4cc4c99)
-- [El mercado de los votos](#org7cca36a)
-- [Recapitulación (semana 17)](#orgfdb5586)
+- [La teoría de la elección social (semanas 1 y 2)](#org68ee8a4)
+- [La teoría espacial del voto (semanas 3 y 4)](#org8c4e155)
+- [El control de la agenda (semana 5)](#org65af95f)
+- [Cohesión de un grupo (semana 6)](#orgcb1489c)
+- [Los modelos y el método científico (semana 7)](#org036f802)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org3c25e31)
+- [Ideología (semanas 12 a 14)](#org00fffb4)
+- [Instituciones y estabilidad (semana 15)](#org3adbeeb)
+- [Herestética (semana 16)](#orga0b4e97)
+- [El mercado de los votos](#org424641b)
+- [Recapitulación (semana 17)](#org7d36921)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -23,7 +22,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 
 *Horas de oficina*: lunes y miércoles de 11:30 a 13:00, o con cita.
 
-*Evaluación*: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas (el examen final).
+*Evaluación*: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
 Por reglamento habrá también un examen final en clase
 
@@ -42,7 +41,7 @@ Por reglamento habrá también un examen final en clase
 ---
 
 
-<a id="org56cd42e"></a>
+<a id="org68ee8a4"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -59,7 +58,7 @@ Por reglamento habrá también un examen final en clase
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org747d86a"></a>
+<a id="org8c4e155"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -70,7 +69,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org7eda621"></a>
+<a id="org65af95f"></a>
 
 # El control de la agenda (semana 5)
 
@@ -82,7 +81,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org9efe2ed"></a>
+<a id="orgcb1489c"></a>
 
 # Cohesión de un grupo (semana 6)
 
@@ -92,18 +91,18 @@ Por reglamento habrá también un examen final en clase
 -   Jenkins y Monroe (2016) ["On Measuring Agenda-Setting Power"](https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf) 17 pp.
 
 
-<a id="orgc2254e8"></a>
+<a id="org036f802"></a>
 
 # Los modelos y el método científico (semana 7)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
 -   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
--   Pain (2016) [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper) 5 pp.
+
 -   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org6de9267"></a>
+<a id="org3c25e31"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -117,31 +116,7 @@ Por reglamento habrá también un examen final en clase
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org9d67c29"></a>
-
-# Los partidos políticos (semanas 10 y 11)
-
--   Cox (1987) *The Efficient Secret*.
-    -   [Partes I y II](https://github.com/emagar/ep3/blob/master/lecturas/coxEffSec1.pdf)
-        -   cap. 1 "Introduction and outline" 8 pp.
-        -   cap. 2 "The historical setting" 10 pp.
-        -   cap. 3 "The measurement and theory of party cohesion" 13 pp.
-        -   cap. 4 "The Peelites and the disruption of the party system" 5 pp.
-        -   cap. 5 "The caucus" 8 pp.
-        -   cap. 6 "The origin of the efficient secret" 23 pp.
-        -   cap. 7 "The electoral connection and ministerial ambition" 11 pp.
-        -   cap. 8 "The cabinet's strength: threats of resignation and dissolution" 8 pp.
-    -   [Partes III y IV](https://github.com/emagar/ep3/blob/master/lecturas/coxEffSec2.pdf)
-        -   cap. 9 "The development of a party oriented electorate" 22 pp.
-        -   cap. 10 "The causes of a party-oriented electorate" 24 pp.
-        -   cap. 11 "The legislative consequences of a party-oriented electorate" 11 pp.
-        -   cap. 12 "The inflouence of constituents in Victorian England" 18 pp.
-        -   cap. 13 "The history of party voting" 2 pp.
-        -   Appendix 5 pp.
--   Cox (2006) [The organization of democratic legislatures](https://github.com/emagar/ep3/blob/master/lecturas/coxOrgDemLeg2006oxford.pdf) 19 pp.
-
-
-<a id="org89729b8"></a>
+<a id="org00fffb4"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -155,7 +130,7 @@ Por reglamento habrá también un examen final en clase
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org1f9381c"></a>
+<a id="org3adbeeb"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -166,7 +141,7 @@ Por reglamento habrá también un examen final en clase
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org4cc4c99"></a>
+<a id="orga0b4e97"></a>
 
 # Herestética (semana 16)
 
@@ -178,7 +153,7 @@ Por reglamento habrá también un examen final en clase
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org7cca36a"></a>
+<a id="org424641b"></a>
 
 # El mercado de los votos
 
@@ -190,6 +165,6 @@ Por reglamento habrá también un examen final en clase
 -   Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" *American Political Science Review* 102(1):19-31.
 
 
-<a id="orgfdb5586"></a>
+<a id="org7d36921"></a>
 
 # Recapitulación (semana 17)
