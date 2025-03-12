@@ -1,12 +1,13 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org51b9a7c)
-- [La teoría espacial del voto (semanas 3 y 4)](#orge051727)
-- [El control de la agenda (semanas 5 y 6)](#orga447b23)
-- [Los modelos y el método científico (semana 7)](#org8bd808b)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org4f9099f)
-- [Ideología (semanas 12 a 14)](#org5d9a6c9)
-- [Instituciones y estabilidad (semana 15)](#org58530b4)
-- [Herestética (semana 16)](#org645aa24)
-- [Recapitulación (semana 17)](#org2b57025)
+- [Reposiciones](#orgd6c1786)
+- [La teoría de la elección social (semanas 1 y 2)](#org8161e27)
+- [La teoría espacial del voto (semanas 3 y 4)](#org627f561)
+- [El control de la agenda (semanas 5 y 6)](#org72ca945)
+- [Los modelos y el método científico (semana 7)](#orgb9dfd37)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org02a2578)
+- [Ideología (semanas 12 a 14)](#org8a7a9c1)
+- [Instituciones y estabilidad (semana 15)](#orgf86bd1a)
+- [Herestética (semana 16)](#org231d434)
+- [Recapitulación (semana 17)](#org858a7e1)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -37,7 +38,19 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="org51b9a7c"></a>
+<a id="orgd6c1786"></a>
+
+# Reposiciones
+
+Habrá dos clases de reposición.
+
+-   Una el **lunes 17 de marzo de 10am a 11:30** será transmitida por zoom (en este enlace) y grabada para que puedan tomarla a destiempo. No será presencial porque el ITAM cierra ese día.
+-   Otra el **viernes 21 de marzo de 10am a 11:30** será en el salón 202 y transmitida por zoom (en este enlace).
+
+---
+
+
+<a id="org8161e27"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -54,7 +67,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orge051727"></a>
+<a id="org627f561"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -65,7 +78,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orga447b23"></a>
+<a id="org72ca945"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -77,7 +90,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org8bd808b"></a>
+<a id="orgb9dfd37"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -88,7 +101,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org4f9099f"></a>
+<a id="org02a2578"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -102,7 +115,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org5d9a6c9"></a>
+<a id="org8a7a9c1"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -116,7 +129,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org58530b4"></a>
+<a id="orgf86bd1a"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -127,7 +140,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org645aa24"></a>
+<a id="org231d434"></a>
 
 # Herestética (semana 16)
 
@@ -139,6 +152,6 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org2b57025"></a>
+<a id="org858a7e1"></a>
 
 # Recapitulación (semana 17)
