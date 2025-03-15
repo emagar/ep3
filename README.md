@@ -1,14 +1,14 @@
-- [Trabajos parcial y final](#orgb7e0844)
-- [Reposiciones](#orgce8b832)
-- [La teoría de la elección social (semanas 1 y 2)](#org6a4c9f9)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgf6e7905)
-- [El control de la agenda (semanas 5 y 6)](#org7af7ece)
-- [Los modelos y el método científico (semana 7)](#org439340a)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgcc11733)
-- [Ideología (semanas 12 a 14)](#org85c530f)
-- [Instituciones y estabilidad (semana 15)](#org2866f9c)
-- [Herestética (semana 16)](#org39a411c)
-- [Recapitulación (semana 17)](#org95a16af)
+- [Reposiciones](#org43bdc04)
+- [Trabajos parcial y final](#orgab482f2)
+- [La teoría de la elección social (semanas 1 y 2)](#org2af3ee9)
+- [La teoría espacial del voto (semanas 3 y 4)](#org797dfdd)
+- [El control de la agenda (semanas 5 y 6)](#org699799c)
+- [Los modelos y el método científico (semana 7)](#org1cf82d5)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgd1ced23)
+- [Ideología (semanas 12 a 14)](#org37f6c9b)
+- [Instituciones y estabilidad (semana 15)](#org428acf7)
+- [Herestética (semana 16)](#org3967b73)
+- [Recapitulación (semana 17)](#org28a5a66)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -39,16 +39,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="orgb7e0844"></a>
-
-# Trabajos parcial y final
-
-Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 31 de marzo; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar.
-
----
-
-
-<a id="orgce8b832"></a>
+<a id="org43bdc04"></a>
 
 # Reposiciones
 
@@ -60,7 +51,16 @@ Habrá dos clases de reposición.
 ---
 
 
-<a id="org6a4c9f9"></a>
+<a id="orgab482f2"></a>
+
+# Trabajos parcial y final
+
+Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 31 de marzo; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar.
+
+---
+
+
+<a id="org2af3ee9"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -77,7 +77,7 @@ Habrá dos clases de reposición.
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgf6e7905"></a>
+<a id="org797dfdd"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -88,7 +88,7 @@ Habrá dos clases de reposición.
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org7af7ece"></a>
+<a id="org699799c"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -100,7 +100,7 @@ Habrá dos clases de reposición.
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org439340a"></a>
+<a id="org1cf82d5"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -111,7 +111,7 @@ Habrá dos clases de reposición.
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgcc11733"></a>
+<a id="orgd1ced23"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -125,7 +125,7 @@ Habrá dos clases de reposición.
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org85c530f"></a>
+<a id="org37f6c9b"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -139,7 +139,7 @@ Habrá dos clases de reposición.
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org2866f9c"></a>
+<a id="org428acf7"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -150,7 +150,7 @@ Habrá dos clases de reposición.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org39a411c"></a>
+<a id="org3967b73"></a>
 
 # Herestética (semana 16)
 
@@ -162,6 +162,6 @@ Habrá dos clases de reposición.
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org95a16af"></a>
+<a id="org28a5a66"></a>
 
 # Recapitulación (semana 17)
