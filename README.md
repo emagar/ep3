@@ -1,14 +1,14 @@
-- [Reposiciones](#org43bdc04)
-- [Trabajos parcial y final](#orgab482f2)
-- [La teoría de la elección social (semanas 1 y 2)](#org2af3ee9)
-- [La teoría espacial del voto (semanas 3 y 4)](#org797dfdd)
-- [El control de la agenda (semanas 5 y 6)](#org699799c)
-- [Los modelos y el método científico (semana 7)](#org1cf82d5)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgd1ced23)
-- [Ideología (semanas 12 a 14)](#org37f6c9b)
-- [Instituciones y estabilidad (semana 15)](#org428acf7)
-- [Herestética (semana 16)](#org3967b73)
-- [Recapitulación (semana 17)](#org28a5a66)
+- [Reposiciones](#org605287d)
+- [Trabajos parcial y final](#orga075b06)
+- [La teoría de la elección social (semanas 1 y 2)](#org27e7b1a)
+- [La teoría espacial del voto (semanas 3 y 4)](#org0414dc8)
+- [El control de la agenda (semanas 5 y 6)](#org883b8d9)
+- [Los modelos y el método científico (semana 7)](#org464a788)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org914e778)
+- [Ideología (semanas 12 a 14)](#orgd258276)
+- [Instituciones y estabilidad (semana 15)](#org1864625)
+- [Herestética (semana 16)](#org0040687)
+- [Recapitulación (semana 17)](#orgbe4adb3)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -39,7 +39,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="org43bdc04"></a>
+<a id="org605287d"></a>
 
 # Reposiciones
 
@@ -51,16 +51,16 @@ Habrá dos clases de reposición.
 ---
 
 
-<a id="orgab482f2"></a>
+<a id="orga075b06"></a>
 
 # Trabajos parcial y final
 
-Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 31 de marzo; la entrega final (individual o en equipo) el día que nos asigne Dirección Escolar.
+Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 21 de abril; la entrega final el día que nos asigne Dirección Escolar.
 
 ---
 
 
-<a id="org2af3ee9"></a>
+<a id="org27e7b1a"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -77,7 +77,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org797dfdd"></a>
+<a id="org0414dc8"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -88,7 +88,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org699799c"></a>
+<a id="org883b8d9"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -100,7 +100,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org1cf82d5"></a>
+<a id="org464a788"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -111,7 +111,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgd1ced23"></a>
+<a id="org914e778"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -125,7 +125,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org37f6c9b"></a>
+<a id="orgd258276"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -139,7 +139,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org428acf7"></a>
+<a id="org1864625"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -150,7 +150,7 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="org3967b73"></a>
+<a id="org0040687"></a>
 
 # Herestética (semana 16)
 
@@ -162,6 +162,6 @@ Enlace [aquí](./parcial-final/). El trabajo parcial es individual y es la versi
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org28a5a66"></a>
+<a id="orgbe4adb3"></a>
 
 # Recapitulación (semana 17)
