@@ -1,14 +1,14 @@
-- [Reposiciones](#orgc448833)
-- [Trabajos parcial y final](#org1cb87ed)
-- [La teoría de la elección social (semanas 1 y 2)](#org5591597)
-- [La teoría espacial del voto (semanas 3 y 4)](#org4a781eb)
-- [El control de la agenda (semanas 5 y 6)](#org986341c)
-- [Los modelos y el método científico (semana 7)](#orgca73841)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgbd50eb2)
-- [Ideología (semanas 12 a 14)](#orgcd1843d)
-- [Instituciones y estabilidad (semana 15)](#orga150472)
-- [Herestética (semana 16)](#orgcd16490)
-- [Recapitulación (semana 17)](#org0036532)
+- [Reposiciones](#org52c04e5)
+- [Trabajos parcial y final](#org390d8ff)
+- [La teoría de la elección social (semanas 1 y 2)](#org3530dba)
+- [La teoría espacial del voto (semanas 3 y 4)](#org30d0352)
+- [El control de la agenda (semanas 5 y 6)](#orgdbb9ca9)
+- [Los modelos y el método científico (semana 7)](#org5d085a7)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org9e68659)
+- [Ideología (semanas 12 a 14)](#org791c4f8)
+- [Instituciones y estabilidad (semana 15)](#org26c90d5)
+- [Herestética (semana 16)](#orgf224d74)
+- [Recapitulación (semana 17)](#org2764ba8)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -39,19 +39,17 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="orgc448833"></a>
+<a id="org52c04e5"></a>
 
 # Reposiciones
 
-Habrá dos clases de reposición.
-
--   Una el **lunes 17 de marzo de 10am a 11:30** será transmitida por zoom (en [este](https://itam.zoom.us/j/99151447668) enlace) y grabada para que puedan tomarla a destiempo. No será presencial porque el ITAM cierra ese día. La grabación la encuentra [aquí](https://itam.zoom.us/rec/share/P-Esmc6KAQVppYZNfb7_dyBOJBW3OtsqUOGjxf765IXXyJH_KtbvERRxiLf3k4eh.WHniAGKxiahl4bj2?startTime=1742227189000).
--   Otra el **viernes 21 de marzo de 10am a 11:30** será en el salón 202 y transmitida por zoom (en el mismo enlace).
+-   Habrá una clase de reposición el **lunes 17 de marzo de 10am a 11:30** será transmitida por zoom (en [este](https://itam.zoom.us/j/99151447668) enlace) y grabada para que puedan tomarla a destiempo. No será presencial porque el ITAM cierra ese día. La grabación la encuentra [aquí](https://itam.zoom.us/rec/share/P-Esmc6KAQVppYZNfb7_dyBOJBW3OtsqUOGjxf765IXXyJH_KtbvERRxiLf3k4eh.WHniAGKxiahl4bj2?startTime=1742227189000).
+-   La clase de reposición del **viernes 21 de marzo de 10am a 11:30** no tendrá lugar. Dediquen esa hora y media para investigar la gaceta parlamentaria en busca de los vetos del trabajo parcial. Así podremos discutir sus hallazgos la semana entrante.
 
 ---
 
 
-<a id="org1cb87ed"></a>
+<a id="org390d8ff"></a>
 
 # Trabajos parcial y final
 
@@ -60,7 +58,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 ---
 
 
-<a id="org5591597"></a>
+<a id="org3530dba"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -77,7 +75,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org4a781eb"></a>
+<a id="org30d0352"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -88,7 +86,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org986341c"></a>
+<a id="orgdbb9ca9"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -100,7 +98,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgca73841"></a>
+<a id="org5d085a7"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -111,7 +109,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="orgbd50eb2"></a>
+<a id="org9e68659"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -125,7 +123,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgcd1843d"></a>
+<a id="org791c4f8"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -139,7 +137,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="orga150472"></a>
+<a id="org26c90d5"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -150,7 +148,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgcd16490"></a>
+<a id="orgf224d74"></a>
 
 # Herestética (semana 16)
 
@@ -162,6 +160,6 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org0036532"></a>
+<a id="org2764ba8"></a>
 
 # Recapitulación (semana 17)
