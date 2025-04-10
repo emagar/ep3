@@ -1,14 +1,14 @@
-- [Reposiciones](#org52c04e5)
-- [Trabajos parcial y final](#org390d8ff)
-- [La teoría de la elección social (semanas 1 y 2)](#org3530dba)
-- [La teoría espacial del voto (semanas 3 y 4)](#org30d0352)
-- [El control de la agenda (semanas 5 y 6)](#orgdbb9ca9)
-- [Los modelos y el método científico (semana 7)](#org5d085a7)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org9e68659)
-- [Ideología (semanas 12 a 14)](#org791c4f8)
-- [Instituciones y estabilidad (semana 15)](#org26c90d5)
-- [Herestética (semana 16)](#orgf224d74)
-- [Recapitulación (semana 17)](#org2764ba8)
+- [Reposiciones](#org1058f75)
+- [Trabajos parcial y final](#org3643366)
+- [La teoría de la elección social (semanas 1 y 2)](#org59898fd)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgb5daf3d)
+- [El control de la agenda (semanas 5 y 6)](#orgc53989d)
+- [Los modelos y el método científico (semana 7)](#orgb51c70b)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org67383a0)
+- [Ideología (semanas 12 a 14)](#org68656ad)
+- [Instituciones y estabilidad (semana 15)](#orgd5fc828)
+- [Herestética (semana 16)](#orga4340b7)
+- [Recapitulación (semana 17)](#org9558736)
 
 ITAM Depto. de ciencia política, primavera 2025
 
@@ -34,12 +34,12 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 
 *Última clase*: miércoles 14 de mayo.
 
-*Exámenes finales*: del lunes 19 al sábado 31 de mayo.
+*Examen final*: 2025-5-27 18:00-21:00.
 
 ---
 
 
-<a id="org52c04e5"></a>
+<a id="org1058f75"></a>
 
 # Reposiciones
 
@@ -49,7 +49,7 @@ Lunes y miércoles 10:00&#x2013;11:30, salón 308
 ---
 
 
-<a id="org390d8ff"></a>
+<a id="org3643366"></a>
 
 # Trabajos parcial y final
 
@@ -58,7 +58,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 ---
 
 
-<a id="org3530dba"></a>
+<a id="org59898fd"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -75,7 +75,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org30d0352"></a>
+<a id="orgb5daf3d"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -86,7 +86,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="orgdbb9ca9"></a>
+<a id="orgc53989d"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -98,7 +98,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="org5d085a7"></a>
+<a id="orgb51c70b"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -109,7 +109,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org9e68659"></a>
+<a id="org67383a0"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -123,7 +123,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org791c4f8"></a>
+<a id="org68656ad"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -137,7 +137,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org26c90d5"></a>
+<a id="orgd5fc828"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -148,7 +148,7 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgf224d74"></a>
+<a id="orga4340b7"></a>
 
 # Herestética (semana 16)
 
@@ -160,6 +160,6 @@ Enlace [aquí](./parcial-final/). El trabajo es individual y es la versión prel
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org2764ba8"></a>
+<a id="org9558736"></a>
 
 # Recapitulación (semana 17)
