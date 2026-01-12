@@ -1,12 +1,12 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org667a5a8)
-- [La teoría espacial del voto (semanas 3 y 4)](#org85e844b)
-- [El control de la agenda (semanas 5 y 6)](#org101cd4a)
-- [Los modelos y el método científico (semana 7)](#orgb324446)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#org8cdd41e)
-- [Ideología (semanas 12 a 14)](#org2cd2f56)
-- [Instituciones y estabilidad (semana 15)](#org6607c1b)
-- [Herestética (semana 16)](#orgc3e6bd5)
-- [Recapitulación (semana 17)](#org3da8b6b)
+- [La teoría de la elección social (semanas 1 y 2)](#org03a741d)
+- [La teoría espacial del voto (semanas 3 y 4)](#orgb472879)
+- [El control de la agenda (semanas 5 y 6)](#org68b0901)
+- [Los modelos y el método científico (semana 7)](#orgd1781ce)
+- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgc106c88)
+- [Ideología (semanas 12 a 14)](#orgf515899)
+- [Instituciones y estabilidad (semana 15)](#org90870a2)
+- [Herestética (semana 16)](#org30262c5)
+- [Recapitulación (semana 17)](#orgdf0c72a)
 
 ---
 
@@ -24,28 +24,28 @@ Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
 Lunes y miércoles 8:30&#x2013;10:00, salón 308
 
-*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo deciden las democracias. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, tras hacer un repaso de la elección social y sus dilemas, buscaremos entender cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. Para esto revisaremos modelos canónicos de negociación en democracia. El curso hará hincapié en la conexión fundamental entre teoría y evidencia empírica.
+*Objetivo*: El último curso de la serie de elección pública del programa estudia cómo deciden los gobiernos. El hilo conductor que conecta los temas del curso es la **negociación**, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, haremos un repaso de la elección social y sus dilemas. Después entenderemos cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. El curso revisa con detenimiento algunos modelos canónicos de negociación, haciendo hincapié en la conexión fundamental entre una teoría y su comprobación empírica.
 
-*Horas de oficina*: lunes y miércoles de 13:00 a 13:30, o con cita.
+*Horas de oficina*: lunes y miércoles de 13:00 a 13:45, o con cita.
 
 *Evaluación*: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas.
 
-*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase. (3) Coordinaré reposición de clases faltantes más adelante.
+*Notas*: (1) La página del curso es <https://github.com/emagar/ep3/>. Alberga este temario, las lecturas y el material adicional. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase.
 
 *Fechas importantes*:
 
-*Días de asueto*: lunes 3 de febrero (Constitución), lunes 17 de marzo (Benito Juárez), lunes 14 al viernes 18 de abril (Semana Santa) y jueves 1 y viernes 2 de mayo (Trabajo).
+*Días de asueto*: lunes 2 de febrero (Constitución), lunes 16 de marzo (Benito Juárez), lunes 30 de marzo y miércoles 1 de abril (Semana Santa).
 
-*No habrá clases*: lunes 24 y miércoles 26 de febrero.
+*No habrá clases*: lunes 16 y miércoles 18 de febrero.
 
-*Última clase*: miércoles 14 de mayo.
+*Última clase*: miércoles 13 de mayo.
 
-*Examen final*: 2025-5-27 18:00-21:00, salón SA3.
+*Exámenes finales*: del lunes 18 al sábado 30 de mayo.
 
 ---
 
 
-<a id="org667a5a8"></a>
+<a id="org03a741d"></a>
 
 # La teoría de la elección social (semanas 1 y 2)
 
@@ -62,7 +62,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="org85e844b"></a>
+<a id="orgb472879"></a>
 
 # La teoría espacial del voto (semanas 3 y 4)
 
@@ -73,7 +73,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-<a id="org101cd4a"></a>
+<a id="org68b0901"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -85,7 +85,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgb324446"></a>
+<a id="orgd1781ce"></a>
 
 # Los modelos y el método científico (semana 7)
 
@@ -96,7 +96,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
 
-<a id="org8cdd41e"></a>
+<a id="orgc106c88"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -110,7 +110,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="org2cd2f56"></a>
+<a id="orgf515899"></a>
 
 # Ideología (semanas 12 a 14)
 
@@ -124,7 +124,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org6607c1b"></a>
+<a id="org90870a2"></a>
 
 # Instituciones y estabilidad (semana 15)
 
@@ -135,7 +135,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
 
-<a id="orgc3e6bd5"></a>
+<a id="org30262c5"></a>
 
 # Herestética (semana 16)
 
@@ -147,6 +147,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
 
-<a id="org3da8b6b"></a>
+<a id="orgdf0c72a"></a>
 
 # Recapitulación (semana 17)

@@ -1,0 +1,274 @@
+#+TITLE: Elección Pública III (CSO-15024)
+#+SUBTITLE: Departamento de Ciencia Política ITAM, primavera 2026
+#+AUTHOR: Profesor: Eric Magar Meurs \small{\url{emagar@itam.mx}}
+#+DATE:  Lunes y miércoles 8:30--10:00, salón 308
+# #+OPTIONS: toc:nil # don't place toc in default location
+# # will change captions to Spanish, see https://lists.gnu.org/archive/html/emacs-orgmode/2010-03/msg00879.html
+#+LANGUAGE: es 
+
+#+OPTIONS: org-export-date-timestamp-format "\\texttt{%s}"
+# #+OPTIONS: broken-links:t
+
+#+LATEX_HEADER: \documentclass[letter,14pt]{article}
+#+LATEX_HEADER: \usepackage[letterpaper,right=1.25in,left=1.25in,top=1in,bottom=1in]{geometry}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{mathptmx}           % set font type to Times
+#+LATEX_HEADER: \usepackage[scaled=.90]{helvet} % set font type to Times (Helvetica for some special characters)
+#+LATEX_HEADER: \usepackage{courier}            % set font type to Times (Courier for other special characters)
+
+----------------------------
+
+<h2>
+Anuncios
+</h2>
+
+<sup><sub>2026-01-12</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy. 
+
+----------------------------
+
+ITAM Depto. de ciencia política, primavera 2026
+
+*Elección Pública III* (CSO-15024)
+
+Profesor: Eric Magar Meurs ([[mailto:emagar@itam.mx][emagar@itam.mx]])
+
+Lunes y miércoles 8:30--10:00, salón 308
+
+/Objetivo/: El último curso de la serie de elección pública del programa estudia cómo deciden los gobiernos. El hilo conductor que conecta los temas del curso es la *negociación*, sin la que es impensable la democracia (y, quizás, la política). En la parte sustancial, haremos un repaso de la elección social y sus dilemas. Después entenderemos cómo influyen las preferencias, las reglas y los partidos en las decisiones colectivas. El curso revisa con detenimiento algunos modelos canónicos de negociación, haciendo hincapié en la conexión fundamental entre una teoría y su comprobación empírica. 
+
+/Horas de oficina/: lunes y miércoles de 13:00 a 13:45, o con cita.  
+
+/Evaluación/: Habrá un trabajo parcial y otro final. Contarán 40% de la calificación final cada uno. En su momento anunciaré sus formatos. El 20% restante valorará su desempeño en clase, participación y conocimiento de las lecturas. 
+
+# Por reglamento habrá también un examen final en clase
+
+/Notas/: (1) La página del curso es [[https://github.com/emagar/ep3/]]. Alberga este temario, las lecturas y el material adicional. (2) El temario sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase.
+
+/Fechas importantes/:
+
+/Días de asueto/: lunes 2 de febrero (Constitución), lunes 16 de marzo (Benito Juárez), lunes 30 de marzo y miércoles 1 de abril (Semana Santa).
+# 32 clases descontando asuetos
+
+/No habrá clases/: lunes 16 y miércoles 18 de febrero.
+# 30 clases descontando mis ausencias
+
+/Última clase/: miércoles 13 de mayo.
+
+/Exámenes finales/: del lunes 18 al sábado 30 de mayo.
+# /Examen final/: 2025-5-27 18:00-21:00, salón SA3. 
+
+# ------------------------
+
+# * Reposiciones
+ 
+# - Habrá una clase de reposición el *lunes 17 de marzo de 10am a 11:30* será transmitida por zoom (en 
+#   [[https://itam.zoom.us/j/99151447668][este]] 
+#   enlace) y grabada para que puedan tomarla a destiempo. No será presencial porque el ITAM cierra ese día. La grabación la encuentra 
+#   [[https://itam.zoom.us/rec/share/P-Esmc6KAQVppYZNfb7_dyBOJBW3OtsqUOGjxf765IXXyJH_KtbvERRxiLf3k4eh.WHniAGKxiahl4bj2?startTime=1742227189000][aquí]].
+# - La clase de reposición del *viernes 21 de marzo de 10am a 11:30* no tendrá lugar. Dediquen esa hora y media para investigar la gaceta parlamentaria en busca de los vetos del trabajo parcial. Así podremos discutir sus hallazgos la semana entrante.
+# Esta sesión la dedicaremos a hacer presentaciones personales siguiendo las instrucciones que he dado en clase. De ser posible, asistan personalmente: las presentaciones son mucho más personales presencialmente. 
+
+# ------------------------
+
+# * Trabajos parcial y final
+
+# Enlace [[./parcial-final/][aquí]]. El trabajo es individual y es la versión preliminar del trabajo final. Fechas: deberá entregar su trabajo parcial a más tardar el lunes 21 de abril; la entrega final el día que nos asigne Dirección Escolar. 
+
+-------------------------
+
+* La teoría de la elección social (semanas 1 y 2)
+- Szpiro (2010) /Numbers Rule/ 
+  - [[https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf][Prefacio]] 3 pp.
+  - cap. 5 [[https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch05-the-officer.pdf][The Officer]] 13 pp.
+  - cap. 6 [[https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch06-the-marquis.pdf][The Marquis]] 16 pp.
+  - cap. 11 [[https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch11-pessimists.pdf][The Pessimists]] 22 pp.
+- Schwartz (1986) [[https://github.com/emagar/ep3/blob/master/lecturas/schwartz-Votes-strategies-institutions1986.pdf]["Votes, strategies, and institutions"]] 28 pp. 
+- Riker (1981) /[[https://github.com/emagar/ep3/blob/master/lecturas/riker-liberalism-populism1978book-excerpts-1.pdf][Liberalism against Populism]]/
+  - Prefacio 2 pp.
+  - cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
+  - cap. 2 Different choices from identical values 20 pp.
+- Rodríguez Mondragón et al. (2018) [[https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto][Paradojas de las nulidades electorales]] 5 pp.
+* La teoría espacial del voto (semanas 3 y 4)
+- Shepsle (2010) /Analyzing Politics/, [[https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-5.pdf][cap. 5 Spatial models of majority rule]] pp. 90-110.
+- McKelvey (1976) [[https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf][Intransitivities in multidimensional voting models and some implications for agenda control]] 12 pp. 
+- Cooperrider et al. (2016) [[https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-016-0024-5][Spatial analogies pervade complex relational reasoning: Evidence from spontaneous gestures]]. 
+- Downs (1957) /[[https://github.com/emagar/ep3/blob/master/lecturas/downs-An-Economic-Theory-of-Democracy-1957.pdf][An Economic Theory of Democracy]]/
+  - cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141. 
+* El control de la agenda (semanas 5 y 6)
+- Washington state (sf)  [[https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf]["How does a school district work?"]] 2 pp.
+- Ehrenberg et al. (2004) [[https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf]["Why Do School District Budget Referenda Fail?"]] 16 pp.
+- Romer y Rosenthal (1978) [[https://github.com/emagar/ep3/blob/master/lecturas/romer.rosenthal1978pubcho.pdf]["Political Resource Allocation, Controlled Agendas, and the Status Quo"]] 17 pp.
+# - Romer y Rosenthal (1979), "The Elusive Median Voter," pp. 143-70. 
+# - /Economist/ (2021) [[https://github.com/emagar/ep3/blob/master/clase6romer-rosenthal/economist-school-lockdown-feb2021.pdf]["Time to re-open the school gates"]] 4 pp. 
+- Krehbiel (1998) /Pivotal Politics/
+  - cap. 2, "A theory" 29 pp.
+# * La cohesión de un grupo (semana 7)
+# - Rice (1925) [[https://github.com/emagar/ep3/blob/master/lecturas/riceMeasLegCohesion1925psq.pdf]["The Behavior of Legislative Groups: A Method of Measurement"]] 12 pp.
+# - Cox y McCubbins (2005) /[[https://github.com/emagar/ep3/blob/master/lecturas/cox-mccubbins-Setting-the-agenda2005book.pdf][Setting the Agenda: Responsible Party Government in the U.S. House of Representatives]]/
+#   - cap. 5 Final-Passage votes pp. 89-94.
+# - Jenkins y Monroe (2016) [[https://github.com/emagar/ep3/blob/master/lecturas/jenkins.monroeMesuringAgendaPower2016ajps.pdf]["On Measuring Agenda-Setting Power"]] 17 pp.
+* Los modelos y el método científico (semana 7)
+- Shepsle (2010) /Analyzing Politics/, [[https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf][cap. 1 It isn't rocket science, but...]] pp. 3-12.
+- Clarke y Primo (2007) [[https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf]["Modernizing political science: a model-based approach"]] 12 pp.
+# - Pain (2016) [[https://www.science.org/content/article/how-seriously-read-scientific-paper][How to (seriously) read a scientific paper]] 5 pp.
+- McCubbins y Thies (1996) [[https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf]["Rationality and the foundations of PPT"]] 39 pp.
+- Borges (1944) [[https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf]["Funes el memorioso"]] 8 pp.
+* Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
+  # - Gerber (1996) "Legislative response to the threat of popular initiatives" 30 pp.
+- Kiewiet y McCubbins (1988) "[[https://github.com/emagar/ep3/blob/master/lecturas/kiewiet%2BmccubbinsAJPS1988.pdf][Presidential influence on congressional appropriations]]" 14 pp.
+- Magar, Palanza, Sin (2021) [[https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf]["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"]] 13 pp. 
+- Cameron (2000) /Veto Bargaining/
+  - cap. 1, "[[https://github.com/emagar/ep3/blob/master/lecturas/cameronCap1.pdf][Divided government and interbranch bargaining]]" 32 pp.
+  # - cap. 2, "A natural history of the veto" 35 pp.
+  - cap. 4, "[[https://github.com/emagar/ep3/blob/master/lecturas/cameronCap4.pdf][Models of veto bargaining]]" 40 pp.
+  # - cap. 5, "Explaining the patterns" 29 pp.
+  # - cap. 6, "Testing the models" 27 pp.
+- Magar (2015) "[[https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf][The veto as electoral stunt: EITM and test with subnational comparative data]]" 34 pp. (aquí el [[https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf][apéndice técnico]]).
+# * Negociación y coaliciones en regímenes parlamentarios (semanas 6 y 7)
+# - Shepsle (2010) /Analyzing Politics/, [[https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-16.pdf][cap. 16 Cabinets]] pp. 503-529.
+# - Laver y Shepsle (1990)  [[https://github.com/emagar/ep3/blob/master/lecturas/laver+shepsle1990.pdf]["Coalitions and cabinet government"]] 18 pp.
+#   - [[https://github.com/emagar/ep3/tree/master/clases/03dem-parl/winsetCalc][Winset calculator]]
+# - Bawn y Rosenbluth (2006)  [[https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf]["Short versus long coalitions"]] 15 pp.
+# - Huber (1996) [[https://github.com/emagar/ep3/blob/master/lecturas/huberConfidVoteApsr1996.pdf]["The vote of confidence in parliamentary democracies"]] 14 pp. 
+# - Heller (2001) [[https://github.com/emagar/ep3/blob/master/lecturas/hellerPolicyStickAjps2001.pdf]["Making policy stick: why government gets what it wants in multiparty Parliaments"]] 19 pp. 
+# - Austen-Smith y Banks (1988) "Elections, coalitions, and legislative outcomes" 19 pp. 
+# - Laver y Shepsle (1996) /Making and Breaking Governments/
+#  - cap. 1 "Theory, institutions, and government formation" 15 pp.
+#  - cap. 2 "The social context of government formation" 25 pp.
+#  - cap. 3 "The government formation process" 16 pp.
+#  - cap. 4 "Government equilibrium" 29 pp.
+#  - cap. 5 "Strong parties" 33 pp.
+#  - cap. 6 "Two cases: Germany 1987; Ireland 1992-3" 22 pp.
+#  - cap. 7 "Theoretical implications, data, and operationalization" 11 pp.
+#  - cap. 8 "Exploring the model: a comparative perspective" 16 pp.
+#  - cap. 9 "A multivariate investigation of portfolio allocation" 19 pp.
+# * Prueba de hipótesis y regresión lineal, un repaso (semana 10) 
+# - Shively (1974) /The Craft of Political Research/, 
+#   - cap. 7 [[https://github.com/emagar/ep3/blob/master/lecturas/shivelyRegression.pdf]["Introduction to statistics: measuring relationships for interval data"]] 22 pp.
+# - Garfias (2018) [[https://github.com/emagar/ep3/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf]["Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico"]] 19 pp.
+# *Tarea*: reconstruya el argumento deductivamente válido del paper (à la Schwartz) y resuma la evidencia que aportan las autoras en sus modelos de regresión (à la Shively).
+* Ideología (semanas 12 a 14)
+- Poole y Rosenthal (1997) /Congress/,
+  - cap. 1 [[https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCaps1y2.pdf]["The liberal/conservative structure"]] 8 pp.
+  - cap. 2 "The spatial model and Congressional voting" 16 pp.
+  - cap. 7 [[https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCap7.pdf][""Sophisticated voting and agenda manipulation"]] 20 pp.
+- Estévez, Magar y Rosas (2008) [[https://github.com/emagar/ep3/blob/master/lecturas/EstevezMagarRosasIfeElecStud2008.pdf]["Partisanship in non-partisan electoral agencies and democratic compliance: Evidence from Mexico's IFE"]] 15 pp.
+- Magar, Magaloni y Sánchez (2010) [[https://github.com/emagar/ep3/blob/master/lecturas/magar+magaloni+sanchezPaper04APSA.pdf]["No self-control: the dimensional structure of the Mexican Supreme Court"]] 22 pp. 
+- Talbert y Potoski (2002) [[https://github.com/emagar/ep3/blob/master/lecturas/talbert+potoskiAgendaJoP2002.pdf]["Setting the Legislative Agenda: The Dimensional Structure of Bill Cosponsoring and Floor Voting"]] 28 pp.
+- Converse (1964) [[https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf][The Nature of Belief Systems in Mass Publics]] 27 pp.
+* Instituciones y estabilidad (semana 15)
+- Shepsle (1979) [[https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Inst-arrangements1979ajps.pdf][Institutional arrangements and equilibrium in multidimensional voting models]] 34 pp.
+- Riker (1980) [[https://github.com/emagar/ep3/blob/master/lecturas/riker-Disequilibrium-institutions-1980apsr.pdf][Implications from the disequilibrium of majority rule for the study of institutions]] 16 pp.
+- Cox y McCubbins (1995) "Bonding, structure, and the stability of parties" 17 pp.
+- Magar (sin fecha) [[https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf]["Unidimensionalidad inducida por la estructura"]] 4 pp.
+- Miller y Schofield (2003) [[https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf]["Activists and Partisan Realignment in the United States"]] 16 pp.
+* Herestética (semana 16)
+- Shepsle (2003) [[https://github.com/emagar/ep3/blob/master/lecturas/shepsleLosersInPol2003.pdf][Losers in politics]] 9 pp.
+- Riker (1986) /The art of political manipulation/
+  - cap. 1 [[https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap1Lincoln.pdf][Lincoln at Freeport]] 9 pp.
+  - cap. 2 [[https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap2SeventeenthAmendment.pdf][Chauncey DePew and the seventeenth amendment]] 8 pp. 
+  - cap. 5 [[https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf][Heresthetics in fiction]] 13 pp. 
+  - cap. 7 [[https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf][Pliny the Younger and parliamentary law]] 11 pp. 
+# * El mercado de los votos
+# - Cox y McCubbins (1986) "Electoral politics as a redistributive game" 20 pp.
+# - Díaz Cayeros, Estévez y Magaloni (2016) /The Political Logic of Poverty Relief/
+#   - Introduction 20 pp. 
+#   - cap. 6 "Saving lives: social programs and infant mortality rates" 14 pp.
+# - Cox (2010) "Swing voters, core voters, and distributive politics" 23 pp.
+# - Nichter (2008) "Vote Buying or Turnout Buying? Machine Politics and the Secret Ballot" /American Political Science Review/ 102(1):19-31.
+* Recapitulación (semana 17)
+# * Más temas
+# * Representación política
+# - Pitkin (2004) [[https://github.com/emagar/ep3/blob/master/lecturas/pitkin2004representationAndDemocUneasyAlliance.pdf]["Representation and Democracy: Uneasy Alliance"]] 8 pp.
+# - Urbinati (2000) [[https://github.com/emagar/ep3/blob/master/lecturas/urbinati2000representationAsAdvocacy.pdf]["Representation as Advocacy"]] 22 pp. 
+# - Dion y Huber (1996) "Procedural Choice and the House Committee on Rules" 28 pp. 
+# - Alemán y Schwartz (2006) "Presidential Vetoes in Latin American Constitutions" 23 pp.
+# - Heller y Weldon (2003) "Reglas de votación y la estabilidad en la Cámara de Diputados" 35 pp.
+# - Cox y McCubbins (2005) "Agenda power in the US House of Representatives, 1877-1986" 39 pp. 
+# - Tsebelis /Veto Players/. 
+# - Morgenstern y Nacif. 
+# - Sinclair on rules (Brady+McCubbins).
+# * Bureaucracies
+# - Shepsle (2010) cap. 13
+# - Shepsle (2010) cap. 14 Leadership (PA)
+# - Shepsle (2010) cap. 15 Courts
+# - Shepsle (2010) cap. 16 Cabinets
+# - McCubbins y Schwartz
+# Plott
+# Schwartz
+# * Causalidad y método comparativo
+# - Holland "Fundamental problem of causal inference"
+# * Cuotas de género y acción afirmativa
+# - Leslie Schwindt
+# - Piscopo
+# - India
+# * La reelección consecutiva
+# - Mayhew
+# - Cain, Ferejohn y Fiorina, The personal vote
+#   - Introduction 24 pp.
+#   - cap. 1 Member visibility and member images 23 pp.
+#   - cap. 5 Unravelling a paradox 14 pp.
+# - Kerevel (2015) Pork-Barreling without Reelection? Evidence from the Mexican Congress
+# - Carson y Engstrom (2005) Assessing the Electoral Connection in the Early United States.
+# - Magar y Moreno, Reelección en Coahuila.
+# * Argumentos y validez deductiva
+# - Schwartz (1980) [[https://github.com/emagar/ep3/blob/master/lecturas/schwartzCaps1-3.pdf][The Art of Logical Reasoning (extractos)]], pp. 3-31, 133-158.
+# - Grossman y Lewis (2014) [[https://github.com/emagar/ep3/blob/master/lecturas/grossman-lewis-administrative-unit-proliferation2014apsr.pdf]["Administrative Unit Proliferation"]] 22 pp.
+# # - Bawn y Rosenbluth [[https://github.com/emagar/ep3/blob/master/lecturas/bawn+rosenbluthCoalitionSize2006ajps.pdf]["Short versus long coalitions"]] (2006)  15 pp. 
+# *Tarea*: reconstruya el argumento deductivamente válido (à la Schwartz) de Garfias y de Grossman-Lewis.
+# * Dinastías
+# - Smith (2017) Dynasties and Democracy
+#   - cap. 1 Introduction 27 pp.
+#   - cap. 2 Japan into comparative perspective 20 pp.
+#   - cap. 3 Theory of dynastic candidate selection 34 pp.
+#   - cap. 5 Inherited incumbency advantage 25 pp.
+# * Redistritación
+# - Szpiro, /Numbers Rule/ (2010)
+#   - cap. 9 The Founding Fathers 15 pp.
+#   - cap. 10 The Ivy Leaguers 31 pp.
+#   - cap. 12 The Quotarians 15 pp.
+# - Lujambio y Vives (2008) "From politics to technicalities: Mexican redistricting" 12 pp.
+# - McDonald (2008) "United States redistricting: comparative look at the 50 states" 18 pp.
+# - Johnston, Pattie y Rossiter (2008) "Electoral distortion despite redistricting by independent commissions" 20 pp.
+# - Magar et al polGeo
+# - Engstrom Partisan gerrymandering
+# * La teoría de la empresa
+# - Smith, The Wealth of Nations (extractos), pp. 33-43.  
+# - Coase, "The Nature of the Firm," pp. 72-85.  
+# - Alchian y Demsetz, "Production, Information Costs, and Economic Organization," pp. 111-134.  
+# - Fama, "Agency Problems and the Theory of the Firm," pp. 196-208.  
+# * Negociación en el Congreso estadounidense
+# - Mayhew, Congress: The Electoral Connection (1974), pp. 18-29.
+# - Shepsle y Weingast, "Institutional foundations of committee power" (1987) 20 pp. 
+# - Weingast y Marshall, "The industrial organization of Congress; or why legislatures, like firms, are not organized as markets" (1988), 31 pp. 
+# - Shepsle y Weingast, "Positive Theories of Congressional Institutions," pp. 5-36.  
+# - Hammond y Miller (1987) "The core of the constitution"
+# - Baron y Ferejohn (1989) "Bargaining in legislatures" 26 pp.
+# - Fiorina, "The Decline of Collective Responsibility in American Politics," pp. 25-44.  
+# * La delegación: piedra nodal del gobierno y de la democracia
+# - Kiewiet y McCubbins (1991) /The Logic of Delegation/,
+#   - cap. 2 "Delegation and agency problems" 17 pp.
+# - McCubbins y Schwartz (1984) "Congressional oversight overlooked: police patrols vs. fire alarms" 15 pp.  
+# - Raustiala (2004) "Police patrols and fire alarms in the NAAEC" 25 pp.
+# * Proceso legislativo
+# - Power et al Brasil.
+# - Magar, Urgencia en Chile
+# - Magar, Urgencia en Brasil
+# - Cox y Morgenstern, Proactive reactive
+# - Magar y Moraes (2008) "Facciones y legislación en Uruguay". 
+# - Palanza y Sin, veto.
+# * Decretos
+# - O'Donnell Delegative Democracy
+# - Carey y Shugart
+# - Amorim Neto en Brasil
+
+# * Coordinación electoral
+# - Cox, /Making Votes Count/ (1997)
+#   - cap. 2 Duverger's propositions 21 pp.
+#   - cap. 3 On electoral systems 32 pp.
+#   - cap. 4 Strategic voting in single-member single-ballot systems 29 pp.
+#   - cap. 5 Strategic voting in multimember systems 24 pp.
+#   - cap. 7 Some concluding comments on strategic voting 10 pp.
+#   - cap. 8 Strategic voting, party labels, and entry  24 pp.
+#   - cap. 9 Rational entry and the conservation of disproportionality: Evidence from Japan 6 pp. 
+# - Duverger, Riker, Bogdanor
