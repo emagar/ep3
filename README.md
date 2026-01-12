@@ -1,13 +1,3 @@
-- [La teoría de la elección social (semanas 1 y 2)](#org03a741d)
-- [La teoría espacial del voto (semanas 3 y 4)](#orgb472879)
-- [El control de la agenda (semanas 5 y 6)](#org68b0901)
-- [Los modelos y el método científico (semana 7)](#orgd1781ce)
-- [Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)](#orgc106c88)
-- [Ideología (semanas 12 a 14)](#orgf515899)
-- [Instituciones y estabilidad (semana 15)](#org90870a2)
-- [Herestética (semana 16)](#org30262c5)
-- [Recapitulación (semana 17)](#orgdf0c72a)
-
 ---
 
 <h2> Anuncios </h2>
@@ -45,8 +35,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-<a id="org03a741d"></a>
-
 # La teoría de la elección social (semanas 1 y 2)
 
 -   Szpiro (2010) *Numbers Rule*
@@ -62,8 +50,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-<a id="orgb472879"></a>
-
 # La teoría espacial del voto (semanas 3 y 4)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 5 Spatial models of majority rule](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-5.pdf) pp. 90-110.
@@ -72,8 +58,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Downs (1957) *[An Economic Theory of Democracy](https://github.com/emagar/ep3/blob/master/lecturas/downs-An-Economic-Theory-of-Democracy-1957.pdf)*
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
-
-<a id="org68b0901"></a>
 
 # El control de la agenda (semanas 5 y 6)
 
@@ -85,8 +69,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-<a id="orgd1781ce"></a>
-
 # Los modelos y el método científico (semana 7)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
@@ -95,8 +77,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
 -   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
 
-
-<a id="orgc106c88"></a>
 
 # Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
 
@@ -110,8 +90,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-<a id="orgf515899"></a>
-
 # Ideología (semanas 12 a 14)
 
 -   Poole y Rosenthal (1997) *Congress*,
@@ -124,8 +102,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-<a id="org90870a2"></a>
-
 # Instituciones y estabilidad (semana 15)
 
 -   Shepsle (1979) [Institutional arrangements and equilibrium in multidimensional voting models](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Inst-arrangements1979ajps.pdf) 34 pp.
@@ -134,8 +110,6 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (sin fecha) ["Unidimensionalidad inducida por la estructura"](https://github.com/emagar/ep3/blob/master/lecturas/magar-onedim02.pdf) 4 pp.
 -   Miller y Schofield (2003) ["Activists and Partisan Realignment in the United States"](https://github.com/emagar/ep3/blob/master/lecturas/miller-schofield2003apsr.pdf) 16 pp.
 
-
-<a id="org30262c5"></a>
 
 # Herestética (semana 16)
 
@@ -146,7 +120,5 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 5 [Heresthetics in fiction](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap5HerestheticsInFiction.pdf) 13 pp.
     -   cap. 7 [Pliny the Younger and parliamentary law](https://github.com/emagar/ep3/blob/master/lecturas/riker1986PolManipCap7PlinyYounger.pdf) 11 pp.
 
-
-<a id="orgdf0c72a"></a>
 
 # Recapitulación (semana 17)
