@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-01-12</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy.
+<sup><sub>2026-01-14</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
 ---
 
@@ -35,7 +35,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 ---
 
 
-# La teoría de la elección social (semanas 1 y 2)
+# La teoría de la elección social (semanas 1 a 3)
 
 -   Szpiro (2010) *Numbers Rule*
     -   [Prefacio](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch00-preface.pdf) 3 pp.
@@ -50,7 +50,16 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
-# La teoría espacial del voto (semanas 3 y 4)
+# Los modelos y el método científico (semana 4)
+
+-   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
+-   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
+
+-   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
+-   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
+
+
+# La teoría espacial del voto (semanas 5 y 6)
 
 -   Shepsle (2010) *Analyzing Politics*, [cap. 5 Spatial models of majority rule](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-5.pdf) pp. 90-110.
 -   McKelvey (1976) [Intransitivities in multidimensional voting models and some implications for agenda control](https://github.com/emagar/ep3/blob/master/lecturas/mckelvey-intransitivities-agenda-control1976jet.pdf) 12 pp.
@@ -59,7 +68,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 8 The Statics and Dynamics od Party Ideologies pp. 114-141.
 
 
-# El control de la agenda (semanas 5 y 6)
+# El control de la agenda (semanas 7 y 8)
 
 -   Washington state (sf) ["How does a school district work?"](https://github.com/emagar/ep3/blob/master/lecturas/washington-school-districts.pdf) 2 pp.
 -   Ehrenberg et al. (2004) ["Why Do School District Budget Referenda Fail?"](https://github.com/emagar/ep3/blob/master/lecturas/ehrenberg.etal-Why-school-district-referenda-fail2004eepa.pdf) 16 pp.
@@ -69,16 +78,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   cap. 2, "A theory" 29 pp.
 
 
-# Los modelos y el método científico (semana 7)
-
--   Shepsle (2010) *Analyzing Politics*, [cap. 1 It isn't rocket science, but&#x2026;](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Analyzing-politics-2nd-ed-2010-Cap-1.pdf) pp. 3-12.
--   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
-
--   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
--   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
-
-
-# Aplicaciones del modelo de manipulación de la agenda (semanas 8 y 9)
+# Aplicaciones del modelo de manipulación de la agenda (semanas 9 a 11)
 
 -   Kiewiet y McCubbins (1988) "[Presidential influence on congressional appropriations](https://github.com/emagar/ep3/blob/master/lecturas/kiewiet%2BmccubbinsAJPS1988.pdf)" 14 pp.
 -   Magar, Palanza, Sin (2021) ["Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules"](https://github.com/emagar/ep3/blob/master/lecturas/magar-etal-Pdts-fast-track2021jop.pdf) 13 pp.
@@ -90,7 +90,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Magar (2015) "[The veto as electoral stunt: EITM and test with subnational comparative data](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washU.pdf)" 34 pp. (aquí el [apéndice técnico](https://github.com/emagar/ep3/blob/master/lecturas/magar-postate04washUappendix.pdf)).
 
 
-# Ideología (semanas 12 a 14)
+# Ideología (semanas 12 y 13)
 
 -   Poole y Rosenthal (1997) *Congress*,
     -   cap. 1 ["The liberal/conservative structure"](https://github.com/emagar/ep3/blob/master/lecturas/poole+rosenthalCaps1y2.pdf) 8 pp.
@@ -102,7 +102,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Converse (1964) [The Nature of Belief Systems in Mass Publics](https://github.com/emagar/ep3/blob/master/lecturas/converseBeliefSystem1964.pdf) 27 pp.
 
 
-# Instituciones y estabilidad (semana 15)
+# Instituciones y estabilidad (semanas 14 y 15)
 
 -   Shepsle (1979) [Institutional arrangements and equilibrium in multidimensional voting models](https://github.com/emagar/ep3/blob/master/lecturas/shepsle-Inst-arrangements1979ajps.pdf) 34 pp.
 -   Riker (1980) [Implications from the disequilibrium of majority rule for the study of institutions](https://github.com/emagar/ep3/blob/master/lecturas/riker-Disequilibrium-institutions-1980apsr.pdf) 16 pp.
