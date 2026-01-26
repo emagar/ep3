@@ -47,6 +47,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
     -   Prefacio 2 pp.
     -   cap. 1 The connection between the theory of social choice and the theory of democracy 19 pp.
     -   cap. 2 Different choices from identical values 20 pp.
+    -   cap. 3 Simple majority decision 23 pp.
 -   Rodríguez Mondragón et al. (2018) [Paradojas de las nulidades electorales](https://eljuegodelacorte.nexos.com.mx/paradojas-de-las-nulidades-electorales-el-valor-negativo-del-voto) 5 pp.
 
 
