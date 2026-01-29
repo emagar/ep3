@@ -57,7 +57,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 -   Clarke y Primo (2007) ["Modernizing political science: a model-based approach"](https://github.com/emagar/ep3/blob/master/lecturas/clarke+primoModels2008.pdf) 12 pp.
 
 -   McCubbins y Thies (1996) ["Rationality and the foundations of PPT"](https://github.com/emagar/ep3/blob/master/lecturas/mcthiesRatcho31.pdf) 39 pp.
--   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp.
+-   Borges (1944) ["Funes el memorioso"](https://github.com/emagar/ep3/blob/master/lecturas/borgesFunes.pdf) 8 pp (version française [ici](https://github.com/emagar/ep3/blob/master/lecturas/borges-funes-ou-la-memoire.pdf)).
 
 
 # La teoría espacial del voto (semanas 5 y 6)
