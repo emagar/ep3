@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2026-03-09</sub></sup> Las instrucciones de los trabajos parcial y final están [aquí](https://github.com/emagar/ep3/blob/master/examenes/README.md).
+
 <sup><sub>2026-01-14</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
 ---
