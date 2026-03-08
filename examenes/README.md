@@ -21,15 +21,15 @@ Usará el *agenda setter model* para analizar algún proceso de negociación rea
 
 El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejemplos de procesos de negociación son los siguientes:
 
-1.  Marzo 2026: La reforma electoral de CSP
-2.  Febrero 2026: SCOTUS v POTUS sobre aranceles
-3.  Desde 2024: coalición minoritaria de Macron v AN francesa
-4.  Desde 2024: Milei v oposición en el Congreso argentino
-5.  La \`\`compra'' de Groenlandia
+1.  La reforma electoral de CSP (marzo 2026)
+2.  SCOTUS v POTUS sobre aranceles (febrero 2026)
+3.  Coalición minoritaria de Macron v AN francesa (desde 2024)
+4.  Milei v oposición en el Congreso argentino (desde 2024)
+5.  La "compra" de Groenlandia
 6.  Las instituciones de la Unión Europea
-7.  1939&#x2013;40: la Guerra de Invierno entre la URSS y Finlandia
+7.  La Guerra de Invierno entre la URSS y Finlandia (1939-40)
 8.  Coalición de Netanyahu v la Knesset en Israel
-9.  Marzo 2026: Anthropic v Pentágono
+9.  Anthropic v Pentágono (marzo 2026)
 
 No tiene que circunscribirse a estos casos, indague un proceso que le parezca interesante para modelarlo y sacar conclusiones.
 
