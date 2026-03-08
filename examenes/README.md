@@ -19,7 +19,7 @@ Usará el *agenda setter model* para analizar algún proceso de negociación rea
 
 # El caso de estudio
 
-El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejemplos de posibles procesos de negociación son los siguientes:
+El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejemplos de procesos de negociación son los siguientes:
 
 1.  Marzo 2026: La reforma electoral de CSP
 2.  Febrero 2026: SCOTUS v POTUS sobre aranceles
@@ -31,7 +31,7 @@ El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejempl
 8.  Coalición de Netanyahu v la Knesset en Israel
 9.  Marzo 2026: Anthropic v Pentágono
 
-No tiene que circunscribirse a estos temas, indague un proceso que le parezca interesante para modelarlo y sacar conclusiones.
+No tiene que circunscribirse a estos casos, indague un proceso que le parezca interesante para modelarlo y sacar conclusiones.
 
 Anunciará el caso de su elección el 16 de marzo en una página. Su anuncio de incluir una justificación de la decisión que tomó así como una primera formulación de la pregunta que guiará su investigación. Dos o tres párrafos claros y bien redactados son suficientes.
 
