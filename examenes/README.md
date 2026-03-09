@@ -29,7 +29,8 @@ El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejempl
 6.  Las instituciones de la Unión Europea
 7.  La Guerra de Invierno entre la URSS y Finlandia (1939-40)
 8.  Coalición de Netanyahu *vs* la Knesset en Israel
-9.  Anthropic *vs* Pentágono (marzo 2026)
+9.  Clérigos *vs* autoridades electas en la república islámica de Irán (desde 1980)
+10. Anthropic *vs* Pentágono (marzo 2026)
 
 No tiene que circunscribirse a estos casos, indague un proceso que le parezca interesante para modelarlo y sacar conclusiones.
 
