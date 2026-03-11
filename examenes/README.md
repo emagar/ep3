@@ -7,7 +7,7 @@
 
 # Fechas importantes
 
--   Anuncio y justificación del tema: 16 de marzo
+-   Anuncio y justificación del tema: `16` 18 de marzo
 -   Entrega del trabajo parcial: 6 de abril
 -   Entrega y presentación del trabajo final: el día y hora que dirección escolar nos asigne para el examen final
 
@@ -34,7 +34,7 @@ El primer paso consistirá en **seleccionar su caso de estudio**. Algunos ejempl
 
 No tiene que circunscribirse a estos casos, indague un proceso que le parezca interesante para modelarlo y sacar conclusiones.
 
-Anunciará el caso de su elección el 16 de marzo en una página. Su anuncio de incluir una justificación de la decisión que tomó así como una primera formulación de la pregunta que guiará su investigación. Dos o tres párrafos claros y bien redactados son suficientes.
+Anunciará el caso de su elección el `16` 18 de marzo en una página (tráigala físicamente a clase o mándela por email). Su anuncio debe incluir una justificación de la decisión que tomó así como una primera formulación de la pregunta que guiará su investigación. Dos o tres párrafos claros y bien redactados son suficientes.
 
 
 # El trabajo parcial
