@@ -32,7 +32,7 @@ Lunes y miércoles 8:30&#x2013;10:00, salón 308
 
 *Última clase*: miércoles 13 de mayo.
 
-*Exámenes finales*: del lunes 18 al sábado 30 de mayo.
+*Examen final*: 2025-5-27 7:00-10:00.
 
 ---
 
