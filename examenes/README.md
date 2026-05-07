@@ -4,12 +4,18 @@
 
 **Primavera 2026**
 
+Nota importante (6-5-2026) &#x2013; En virtud de que seis alumnos del grupo nunca pasaron por los comentarios que hice a su trabajo parcial, me vi en la necesidad de cambiar las reglas que publiqué en marzo pasado para la evaluación final:
+
+1.  En vez de hacer un trabajo final, evaluaré a los siguientes alumnos **sólo** con una prueba escrita y comprensiva, en clase, el día 27 de mayo de 7am a 9:45am en el salón 301: Emiliano Mendoza, Emiliano Montaño, Emilio Sánchez E., Gabino Martínez, Joaquín Gómez V. y Pedro Sanciprián. Esto es, no tienen que entregar trabajo final.
+2.  Quienes no estén listados en el punto de arriba entregarán su trabajo final conforme anuncié anteriormente. Harán también la prueba escrita para, posiblemente, acumular puntos adicionales en su calificación final.
+3.  No habrá presentaciones orales de sus trabajos finales.
+
 
 # Fechas importantes
 
 -   Anuncio y justificación del tema: <del>16</del> 18 de marzo
 -   Entrega del trabajo parcial: 6 de abril
--   Entrega y presentación del trabajo final: el día y hora que dirección escolar nos asigne para el examen final
+-   Entrega <del>y presentación</del> del trabajo final: <del>el día y hora que dirección escolar nos asigne para el examen final</del> 27 de mayo a las 7am en el salón 301.
 
 
 # Enunciado
@@ -46,7 +52,7 @@ Entregará su trabajo parcial el 6 de abril. Consistirá en un reporte breve y c
 
 # El trabajo final
 
-Estas instrucciones las detallaré después de la entrega del trabajo parcial. Además de la entrega del trabajo final, hará una breve presentación ante la clase.
+Entregará un reporte que detalle, breve y claramente, los hallazgos de su análisis del caso. Haga un esfuerzo por sintetizar las premisas de su argumento (quiénes son los actores, qué los motiva, qué representa(n) la(s) dimension(es) del espacio de negociación, etc. Incluya los diagramas e información que considere pertinentes para justificar sus supuestos y poder entender su conclusión. Si lo considera necesario, incluya un apéndice con información relevante pero de segundo orden de importancia.
 
 
 # Nota sobre la inteligencia artificial
